@@ -1,0 +1,2501 @@
+user_id,recommendation_rank,trackname,artistname,recommendation_score
+c1a6910ecac9fd5e5348326675fb6ca6,1,Divenire,Ludovico Einaudi,0.98
+c1a6910ecac9fd5e5348326675fb6ca6,2,Divenire,Ludovico Einaudi,0.98
+c1a6910ecac9fd5e5348326675fb6ca6,3,Divenire,Ludovico Einaudi,0.98
+c1a6910ecac9fd5e5348326675fb6ca6,4,Divenire,Ludovico Einaudi,0.98
+c1a6910ecac9fd5e5348326675fb6ca6,5,Mad World,Vitamin String Quartet,0.98
+c1a6910ecac9fd5e5348326675fb6ca6,6,Brand New Angel,Jeff Bridges,0.979
+c1a6910ecac9fd5e5348326675fb6ca6,7,Les professionnels,Air,0.977
+c1a6910ecac9fd5e5348326675fb6ca6,8,Slow Walker,Béla Fleck and the Flecktones,0.976
+c1a6910ecac9fd5e5348326675fb6ca6,9,New-York,Alexandra Streliski,0.975
+c1a6910ecac9fd5e5348326675fb6ca6,10,Once Upon A Time,Tugores,0.974
+59cef25640211fd1eae154a615d97374,1,A Candle's Fire,Beirut,0.883
+59cef25640211fd1eae154a615d97374,2,I Think I'm In Love,Kat Dahlia,0.882
+59cef25640211fd1eae154a615d97374,3,After The Storm,Shovels & Rope,0.873
+59cef25640211fd1eae154a615d97374,4,Birmingham,Shovels & Rope,0.873
+59cef25640211fd1eae154a615d97374,5,Antes De Ti,Manuel Carrasco,0.859
+59cef25640211fd1eae154a615d97374,6,The Suburbs,Arcade Fire,0.858
+59cef25640211fd1eae154a615d97374,7,The Suburbs,Arcade Fire,0.858
+59cef25640211fd1eae154a615d97374,8,Ingen kan köpa livet,Di Leva,0.854
+59cef25640211fd1eae154a615d97374,9,One More Time,Alison Moyet,0.849
+59cef25640211fd1eae154a615d97374,10,Oye Mujer,Aterciopelados,0.841
+f2e08a8d1ed9aa7ccf71c2242c989b5c,1,Downtown,Petula Clark,0.932
+f2e08a8d1ed9aa7ccf71c2242c989b5c,2,A New Town,Field Music,0.928
+f2e08a8d1ed9aa7ccf71c2242c989b5c,3,Insane Cowboy (In Africa),Denis Leary,0.925
+f2e08a8d1ed9aa7ccf71c2242c989b5c,4,"Flute Sonata No. 1 in B Minor, BWV 1030: I. Andante",Slovak Chamber Orchestra,0.909
+f2e08a8d1ed9aa7ccf71c2242c989b5c,5,Djan Djan,Angelique Kidjo,0.906
+f2e08a8d1ed9aa7ccf71c2242c989b5c,6,Born To Be My Baby,Bon Jovi,0.905
+f2e08a8d1ed9aa7ccf71c2242c989b5c,7,Born To Be My Baby,Bon Jovi,0.905
+f2e08a8d1ed9aa7ccf71c2242c989b5c,8,Satellite Of Love,Lou Reed,0.904
+f2e08a8d1ed9aa7ccf71c2242c989b5c,9,Again For Greenland,The Paul McKenna Band,0.899
+f2e08a8d1ed9aa7ccf71c2242c989b5c,10,Gavilan O Paloma,Miguel Gallardo,0.897
+5e7d910af42c7c57f9a500705b54cfa3,1,Soon After Christmas,Stina Nordenstam,0.974
+5e7d910af42c7c57f9a500705b54cfa3,2,Enterlude,The Killers,0.97
+5e7d910af42c7c57f9a500705b54cfa3,3,Bertie,Kate Bush,0.97
+5e7d910af42c7c57f9a500705b54cfa3,4,"So Long, Farewell",Charmian Carr,0.97
+5e7d910af42c7c57f9a500705b54cfa3,5,Bird Alone,Abbey Lincoln,0.968
+5e7d910af42c7c57f9a500705b54cfa3,6,Arrival In Nara,alt-J,0.966
+5e7d910af42c7c57f9a500705b54cfa3,7,Hur Har Du Det Med Kärleken Idag? (Hvordan Ligger Det Med Kaerlighed I Dag?),Ulla Billquist,0.966
+5e7d910af42c7c57f9a500705b54cfa3,8,All of Me - Take 2,Billie Holiday,0.965
+5e7d910af42c7c57f9a500705b54cfa3,9,Arabian Nights,Bruce Adler,0.964
+5e7d910af42c7c57f9a500705b54cfa3,10,Darlin' Cory,Burl Ives,0.962
+a52c63293070f8ff8a930bd0056dbc49,1,Criminal,Eminem,0.983
+a52c63293070f8ff8a930bd0056dbc49,2,Love Language,Reflection Eternal,0.976
+a52c63293070f8ff8a930bd0056dbc49,3,Kill You,Eminem,0.976
+a52c63293070f8ff8a930bd0056dbc49,4,Rhythm (Devoted To The Art Of Moving Butts),A Tribe Called Quest,0.976
+a52c63293070f8ff8a930bd0056dbc49,5,No Diggity,Blackstreet,0.975
+a52c63293070f8ff8a930bd0056dbc49,6,No Diggity,Blackstreet,0.975
+a52c63293070f8ff8a930bd0056dbc49,7,B-Boy Document 99,The High And Mighty,0.972
+a52c63293070f8ff8a930bd0056dbc49,8,CONCRETE SCHOOLYARD,Jurassic 5,0.971
+a52c63293070f8ff8a930bd0056dbc49,9,Gros Poissons Dans Une Petite Mare,Orelsan,0.969
+a52c63293070f8ff8a930bd0056dbc49,10,Guillotine (Swordz),Raekwon,0.968
+23b8f8001a835f8e77122894696a3b72,1,Easy,Faith No More,0.949
+23b8f8001a835f8e77122894696a3b72,2,Against All Odds (Take a Look at Me Now),Mariah Carey,0.926
+23b8f8001a835f8e77122894696a3b72,3,Against All Odds (Take a Look at Me Now),Mariah Carey,0.926
+23b8f8001a835f8e77122894696a3b72,4,Wrecking Ball,Miley Cyrus,0.923
+23b8f8001a835f8e77122894696a3b72,5,Wrecking Ball,Miley Cyrus,0.923
+23b8f8001a835f8e77122894696a3b72,6,Numb,Marina and The Diamonds,0.923
+23b8f8001a835f8e77122894696a3b72,7,Apologize,Boyce Avenue,0.92
+23b8f8001a835f8e77122894696a3b72,8,Apologize - Studio Version,Committed,0.907
+23b8f8001a835f8e77122894696a3b72,9,Llevame Al Baile,Pereza,0.903
+23b8f8001a835f8e77122894696a3b72,10,Goodbye Yellow Brick Road,Elton John,0.902
+6b91c182cd868d2a1871418f941f5d98,1,Bulletproof Love,Pierce The Veil,0.983
+6b91c182cd868d2a1871418f941f5d98,2,Round And Round,Imagine Dragons,0.982
+6b91c182cd868d2a1871418f941f5d98,3,Round And Round,Imagine Dragons,0.982
+6b91c182cd868d2a1871418f941f5d98,4,The Great Die-Off,Rise Against,0.979
+6b91c182cd868d2a1871418f941f5d98,5,"Cheer Up, Boys (Your Make Up Is Running)",Foo Fighters,0.979
+6b91c182cd868d2a1871418f941f5d98,6,Disparity By Design,Rise Against,0.976
+6b91c182cd868d2a1871418f941f5d98,7,Disparity By Design,Rise Against,0.976
+6b91c182cd868d2a1871418f941f5d98,8,Hero's Gold,Ari Koivunen,0.974
+6b91c182cd868d2a1871418f941f5d98,9,Learn to Fly,Foo Fighters,0.971
+6b91c182cd868d2a1871418f941f5d98,10,Learn to Fly,Foo Fighters,0.971
+739767db534de0be9e145138f571b123,1,De Las Dudas Infinitas,Supersubmarina,0.948
+739767db534de0be9e145138f571b123,2,Detlef Schrempf,Band of Horses,0.948
+739767db534de0be9e145138f571b123,3,Faithfully (Glee Cast Version),Glee Cast,0.945
+739767db534de0be9e145138f571b123,4,Angel of Deaf,Matt Skiba and the Sekrets,0.942
+739767db534de0be9e145138f571b123,5,Vi drar,Ansiktet,0.94
+739767db534de0be9e145138f571b123,6,Girl Laying Down,Anna Ternheim,0.939
+739767db534de0be9e145138f571b123,7,Before I Met You,Usher,0.927
+739767db534de0be9e145138f571b123,8,Rosemary,Deftones,0.926
+739767db534de0be9e145138f571b123,9,The Poison,The All-American Rejects,0.926
+739767db534de0be9e145138f571b123,10,Tether,CHVRCHES,0.925
+d2b768d78419febddb83adcaa5badf4f,1,Small Town Trap,Eve 6,0.976
+d2b768d78419febddb83adcaa5badf4f,2,C´mon Baby Yeah,Tehosekoitin,0.975
+d2b768d78419febddb83adcaa5badf4f,3,Comfort Eagle,Cake,0.969
+d2b768d78419febddb83adcaa5badf4f,4,Shudder To Think,Tegan And Sara,0.964
+d2b768d78419febddb83adcaa5badf4f,5,There Is No Cure for the Common Cold So Don't Expect a Cure for Cancer,We Are The Physics,0.962
+d2b768d78419febddb83adcaa5badf4f,6,What Is Love,Haddaway,0.961
+d2b768d78419febddb83adcaa5badf4f,7,A View To A Kill,Duran Duran,0.961
+d2b768d78419febddb83adcaa5badf4f,8,A View To A Kill,Duran Duran,0.961
+d2b768d78419febddb83adcaa5badf4f,9,A View To A Kill,Duran Duran,0.961
+d2b768d78419febddb83adcaa5badf4f,10,A View To A Kill,Duran Duran,0.961
+30930eba1582ecf41c3ad8d478a59f31,1,Monte Carlo,U.S. Royalty,0.945
+30930eba1582ecf41c3ad8d478a59f31,2,Parla,Els Pets,0.943
+30930eba1582ecf41c3ad8d478a59f31,3,Moving On,James,0.942
+30930eba1582ecf41c3ad8d478a59f31,4,Games For Days,Julian Plenti,0.94
+30930eba1582ecf41c3ad8d478a59f31,5,Games For Days,Julian Plenti,0.94
+30930eba1582ecf41c3ad8d478a59f31,6,Almost,Bowling For Soup,0.938
+30930eba1582ecf41c3ad8d478a59f31,7,For Reasons Unknown,The Killers,0.936
+30930eba1582ecf41c3ad8d478a59f31,8,All In,Lifehouse,0.936
+30930eba1582ecf41c3ad8d478a59f31,9,Life In A Beautiful Light,Amy Macdonald,0.935
+30930eba1582ecf41c3ad8d478a59f31,10,10.000 Nights,Alphabeat,0.933
+458b99cc94d81b7e74028aa3efb04b15,1,Tokyo [Mix Cut] - Original Mix,Paul Oakenfold,0.985
+458b99cc94d81b7e74028aa3efb04b15,2,CQ (Seek You) [Mix Cut] - Original Mix,EnMass,0.984
+458b99cc94d81b7e74028aa3efb04b15,3,Someone [Mix Cut] - Robert Vadney Remix,Ascension,0.976
+458b99cc94d81b7e74028aa3efb04b15,4,Tranquility [Mix Cut] - Markus Schulz Coldharbour Remix,Mark Otten,0.973
+458b99cc94d81b7e74028aa3efb04b15,5,Sirens Of The Sea,Oceanlab,0.969
+458b99cc94d81b7e74028aa3efb04b15,6,ISI,Neu!,0.968
+458b99cc94d81b7e74028aa3efb04b15,7,Waste My Time,Bullet,0.967
+458b99cc94d81b7e74028aa3efb04b15,8,Mileena's Theme,Tokimonsta,0.966
+458b99cc94d81b7e74028aa3efb04b15,9,Pencil Pimp,Sepalcure,0.965
+458b99cc94d81b7e74028aa3efb04b15,10,Ultra Curve [Mix Cut] - Original Mix,Cosmic Gate,0.965
+d70380895e209700f21a9a7ed125a6a5,1,The Bay - Erol Alkan's Extended Rework,Metronomy,0.961
+d70380895e209700f21a9a7ed125a6a5,2,Murderer,Buju Banton,0.96
+d70380895e209700f21a9a7ed125a6a5,3,Hotel Room Service,Pitbull,0.96
+d70380895e209700f21a9a7ed125a6a5,4,Piece of Me,Britney Spears,0.95
+d70380895e209700f21a9a7ed125a6a5,5,Piece of Me,Britney Spears,0.95
+d70380895e209700f21a9a7ed125a6a5,6,Steve Biko,Beenie Man,0.948
+d70380895e209700f21a9a7ed125a6a5,7,Apagado O Fuera De Cobertura,El Chojin,0.946
+d70380895e209700f21a9a7ed125a6a5,8,Technologic - Radio Edit,Daft Punk,0.943
+d70380895e209700f21a9a7ed125a6a5,9,Dalla parte di Spessotto,Vinicio Capossela,0.942
+d70380895e209700f21a9a7ed125a6a5,10,Mrs. Officer,Lil Wayne,0.942
+3a96a9517312519270b66f875c94da09,1,Best Of You,Foo Fighters,0.984
+3a96a9517312519270b66f875c94da09,2,Best Of You,Foo Fighters,0.984
+3a96a9517312519270b66f875c94da09,3,Best Of You,Foo Fighters,0.984
+3a96a9517312519270b66f875c94da09,4,Best Of You,Foo Fighters,0.984
+3a96a9517312519270b66f875c94da09,5,Best Of You,Foo Fighters,0.984
+3a96a9517312519270b66f875c94da09,6,Best Of You,Foo Fighters,0.984
+3a96a9517312519270b66f875c94da09,7,Best Of You,Foo Fighters,0.984
+3a96a9517312519270b66f875c94da09,8,Best Of You,Foo Fighters,0.984
+3a96a9517312519270b66f875c94da09,9,Best Of You,Foo Fighters,0.984
+3a96a9517312519270b66f875c94da09,10,Best Of You,Foo Fighters,0.984
+e147fa7c5484aed14d83a60e4e4a1dea,1,No Excuses,Alice In Chains,0.977
+e147fa7c5484aed14d83a60e4e4a1dea,2,Christmas (Baby Please Come Home),Michael Bublé,0.972
+e147fa7c5484aed14d83a60e4e4a1dea,3,Fire Escape,Civil Twilight,0.97
+e147fa7c5484aed14d83a60e4e4a1dea,4,Tears for Affairs,Camera Obscura,0.97
+e147fa7c5484aed14d83a60e4e4a1dea,5,Free And Easy (Down The Road I Go),Dierks Bentley,0.969
+e147fa7c5484aed14d83a60e4e4a1dea,6,Where Do Broken Hearts Go,One Direction,0.967
+e147fa7c5484aed14d83a60e4e4a1dea,7,Best Imitation Of Myself,Ben Folds Five,0.967
+e147fa7c5484aed14d83a60e4e4a1dea,8,Wake Me Up,Avicii,0.967
+e147fa7c5484aed14d83a60e4e4a1dea,9,Wake Me Up,Avicii,0.967
+e147fa7c5484aed14d83a60e4e4a1dea,10,Wake Me Up,Avicii,0.967
+d45cb229b135604d23020121ae031015,1,Theme From Psycho (Prelude),Bernard Herrmann,0.972
+d45cb229b135604d23020121ae031015,2,Falling,Florence + The Machine,0.969
+d45cb229b135604d23020121ae031015,3,Anthony & Owen,Bill Ryder-Jones,0.967
+d45cb229b135604d23020121ae031015,4,Home Again,Elton John,0.961
+d45cb229b135604d23020121ae031015,5,I Need My Girl,The National,0.96
+d45cb229b135604d23020121ae031015,6,Colorblind,Counting Crows,0.96
+d45cb229b135604d23020121ae031015,7,Moonshine Got Me,Daniel Norgren,0.957
+d45cb229b135604d23020121ae031015,8,Time Away,Denali,0.954
+d45cb229b135604d23020121ae031015,9,Farewell,Give Up The Ghost,0.953
+d45cb229b135604d23020121ae031015,10,Angel Flying Too Close To The Ground,Willie Nelson,0.953
+5483d2ea8b562e4e0f40e7fe67bd412d,1,Be Quick Or Be Dead,Iron Maiden,0.973
+5483d2ea8b562e4e0f40e7fe67bd412d,2,Broken Mirrors,Rise Against,0.966
+5483d2ea8b562e4e0f40e7fe67bd412d,3,Broken Mirrors,Rise Against,0.966
+5483d2ea8b562e4e0f40e7fe67bd412d,4,"1,000 Years",The Gaslight Anthem,0.963
+5483d2ea8b562e4e0f40e7fe67bd412d,5,Born to Run,Bruce Springsteen,0.961
+5483d2ea8b562e4e0f40e7fe67bd412d,6,Rebel Girl,Bikini Kill,0.961
+5483d2ea8b562e4e0f40e7fe67bd412d,7,Vertigo,U2,0.958
+5483d2ea8b562e4e0f40e7fe67bd412d,8,My Life for Hire,A Day To Remember,0.957
+5483d2ea8b562e4e0f40e7fe67bd412d,9,Born in the U.S.A.,Bruce Springsteen,0.955
+5483d2ea8b562e4e0f40e7fe67bd412d,10,Born in the U.S.A.,Bruce Springsteen,0.955
+b25990ae1c70933c816cf39f05f7e5db,1,The Missing Frame,AFI,0.986
+b25990ae1c70933c816cf39f05f7e5db,2,The Saddest Song,The Ataris,0.976
+b25990ae1c70933c816cf39f05f7e5db,3,War Rages On,Alex Clare,0.975
+b25990ae1c70933c816cf39f05f7e5db,4,"Calleth You, Cometh I",The Ark,0.974
+b25990ae1c70933c816cf39f05f7e5db,5,"Calleth You, Cometh I",The Ark,0.974
+b25990ae1c70933c816cf39f05f7e5db,6,Tears Keep Falling,Ari Koivunen,0.973
+b25990ae1c70933c816cf39f05f7e5db,7,Dance Our Tears Away - Radio Edit,John De Sohn,0.973
+b25990ae1c70933c816cf39f05f7e5db,8,Empty Souls,Manic Street Preachers,0.972
+b25990ae1c70933c816cf39f05f7e5db,9,The Night Out - Madeon Remix,Martin Solveig,0.97
+b25990ae1c70933c816cf39f05f7e5db,10,The Night Out - Madeon Remix,Martin Solveig,0.97
+4f8af468cc4b9ef3a1798a8470fda0c5,1,Lady,Chromatics,0.983
+4f8af468cc4b9ef3a1798a8470fda0c5,2,Team,Bon Iver,0.978
+4f8af468cc4b9ef3a1798a8470fda0c5,3,Margie's Groove,Kate Simko,0.97
+4f8af468cc4b9ef3a1798a8470fda0c5,4,The Night - Alisson & Turner Remix,Alex B. Groove,0.965
+4f8af468cc4b9ef3a1798a8470fda0c5,5,Greece 2000 - Original Mix,Three Drives On A Vinyl,0.964
+4f8af468cc4b9ef3a1798a8470fda0c5,6,She Said - Ryan Elliott Edit,Kate Simko,0.959
+4f8af468cc4b9ef3a1798a8470fda0c5,7,Interlude,The RH Factor,0.956
+4f8af468cc4b9ef3a1798a8470fda0c5,8,Sweetly,Gigi D'Agostino,0.954
+4f8af468cc4b9ef3a1798a8470fda0c5,9,Ono Soul,Thurston Moore,0.953
+4f8af468cc4b9ef3a1798a8470fda0c5,10,Ediolic Spectra,Max Cooper,0.951
+618909c4a236402fc6c88114db55bdd9,1,Story Of An Artist,Daniel Johnston,0.941
+618909c4a236402fc6c88114db55bdd9,2,La Banlieue,Beirut,0.941
+618909c4a236402fc6c88114db55bdd9,3,Almost Like Being in Love,Red Garland,0.933
+618909c4a236402fc6c88114db55bdd9,4,"Minnesota, WI",Bon Iver,0.929
+618909c4a236402fc6c88114db55bdd9,5,"Minnesota, WI",Bon Iver,0.929
+618909c4a236402fc6c88114db55bdd9,6,"Minnesota, WI",Bon Iver,0.929
+618909c4a236402fc6c88114db55bdd9,7,"Minnesota, WI",Bon Iver,0.929
+618909c4a236402fc6c88114db55bdd9,8,"Minnesota, WI",Bon Iver,0.929
+618909c4a236402fc6c88114db55bdd9,9,All Of The Lights (Interlude),Kanye West,0.926
+618909c4a236402fc6c88114db55bdd9,10,Dance Macabre,Camille Saint-Saens,0.921
+c879a716cc5b03c406bcb2c02b3f69c2,1,Aitoo Asiaa,Klamydia,0.932
+c879a716cc5b03c406bcb2c02b3f69c2,2,Janie Jones,The Clash,0.92
+c879a716cc5b03c406bcb2c02b3f69c2,3,Janie Jones,The Clash,0.92
+c879a716cc5b03c406bcb2c02b3f69c2,4,The Promise,Bruce Springsteen,0.917
+c879a716cc5b03c406bcb2c02b3f69c2,5,The Promised Land,Bruce Springsteen,0.917
+c879a716cc5b03c406bcb2c02b3f69c2,6,"Knowing Me, Knowing You",ABBA,0.916
+c879a716cc5b03c406bcb2c02b3f69c2,7,Black Diamond Bay,Bob Dylan,0.913
+c879a716cc5b03c406bcb2c02b3f69c2,8,All Right,Jim Noir,0.911
+c879a716cc5b03c406bcb2c02b3f69c2,9,Eugenin Potta,Klamydia,0.909
+c879a716cc5b03c406bcb2c02b3f69c2,10,Man Of Peace,Joe Perry,0.908
+98c2690df8be01cfc42e4d67276bcca4,1,Heartbreaker,The Walkmen,0.954
+98c2690df8be01cfc42e4d67276bcca4,2,Welcome To The Jungle,Guns N' Roses,0.951
+98c2690df8be01cfc42e4d67276bcca4,3,Welcome To The Jungle,Guns N' Roses,0.951
+98c2690df8be01cfc42e4d67276bcca4,4,Bad Blood,Black Rebel Motorcycle Club,0.947
+98c2690df8be01cfc42e4d67276bcca4,5,Ghosts (Single Edit),Ladytron,0.945
+98c2690df8be01cfc42e4d67276bcca4,6,Norge,La Habitación Roja,0.94
+98c2690df8be01cfc42e4d67276bcca4,7,Full Imperial Collapse,Darkest Hour,0.938
+98c2690df8be01cfc42e4d67276bcca4,8,War Machine,Black Rebel Motorcycle Club,0.935
+98c2690df8be01cfc42e4d67276bcca4,9,Ageless Beauty,Stars,0.93
+98c2690df8be01cfc42e4d67276bcca4,10,Sapphire,Fallujah,0.928
+559beeaa882170d8ca561ed83abeabb0,1,Money Honey,Lady Gaga,0.981
+559beeaa882170d8ca561ed83abeabb0,2,Money Honey,Lady Gaga,0.981
+559beeaa882170d8ca561ed83abeabb0,3,Over And Over,Hot Chip,0.981
+559beeaa882170d8ca561ed83abeabb0,4,Driving Me Crazy,Sammy Adams,0.981
+559beeaa882170d8ca561ed83abeabb0,5,Makes Me Wonder,Maroon 5,0.977
+559beeaa882170d8ca561ed83abeabb0,6,Drive By,Train,0.976
+559beeaa882170d8ca561ed83abeabb0,7,Drive By,Train,0.976
+559beeaa882170d8ca561ed83abeabb0,8,Oye Mujer,Aterciopelados,0.975
+559beeaa882170d8ca561ed83abeabb0,9,4th Of July (Fireworks),Kelis,0.975
+559beeaa882170d8ca561ed83abeabb0,10,Lights,Ellie Goulding,0.974
+345e741c0b3d1423b0be90172fb695a6,1,Cuando Quiero Sol,Presuntos Implicados,0.992
+345e741c0b3d1423b0be90172fb695a6,2,Lay Me Down,Sam Smith,0.989
+345e741c0b3d1423b0be90172fb695a6,3,Lay Me Down,Sam Smith,0.989
+345e741c0b3d1423b0be90172fb695a6,4,"Braid Burn Valley (Blink, Now You've Missed It)",Honeyblood,0.986
+345e741c0b3d1423b0be90172fb695a6,5,Follow Me,Ango,0.986
+345e741c0b3d1423b0be90172fb695a6,6,Same Old Same Old,The Civil Wars,0.984
+345e741c0b3d1423b0be90172fb695a6,7,No One Ever Sleeps,The Walkmen,0.983
+345e741c0b3d1423b0be90172fb695a6,8,Hide and Seek,UNC Achordants,0.981
+345e741c0b3d1423b0be90172fb695a6,9,Ales en Sang,Èric Vinaixa,0.981
+345e741c0b3d1423b0be90172fb695a6,10,Jealous,Labrinth,0.981
+5f8d3e8c4b60ebf3a7869595421bc7cf,1,Seguirillas De La Verdad - con Paco de Lucía,Estrella Morente,0.972
+5f8d3e8c4b60ebf3a7869595421bc7cf,2,It's Beginning to Look a Lot Like Christmas,Bing Crosby,0.96
+5f8d3e8c4b60ebf3a7869595421bc7cf,3,It's Beginning to Look a Lot Like Christmas,Bing Crosby,0.96
+5f8d3e8c4b60ebf3a7869595421bc7cf,4,Get Away Jordan,The Duke's Men,0.95
+5f8d3e8c4b60ebf3a7869595421bc7cf,5,Groovin' High,Cannonball Adderley,0.95
+5f8d3e8c4b60ebf3a7869595421bc7cf,6,Arcady,Peter Doherty,0.942
+5f8d3e8c4b60ebf3a7869595421bc7cf,7,To Agriolouloudo,Stélios Kazantzídis,0.941
+5f8d3e8c4b60ebf3a7869595421bc7cf,8,I Will Follow You Into The Dark,Death Cab for Cutie,0.94
+5f8d3e8c4b60ebf3a7869595421bc7cf,9,I Will Follow You Into The Dark,Death Cab for Cutie,0.94
+5f8d3e8c4b60ebf3a7869595421bc7cf,10,I Will Follow You Into The Dark,Death Cab for Cutie,0.94
+77819af0c74b704a15657c8720c7ef31,1,21 Questions,50 Cent,0.904
+77819af0c74b704a15657c8720c7ef31,2,Lovers & Mountains,Ryan Leslie,0.877
+77819af0c74b704a15657c8720c7ef31,3,Lovers & Mountains,Ryan Leslie,0.877
+77819af0c74b704a15657c8720c7ef31,4,16Bit vs PS3,Prinz Pi,0.877
+77819af0c74b704a15657c8720c7ef31,5,La Fokin Moda,Calle 13,0.876
+77819af0c74b704a15657c8720c7ef31,6,Before I Move Off,Mount Kimbie,0.867
+77819af0c74b704a15657c8720c7ef31,7,Ass Like That,Eminem,0.866
+77819af0c74b704a15657c8720c7ef31,8,Ass Like That,Eminem,0.866
+77819af0c74b704a15657c8720c7ef31,9,Everything Changed Nothing,Oddisee,0.862
+77819af0c74b704a15657c8720c7ef31,10,3 Kings,Rick Ross,0.86
+acf6e0e717a466cad8271355dcaf1270,1,Black Angels: Devil Music,George Crumb,0.934
+acf6e0e717a466cad8271355dcaf1270,2,Haru,Fennesz,0.927
+acf6e0e717a466cad8271355dcaf1270,3,Barcarolle,Jacques Offenbach,0.925
+acf6e0e717a466cad8271355dcaf1270,4,Some People Are Worth Melting For,Christophe Beck,0.921
+acf6e0e717a466cad8271355dcaf1270,5,Tonight You Belong to Me,Gene Austin,0.92
+acf6e0e717a466cad8271355dcaf1270,6,Tourniquet,Hem,0.919
+acf6e0e717a466cad8271355dcaf1270,7,Passenger Seat (Demo),Death Cab for Cutie,0.919
+acf6e0e717a466cad8271355dcaf1270,8,Rebuilding Pixie Hollow,Joel McNeely,0.918
+acf6e0e717a466cad8271355dcaf1270,9,Stuck on the puzzle (intro),Alex Turner,0.917
+acf6e0e717a466cad8271355dcaf1270,10,All Of The Lights (Interlude),Kanye West,0.916
+1d371361f74a54f318ea465706b53703,1,Get Rich to This,Goodie Mob,0.981
+1d371361f74a54f318ea465706b53703,2,Tears For The Sheep,Atmosphere,0.976
+1d371361f74a54f318ea465706b53703,3,Down In L.A. - DJ Day Remix,People Under The Stairs,0.973
+1d371361f74a54f318ea465706b53703,4,Wojny,Mesajah,0.971
+1d371361f74a54f318ea465706b53703,5,F**kin' Problems,A$AP Rocky,0.97
+1d371361f74a54f318ea465706b53703,6,F**kin' Problems,A$AP Rocky,0.97
+1d371361f74a54f318ea465706b53703,7,F**kin' Problems,A$AP Rocky,0.97
+1d371361f74a54f318ea465706b53703,8,Down In LA,People Under The Stairs,0.97
+1d371361f74a54f318ea465706b53703,9,Kill You,Eminem,0.97
+1d371361f74a54f318ea465706b53703,10,Ge oss Sverige tillbaka,Promoe,0.968
+17eea9fd7c9a61992e389467d6475c7d,1,Bird of the Summer,A Fine Frenzy,0.873
+17eea9fd7c9a61992e389467d6475c7d,2,"Oh, What A Life",American Authors,0.847
+17eea9fd7c9a61992e389467d6475c7d,3,Breaking My Own Heart,Duffy,0.844
+17eea9fd7c9a61992e389467d6475c7d,4,Do They Know It's Christmas?,Band Aid,0.843
+17eea9fd7c9a61992e389467d6475c7d,5,Do They Know It's Christmas? - 1984 Version,Band Aid,0.843
+17eea9fd7c9a61992e389467d6475c7d,6,One More Time,Alison Moyet,0.84
+17eea9fd7c9a61992e389467d6475c7d,7,The First Nöel,Whitney Houston,0.828
+17eea9fd7c9a61992e389467d6475c7d,8,Ingen kan köpa livet,Di Leva,0.827
+17eea9fd7c9a61992e389467d6475c7d,9,I Can Hew,Blackbeard's Tea Party,0.827
+17eea9fd7c9a61992e389467d6475c7d,10,I Can Hew,Blackbeard's Tea Party,0.827
+49cb65abd5d37c81f57c867b2634ab90,1,La Niña Imantada,Love of Lesbian,0.95
+49cb65abd5d37c81f57c867b2634ab90,2,La Niña Imantada,Love of Lesbian,0.95
+49cb65abd5d37c81f57c867b2634ab90,3,La Niña Imantada,Love of Lesbian,0.95
+49cb65abd5d37c81f57c867b2634ab90,4,The Perfect Crime 2,The Decemberists,0.946
+49cb65abd5d37c81f57c867b2634ab90,5,Green River,Creedence Clearwater Revival,0.943
+49cb65abd5d37c81f57c867b2634ab90,6,Green River,Creedence Clearwater Revival,0.943
+49cb65abd5d37c81f57c867b2634ab90,7,Corazón Indomable,Camela,0.943
+49cb65abd5d37c81f57c867b2634ab90,8,Et Un Ete Ancore,Après La Classe,0.936
+49cb65abd5d37c81f57c867b2634ab90,9,Lame Claim to Fame,"Weird Al"" Yankovic""",0.931
+49cb65abd5d37c81f57c867b2634ab90,10,Animal,Ke$ha,0.93
+5883ff7f19b24e13b1256c963b64d085,1,Dirty Little Girl - Remastered 2014,Elton John,0.98
+5883ff7f19b24e13b1256c963b64d085,2,You Might Think,The Cars,0.977
+5883ff7f19b24e13b1256c963b64d085,3,Cruz De Sal,Aterciopelados,0.975
+5883ff7f19b24e13b1256c963b64d085,4,Club de fans de John Boy,Love of Lesbian,0.974
+5883ff7f19b24e13b1256c963b64d085,5,Club de fans de John Boy,Love of Lesbian,0.974
+5883ff7f19b24e13b1256c963b64d085,6,Club de fans de John Boy,Love of Lesbian,0.974
+5883ff7f19b24e13b1256c963b64d085,7,I Love It (Radio Edit),New Music Masters,0.972
+5883ff7f19b24e13b1256c963b64d085,8,Death or Glory,The Clash,0.971
+5883ff7f19b24e13b1256c963b64d085,9,Death or Glory,The Clash,0.971
+5883ff7f19b24e13b1256c963b64d085,10,Cheney,Pony Bravo,0.971
+202373bbe96c94797159aa22f8bbc147,1,Ela Navega,Allah-Las,0.981
+202373bbe96c94797159aa22f8bbc147,2,Sightless Brightness - Permanent Vacation Edit,Contra Communem Opinionem,0.973
+202373bbe96c94797159aa22f8bbc147,3,FRDM,Mark Wundercastle,0.968
+202373bbe96c94797159aa22f8bbc147,4,Behind The Wheel,Depeche Mode,0.964
+202373bbe96c94797159aa22f8bbc147,5,Behind The Wheel,Depeche Mode,0.964
+202373bbe96c94797159aa22f8bbc147,6,Deadly Doris,Can,0.964
+202373bbe96c94797159aa22f8bbc147,7,Big Decision - Live,That Petrol Emotion,0.961
+202373bbe96c94797159aa22f8bbc147,8,Laces,Auscultation,0.96
+202373bbe96c94797159aa22f8bbc147,9,Open Our Eyes [Mix Cut] - Original Mix,Insigma,0.959
+202373bbe96c94797159aa22f8bbc147,10,Blueberry [Mix Cut] - Original Mix,Probspot,0.957
+280a16196f7488a8d4dab22b58b00e45,1,Ghost Girl,Telepopmusik,0.867
+280a16196f7488a8d4dab22b58b00e45,2,Angel Is Broken,Atlas Sound,0.851
+280a16196f7488a8d4dab22b58b00e45,3,Angel Is Broken,Atlas Sound,0.851
+280a16196f7488a8d4dab22b58b00e45,4,"Efter skimret, efter snön",Jonathan Johansson,0.847
+280a16196f7488a8d4dab22b58b00e45,5,Dance With Me,Jackiem Joyner,0.842
+280a16196f7488a8d4dab22b58b00e45,6,Socker,Kent,0.837
+280a16196f7488a8d4dab22b58b00e45,7,Danger! High Voltage,Electric Six,0.827
+280a16196f7488a8d4dab22b58b00e45,8,Beautiful People,Mikro,0.814
+280a16196f7488a8d4dab22b58b00e45,9,Damaged Goods,Yeasayer,0.809
+280a16196f7488a8d4dab22b58b00e45,10,Töntarna Punks Jump Up Remix,Kent,0.806
+f444c9662cb624e5219c43f5d5f394b1,1,"For The Widows In Paradise, For The Fatherless In Ypsilanti",Sufjan Stevens,0.985
+f444c9662cb624e5219c43f5d5f394b1,2,Ludlow Massacre,Woody Guthrie,0.946
+f444c9662cb624e5219c43f5d5f394b1,3,Sunflower,Lee Konitz,0.932
+f444c9662cb624e5219c43f5d5f394b1,4,I Proti Agapi Sou Ime Ego,Stélios Kazantzídis,0.93
+f444c9662cb624e5219c43f5d5f394b1,5,Do-Re-Mi,Julie Andrews,0.928
+f444c9662cb624e5219c43f5d5f394b1,6,"Opia Ke Na 'Se (O,ti Agapao Ego Petheni)",Stélios Kazantzídis,0.927
+f444c9662cb624e5219c43f5d5f394b1,7,Hold On,Tom Waits,0.922
+f444c9662cb624e5219c43f5d5f394b1,8,Johnny Get Angry,Joanie Sommers,0.92
+f444c9662cb624e5219c43f5d5f394b1,9,16 Candles,The Crests,0.919
+f444c9662cb624e5219c43f5d5f394b1,10,"La cheminee du roi Rene, Op. 205: VI. Chasse a Valabre",Darius Milhaud,0.919
+a603705f6ec174fbcf0bf2b4e956d2d6,1,I Need A Life,Born Ruffians,0.97
+a603705f6ec174fbcf0bf2b4e956d2d6,2,Monks,Frank Ocean,0.97
+a603705f6ec174fbcf0bf2b4e956d2d6,3,Monks,Frank Ocean,0.97
+a603705f6ec174fbcf0bf2b4e956d2d6,4,Monks,Frank Ocean,0.97
+a603705f6ec174fbcf0bf2b4e956d2d6,5,My Baby,Lil' Romeo,0.964
+a603705f6ec174fbcf0bf2b4e956d2d6,6,Drop A Gem On 'Em,Mobb Deep,0.961
+a603705f6ec174fbcf0bf2b4e956d2d6,7,ATLiens,OutKast,0.953
+a603705f6ec174fbcf0bf2b4e956d2d6,8,ATLiens,OutKast,0.953
+a603705f6ec174fbcf0bf2b4e956d2d6,9,NUITS FAUVES,Fauve,0.943
+a603705f6ec174fbcf0bf2b4e956d2d6,10,Business,Eminem,0.942
+3da542f7fb97eccc84d739bef4d817d7,1,Ego Tripping Out - Single Version,Marvin Gaye,0.978
+3da542f7fb97eccc84d739bef4d817d7,2,Little Darling (I Need You),Marvin Gaye,0.978
+3da542f7fb97eccc84d739bef4d817d7,3,Cold Sweat,James Brown,0.963
+3da542f7fb97eccc84d739bef4d817d7,4,The King of Rock 'N' Roll,Prefab Sprout,0.96
+3da542f7fb97eccc84d739bef4d817d7,5,Decidí Vivir Sin Ti,Corazon Serrano,0.959
+3da542f7fb97eccc84d739bef4d817d7,6,Feeling Without Touching,Glass Candy,0.95
+3da542f7fb97eccc84d739bef4d817d7,7,BRANDY,Looking Glass,0.949
+3da542f7fb97eccc84d739bef4d817d7,8,Love Letter To Japan,the bird and the bee,0.946
+3da542f7fb97eccc84d739bef4d817d7,9,Dr. Beat,Miami Sound Machine,0.946
+3da542f7fb97eccc84d739bef4d817d7,10,Dr. Beat,Miami Sound Machine,0.946
+c514eb775b61cb91f26b19d54c4293db,1,Symphony In Blue,Kate Bush,0.96
+c514eb775b61cb91f26b19d54c4293db,2,How About You,Frank Sinatra,0.96
+c514eb775b61cb91f26b19d54c4293db,3,County Line,Cass McCombs,0.959
+c514eb775b61cb91f26b19d54c4293db,4,Jolene,Ray LaMontagne,0.958
+c514eb775b61cb91f26b19d54c4293db,5,Jolene,Ray LaMontagne,0.958
+c514eb775b61cb91f26b19d54c4293db,6,Jolene,Ray LaMontagne,0.958
+c514eb775b61cb91f26b19d54c4293db,7,Christmas Must Be Tonight,Bahamas,0.957
+c514eb775b61cb91f26b19d54c4293db,8,Shut Out The Light,Bruce Springsteen,0.952
+c514eb775b61cb91f26b19d54c4293db,9,Play Crack the Sky,Brand New,0.952
+c514eb775b61cb91f26b19d54c4293db,10,Play Crack the Sky,Brand New,0.952
+985142c04d9d12e568d4bf59faabdda3,1,Tik Tok - Tik Tok,Kesha,0.955
+985142c04d9d12e568d4bf59faabdda3,2,W.T.P.,Eminem,0.945
+985142c04d9d12e568d4bf59faabdda3,3,Bad Boy Lick A New Shot (Jungle Bullet),Beenie Man & Ninja Ford,0.938
+985142c04d9d12e568d4bf59faabdda3,4,Girls Dem Sugar,Beenie Man,0.938
+985142c04d9d12e568d4bf59faabdda3,5,Bangarang (feat. Sirah),Skrillex,0.934
+985142c04d9d12e568d4bf59faabdda3,6,Cortaron Che Asas (Bonus Track),Che Sudaka,0.933
+985142c04d9d12e568d4bf59faabdda3,7,Seen It All,Jeezy,0.929
+985142c04d9d12e568d4bf59faabdda3,8,Blend dom,The Latin Kings,0.927
+985142c04d9d12e568d4bf59faabdda3,9,Bouger Bouger,Magic System,0.926
+985142c04d9d12e568d4bf59faabdda3,10,There She Goes,Taio Cruz,0.926
+0a23db1a2ac67ccc0b7a04690f657fd4,1,Goin' to the Party,Alabama Shakes,0.955
+0a23db1a2ac67ccc0b7a04690f657fd4,2,Slipknot,Woody Guthrie,0.94
+0a23db1a2ac67ccc0b7a04690f657fd4,3,New York Telephone Conversation,Lou Reed,0.929
+0a23db1a2ac67ccc0b7a04690f657fd4,4,Got A Ukulele,Loudon Wainwright III,0.926
+0a23db1a2ac67ccc0b7a04690f657fd4,5,Alma Mater,The Dartmouth Aires,0.925
+0a23db1a2ac67ccc0b7a04690f657fd4,6,I Love My Dad,Sun Kil Moon,0.922
+0a23db1a2ac67ccc0b7a04690f657fd4,7,"Gnè, Gnè",Giorgio Conte,0.918
+0a23db1a2ac67ccc0b7a04690f657fd4,8,Vissen (Duet Piet Römer),Andre Hazes,0.917
+0a23db1a2ac67ccc0b7a04690f657fd4,9,Baby It's Cold Outside,Ella Fitzgerald,0.914
+0a23db1a2ac67ccc0b7a04690f657fd4,10,Gangnam Style,Jayesslee,0.913
+2734eb3678a0c05dbac4d342d76fd91f,1,Saccosäck,Tjuvjakt,0.965
+2734eb3678a0c05dbac4d342d76fd91f,2,So What,Field Mob,0.962
+2734eb3678a0c05dbac4d342d76fd91f,3,Sleigh Ride,Barenaked Ladies,0.947
+2734eb3678a0c05dbac4d342d76fd91f,4,Wciaz to samo,Natural Dread Killaz,0.946
+2734eb3678a0c05dbac4d342d76fd91f,5,Dangerous,Busta Rhymes,0.946
+2734eb3678a0c05dbac4d342d76fd91f,6,Electric Avenue,The E.A.,0.945
+2734eb3678a0c05dbac4d342d76fd91f,7,Where Brooklyn At (Remix),Bekay,0.945
+2734eb3678a0c05dbac4d342d76fd91f,8,Iko Iko,The Dixie Cups,0.939
+2734eb3678a0c05dbac4d342d76fd91f,9,The Message,Grandmaster Flash & The Furious Five feat. Melle Mel & Duke Bootee,0.937
+2734eb3678a0c05dbac4d342d76fd91f,10,One Tribe,Black Eyed Peas,0.937
+dc3552afc4914788115fa9e2c08f051e,1,Scream,Avenged Sevenfold,0.973
+dc3552afc4914788115fa9e2c08f051e,2,Bloodlines,Arkells,0.973
+dc3552afc4914788115fa9e2c08f051e,3,Shut Up and Dance,Walk the Moon,0.972
+dc3552afc4914788115fa9e2c08f051e,4,All In,Lifehouse,0.968
+dc3552afc4914788115fa9e2c08f051e,5,Missionary Man,Eurythmics,0.967
+dc3552afc4914788115fa9e2c08f051e,6,Missionary Man,Eurythmics,0.967
+dc3552afc4914788115fa9e2c08f051e,7,Missionary Man,Eurythmics,0.967
+dc3552afc4914788115fa9e2c08f051e,8,Almost,Bowling For Soup,0.965
+dc3552afc4914788115fa9e2c08f051e,9,"Cuando nada, vale nada",Soziedad Alkoholika,0.964
+dc3552afc4914788115fa9e2c08f051e,10,Applause - DJ White Shadow Trap Remix,Lady Gaga,0.963
+5cc9f815f0f6c817af0fd9ed26d5ae8f,1,Planet Jupiter,Nicola Campanella,0.985
+5cc9f815f0f6c817af0fd9ed26d5ae8f,2,Margie's Groove,Kate Simko,0.981
+5cc9f815f0f6c817af0fd9ed26d5ae8f,3,The Night - Alisson & Turner Remix,Alex B. Groove,0.977
+5cc9f815f0f6c817af0fd9ed26d5ae8f,4,All Night (Parov Stelar Remix),Parov Stelar,0.977
+5cc9f815f0f6c817af0fd9ed26d5ae8f,5,Blau Kick,Kollektiv Turmstrasse,0.973
+5cc9f815f0f6c817af0fd9ed26d5ae8f,6,Greece 2000 - Original Mix,Three Drives On A Vinyl,0.973
+5cc9f815f0f6c817af0fd9ed26d5ae8f,7,A Photograph of You,Marsheaux,0.968
+5cc9f815f0f6c817af0fd9ed26d5ae8f,8,Ace,Via App,0.965
+5cc9f815f0f6c817af0fd9ed26d5ae8f,9,Greece 2000,Three Drives On A Vinyl,0.964
+5cc9f815f0f6c817af0fd9ed26d5ae8f,10,Arquipelago,Gui Boratto,0.963
+8cabb3676c585a68bc3dd740ff8ac54d,1,Full Imperial Collapse,Darkest Hour,0.969
+8cabb3676c585a68bc3dd740ff8ac54d,2,Whirring,The Joy Formidable,0.947
+8cabb3676c585a68bc3dd740ff8ac54d,3,Broken Boy Soldier,The Raconteurs,0.943
+8cabb3676c585a68bc3dd740ff8ac54d,4,Broken Boy Soldier,The Raconteurs,0.943
+8cabb3676c585a68bc3dd740ff8ac54d,5,Goodbye,Best Coast,0.938
+8cabb3676c585a68bc3dd740ff8ac54d,6,Down,Fuel,0.937
+8cabb3676c585a68bc3dd740ff8ac54d,7,IFUCKINGLOVEYOU,Big Black Delta,0.936
+8cabb3676c585a68bc3dd740ff8ac54d,8,7-Hour-Drive,The Notwist,0.932
+8cabb3676c585a68bc3dd740ff8ac54d,9,Phoenix,Wolfmother,0.929
+8cabb3676c585a68bc3dd740ff8ac54d,10,Bring It On Down,Oasis,0.92
+2f7fdae0a3f47e35121fc77dd029f752,1,The Kilburn High Road,Flogging Molly,0.983
+2f7fdae0a3f47e35121fc77dd029f752,2,Flagpole Sitta,Harvey Danger,0.98
+2f7fdae0a3f47e35121fc77dd029f752,3,The View From The Afternoon,Arctic Monkeys,0.974
+2f7fdae0a3f47e35121fc77dd029f752,4,Turn The Other Way,Avenged Sevenfold,0.969
+2f7fdae0a3f47e35121fc77dd029f752,5,Lollipop,Framing Hanley,0.969
+2f7fdae0a3f47e35121fc77dd029f752,6,The Saddest Song,The Ataris,0.967
+2f7fdae0a3f47e35121fc77dd029f752,7,Good Things,Rival Schools,0.967
+2f7fdae0a3f47e35121fc77dd029f752,8,Post Break-Up Sex,The Vaccines,0.967
+2f7fdae0a3f47e35121fc77dd029f752,9,Candyman,Siouxsie And The Banshees,0.962
+2f7fdae0a3f47e35121fc77dd029f752,10,Best Of You,Foo Fighters,0.96
+37e36cdbcf40d5fe6376acdcba0a8a80,1,Asylum,Dead Soul,0.991
+37e36cdbcf40d5fe6376acdcba0a8a80,2,Another day,Air,0.967
+37e36cdbcf40d5fe6376acdcba0a8a80,3,Kohtalon oma,Chisu,0.964
+37e36cdbcf40d5fe6376acdcba0a8a80,4,'Inviolable',Clubroot,0.962
+37e36cdbcf40d5fe6376acdcba0a8a80,5,Necrology,The Cinematic Orchestra,0.959
+37e36cdbcf40d5fe6376acdcba0a8a80,6,Shield & Sword,Active Child,0.956
+37e36cdbcf40d5fe6376acdcba0a8a80,7,Gravity well - Original Mix,Max Cooper,0.956
+37e36cdbcf40d5fe6376acdcba0a8a80,8,'Faith In Her',Clubroot,0.954
+37e36cdbcf40d5fe6376acdcba0a8a80,9,Midnight,Coldplay,0.95
+37e36cdbcf40d5fe6376acdcba0a8a80,10,Midnight,Coldplay,0.95
+59a379ecda414459c5ead902ff1ea04e,1,"Yes Sir, I Can Boogie",Count Dee's Silver Disco Explosion,0.966
+59a379ecda414459c5ead902ff1ea04e,2,Missionary Man,Eurythmics,0.965
+59a379ecda414459c5ead902ff1ea04e,3,Missionary Man,Eurythmics,0.965
+59a379ecda414459c5ead902ff1ea04e,4,Missionary Man,Eurythmics,0.965
+59a379ecda414459c5ead902ff1ea04e,5,Til I Forget About You,Big Time Rush,0.962
+59a379ecda414459c5ead902ff1ea04e,6,Breaking Up,Charli XCX,0.957
+59a379ecda414459c5ead902ff1ea04e,7,Shut Up and Dance,Walk the Moon,0.956
+59a379ecda414459c5ead902ff1ea04e,8,Scream,Usher,0.955
+59a379ecda414459c5ead902ff1ea04e,9,The Other Side,Jason Derulo,0.951
+59a379ecda414459c5ead902ff1ea04e,10,"Cuando nada, vale nada",Soziedad Alkoholika,0.948
+94815de8379b08310568eca651ec8609,1,Reach Out Richard,Mayer Hawthorne,0.962
+94815de8379b08310568eca651ec8609,2,Little Darling (I Need You),Marvin Gaye,0.96
+94815de8379b08310568eca651ec8609,3,Proud Mary,Creedence Clearwater Revival,0.956
+94815de8379b08310568eca651ec8609,4,Proud Mary,Creedence Clearwater Revival,0.956
+94815de8379b08310568eca651ec8609,5,Ego Tripping Out - Single Version,Marvin Gaye,0.956
+94815de8379b08310568eca651ec8609,6,La rosa dei venti,Baciamolemani,0.955
+94815de8379b08310568eca651ec8609,7,Ventura Highway,America,0.954
+94815de8379b08310568eca651ec8609,8,Feeling Without Touching,Glass Candy,0.951
+94815de8379b08310568eca651ec8609,9,Somebody's Watching Me,Rockwell,0.95
+94815de8379b08310568eca651ec8609,10,Leftovers,No Doubt,0.949
+c91b89826aee5f4f597f258079e86c33,1,Have Yourself A Merry Little Christmas - Have Yourself A Merry Little Christmas,Judy Garland,0.966
+c91b89826aee5f4f597f258079e86c33,2,Revitalize,Music For Absolute Sleep,0.958
+c91b89826aee5f4f597f258079e86c33,3,Berlin,Lou Reed,0.955
+c91b89826aee5f4f597f258079e86c33,4,Wow,Kate Bush,0.955
+c91b89826aee5f4f597f258079e86c33,5,Calling My Children Home,The Dartmouth Aires,0.953
+c91b89826aee5f4f597f258079e86c33,6,Let's Go Swimming,Arthur Russell,0.951
+c91b89826aee5f4f597f258079e86c33,7,Colour Me In,Damien Rice,0.95
+c91b89826aee5f4f597f258079e86c33,8,Colour Me In,Damien Rice,0.95
+c91b89826aee5f4f597f258079e86c33,9,Track 12,I Can Make A Mess,0.95
+c91b89826aee5f4f597f258079e86c33,10,Prelude and The Sound Of Music,Irwin Kostal,0.95
+12eb98688a6b38b36c285d76a89c4715,1,Earth Intruders - XXXChange Remix,Björk,0.983
+12eb98688a6b38b36c285d76a89c4715,2,Express Yourself - Extended Mix,N.W.A.,0.978
+12eb98688a6b38b36c285d76a89c4715,3,Salta Galera,Che Sudaka,0.976
+12eb98688a6b38b36c285d76a89c4715,4,Full Clip,Gang Starr,0.972
+12eb98688a6b38b36c285d76a89c4715,5,B-Boy Document 99,The High And Mighty,0.971
+12eb98688a6b38b36c285d76a89c4715,6,Defeated No More,Disclosure,0.971
+12eb98688a6b38b36c285d76a89c4715,7,Defeated No More,Disclosure,0.971
+12eb98688a6b38b36c285d76a89c4715,8,Guillotine (Swordz),Raekwon,0.97
+12eb98688a6b38b36c285d76a89c4715,9,Art Of Facts - LP Dirty Version,Artifacts,0.967
+12eb98688a6b38b36c285d76a89c4715,10,Down In LA,People Under The Stairs,0.963
+b90e5d6c4d0f5b607e16795687f0f3c2,1,East Nashville Robbery,Bobby Osborne,0.918
+b90e5d6c4d0f5b607e16795687f0f3c2,2,Sans Soleil,Miike Snow,0.883
+b90e5d6c4d0f5b607e16795687f0f3c2,3,Sans Soleil,Miike Snow,0.883
+b90e5d6c4d0f5b607e16795687f0f3c2,4,Reality And Fantasy - Gilles Peterson Remix,Raphael Gualazzi,0.882
+b90e5d6c4d0f5b607e16795687f0f3c2,5,Rio Ancho - Instrumental,Paco De Lucia,0.88
+b90e5d6c4d0f5b607e16795687f0f3c2,6,"Corrina, Corrina",Pete Townshend,0.878
+b90e5d6c4d0f5b607e16795687f0f3c2,7,Love Thine Enemy,Cass McCombs,0.875
+b90e5d6c4d0f5b607e16795687f0f3c2,8,Make Love,Daft Punk,0.868
+b90e5d6c4d0f5b607e16795687f0f3c2,9,Minor Swing,Barney Wilen,0.865
+b90e5d6c4d0f5b607e16795687f0f3c2,10,Clockwork,Bit Brigade,0.859
+b09385449a725763f3d25aa65be95daa,1,Changed The Way You Kiss Me - Extended Mix,Example,0.97
+b09385449a725763f3d25aa65be95daa,2,Iris,Live,0.955
+b09385449a725763f3d25aa65be95daa,3,Elephant Stone - Remastered,The Stone Roses,0.952
+b09385449a725763f3d25aa65be95daa,4,Powerslave,Iron Maiden,0.947
+b09385449a725763f3d25aa65be95daa,5,Smile Like You Mean It,The Killers,0.94
+b09385449a725763f3d25aa65be95daa,6,w.a.m.s.,Fall Out Boy,0.939
+b09385449a725763f3d25aa65be95daa,7,Footprint,Xavier Rudd,0.936
+b09385449a725763f3d25aa65be95daa,8,Daddy's Eyes,The Killers,0.932
+b09385449a725763f3d25aa65be95daa,9,Lost In Space,Misfits,0.931
+b09385449a725763f3d25aa65be95daa,10,Best Of You,Foo Fighters,0.928
+76f597750e6af3e9017a7c1f60c5de7e,1,Det var en gång en fågel,Laser Inc.,0.935
+76f597750e6af3e9017a7c1f60c5de7e,2,Dig,Mudvayne,0.924
+76f597750e6af3e9017a7c1f60c5de7e,3,I Don't Like You - Nicky Romero Remix,Eva Simons,0.924
+76f597750e6af3e9017a7c1f60c5de7e,4,United We Are,Hardwell,0.922
+76f597750e6af3e9017a7c1f60c5de7e,5,Fall,The Presets,0.915
+76f597750e6af3e9017a7c1f60c5de7e,6,Sally,Hardwell,0.914
+76f597750e6af3e9017a7c1f60c5de7e,7,Drunk All the Time,Dillon Francis,0.908
+76f597750e6af3e9017a7c1f60c5de7e,8,Ready to Go,Republica,0.904
+76f597750e6af3e9017a7c1f60c5de7e,9,Titanium (feat. Sia),David Guetta,0.902
+76f597750e6af3e9017a7c1f60c5de7e,10,Deep Six,Marilyn Manson,0.899
+439d228c8ba2f6685e3580683c31a4a9,1,Bitch - Skit,Eminem,0.973
+439d228c8ba2f6685e3580683c31a4a9,2,Gorillaz Are Ten - Spotify Radio Show 2 (5),Gorillaz,0.97
+439d228c8ba2f6685e3580683c31a4a9,3,Gorillaz Are Ten - Spotify Radio Show 3 (11),Gorillaz,0.969
+439d228c8ba2f6685e3580683c31a4a9,4,Funeral Home,Daniel Johnston,0.969
+439d228c8ba2f6685e3580683c31a4a9,5,Minibar,Mitch Hedberg,0.969
+439d228c8ba2f6685e3580683c31a4a9,6,Gorillaz Are Ten - Spotify Radio Show 3 (2),Gorillaz,0.967
+439d228c8ba2f6685e3580683c31a4a9,7,Gorillaz Are Ten - Spotify Radio Show 2 (3),Gorillaz,0.967
+439d228c8ba2f6685e3580683c31a4a9,8,Stardate,Deltron 3030,0.967
+439d228c8ba2f6685e3580683c31a4a9,9,Dry Clean Only,Mitch Hedberg,0.963
+439d228c8ba2f6685e3580683c31a4a9,10,Mexicans,Amy Schumer,0.961
+10e5fe6f9c4b7f35e4bdb624df665d98,1,Shambala,Beastie Boys,0.966
+10e5fe6f9c4b7f35e4bdb624df665d98,2,Miasma Sky,Baths,0.96
+10e5fe6f9c4b7f35e4bdb624df665d98,3,Maze,Actress,0.959
+10e5fe6f9c4b7f35e4bdb624df665d98,4,Mainhattan Memories - Serve Chilled Version,Matthew Kramer,0.953
+10e5fe6f9c4b7f35e4bdb624df665d98,5,Arpeggiated Love,The Field,0.95
+10e5fe6f9c4b7f35e4bdb624df665d98,6,Cat's Eyes,Cat's Eyes,0.948
+10e5fe6f9c4b7f35e4bdb624df665d98,7,Before Life,Electric Youth,0.944
+10e5fe6f9c4b7f35e4bdb624df665d98,8,Talisman,Air,0.942
+10e5fe6f9c4b7f35e4bdb624df665d98,9,Giant Steps,Tommy Flanagan,0.942
+10e5fe6f9c4b7f35e4bdb624df665d98,10,I Met You On BC Ferries,LNRDCROY,0.94
+66e63ccc8550da29169213d7dc0d90ce,1,In These Arms,Bon Jovi,0.979
+66e63ccc8550da29169213d7dc0d90ce,2,In These Arms,Bon Jovi,0.979
+66e63ccc8550da29169213d7dc0d90ce,3,Eyes-Radio-Lies,Orgy,0.976
+66e63ccc8550da29169213d7dc0d90ce,4,Out Alive,Ke$ha,0.975
+66e63ccc8550da29169213d7dc0d90ce,5,Heartbreak Dream,Betty Who,0.97
+66e63ccc8550da29169213d7dc0d90ce,6,Friend (Hard Times),Galantis,0.969
+66e63ccc8550da29169213d7dc0d90ce,7,Om sanningen ska fram (Vill du ligga med mig?) - Clubedit Radio,Eric Amarillo,0.967
+66e63ccc8550da29169213d7dc0d90ce,8,Work,Jimmy Eat World,0.966
+66e63ccc8550da29169213d7dc0d90ce,9,Ten Feet Tall,Afrojack,0.965
+66e63ccc8550da29169213d7dc0d90ce,10,Ten Feet Tall,Afrojack,0.965
+4196c501541cf69a35fabbe7eab83fa7,1,Scream,Usher,0.975
+4196c501541cf69a35fabbe7eab83fa7,2,Area51,Hardwell,0.968
+4196c501541cf69a35fabbe7eab83fa7,3,Edgecrusher,Fear Factory,0.965
+4196c501541cf69a35fabbe7eab83fa7,4,Bodies,Drowning Pool,0.958
+4196c501541cf69a35fabbe7eab83fa7,5,Bodies,Drowning Pool,0.958
+4196c501541cf69a35fabbe7eab83fa7,6,Bodies,Drowning Pool,0.958
+4196c501541cf69a35fabbe7eab83fa7,7,Bad Romance (Glee Cast Version),Glee Cast,0.953
+4196c501541cf69a35fabbe7eab83fa7,8,Darkness Into Light,Matisyahu,0.946
+4196c501541cf69a35fabbe7eab83fa7,9,"Cuando nada, vale nada",Soziedad Alkoholika,0.946
+4196c501541cf69a35fabbe7eab83fa7,10,Double Vision - Wiz Khalifa Mix,3OH!3,0.945
+2e9917ba1822c833f791b6e205b70cec,1,Whiskey In The Jar,Metallica,0.992
+2e9917ba1822c833f791b6e205b70cec,2,Whiskey In The Jar,Metallica,0.992
+2e9917ba1822c833f791b6e205b70cec,3,Whiskey In The Jar,Metallica,0.992
+2e9917ba1822c833f791b6e205b70cec,4,Shelter Song,Temples,0.99
+2e9917ba1822c833f791b6e205b70cec,5,First Time,Lifehouse,0.98
+2e9917ba1822c833f791b6e205b70cec,6,Careless Whisper - String Version,Seether,0.979
+2e9917ba1822c833f791b6e205b70cec,7,Bring Her Down (To Crippletown),Rob Zombie,0.974
+2e9917ba1822c833f791b6e205b70cec,8,"Cheer Up, Boys (Your Make Up Is Running)",Foo Fighters,0.972
+2e9917ba1822c833f791b6e205b70cec,9,Kill,Jimmy Eat World,0.971
+2e9917ba1822c833f791b6e205b70cec,10,In These Arms,Bon Jovi,0.971
+fdfe4b21749916357d3a9738db4e5879,1,Any Day Will Do Fine,Michael Kiwanuka,0.954
+fdfe4b21749916357d3a9738db4e5879,2,The Angel And The Little Blue Bell,Brenda Lee,0.953
+fdfe4b21749916357d3a9738db4e5879,3,Blue Christmas,Brenda Lee,0.953
+fdfe4b21749916357d3a9738db4e5879,4,I Have A Dream,ABBA,0.948
+fdfe4b21749916357d3a9738db4e5879,5,Nicest Thing,Kate Nash,0.948
+fdfe4b21749916357d3a9738db4e5879,6,Nihterides Ki Arahnes,Stélios Kazantzídis,0.935
+fdfe4b21749916357d3a9738db4e5879,7,Mary's Boy Child,Vera Lynn,0.934
+fdfe4b21749916357d3a9738db4e5879,8,Donna,Ritchie Valens,0.933
+fdfe4b21749916357d3a9738db4e5879,9,Christmas Is A Feeling In Your Heart - Christmas Is A Feeling In Your Heart,Andy Williams,0.933
+fdfe4b21749916357d3a9738db4e5879,10,Redemption Day,Johnny Cash,0.931
+c48f64453d55d9071ea00f105fe5a231,1,Troubleman,Electric Guest,0.982
+c48f64453d55d9071ea00f105fe5a231,2,Broken,Jake Bugg,0.956
+c48f64453d55d9071ea00f105fe5a231,3,Broken,Jake Bugg,0.956
+c48f64453d55d9071ea00f105fe5a231,4,Broken,Jake Bugg,0.956
+c48f64453d55d9071ea00f105fe5a231,5,The Poison,The All-American Rejects,0.954
+c48f64453d55d9071ea00f105fe5a231,6,Young And Beautiful,Lana Del Rey,0.952
+c48f64453d55d9071ea00f105fe5a231,7,Young And Beautiful,Lana Del Rey,0.952
+c48f64453d55d9071ea00f105fe5a231,8,Back In Your Arms,Bruce Springsteen,0.949
+c48f64453d55d9071ea00f105fe5a231,9,All By Myself,Céline Dion,0.942
+c48f64453d55d9071ea00f105fe5a231,10,Caarano,E.S. Posthumus featuring Luna Sans,0.942
+388186059e537a08f80e55e9c19db5a5,1,Faith to Be Strong,Andrew Peterson,0.965
+388186059e537a08f80e55e9c19db5a5,2,Shut Out The Light,Bruce Springsteen,0.954
+388186059e537a08f80e55e9c19db5a5,3,Patience,Guns N' Roses,0.949
+388186059e537a08f80e55e9c19db5a5,4,Thirteen,Big Star,0.949
+388186059e537a08f80e55e9c19db5a5,5,Hands,Tunng,0.948
+388186059e537a08f80e55e9c19db5a5,6,For One In My Life,Various Artists,0.942
+388186059e537a08f80e55e9c19db5a5,7,The Magic Hour,Andrew Peterson,0.94
+388186059e537a08f80e55e9c19db5a5,8,Leaving on a Jet Plane,John Denver,0.939
+388186059e537a08f80e55e9c19db5a5,9,Esta Boca Es Mia,Olga Román,0.937
+388186059e537a08f80e55e9c19db5a5,10,"If You See Her, Say Hello",Bob Dylan,0.937
+b3a668ec279da1c2885018811d1eeca9,1,goodbye,demis roussos & mireille math,0.897
+b3a668ec279da1c2885018811d1eeca9,2,Forever and Ever,Demis Roussos,0.897
+b3a668ec279da1c2885018811d1eeca9,3,Is Your Love In Vain?,Bob Dylan,0.842
+b3a668ec279da1c2885018811d1eeca9,4,My Gears Are Starting To Tremble,Eskmo,0.841
+b3a668ec279da1c2885018811d1eeca9,5,The Saxophone Song,Kate Bush,0.835
+b3a668ec279da1c2885018811d1eeca9,6,The Zephyr Song,The Dartmouth Aires,0.834
+b3a668ec279da1c2885018811d1eeca9,7,Nature Is The Law,Richard Ashcroft,0.818
+b3a668ec279da1c2885018811d1eeca9,8,"Sabbath, Bloody Sabbath",Black Sabbath,0.815
+b3a668ec279da1c2885018811d1eeca9,9,Salala,Angelique Kidjo feat. Peter Gabriel,0.814
+b3a668ec279da1c2885018811d1eeca9,10,God Is Love - Single Version,Marvin Gaye,0.809
+726c7628572af268200fc7bebb8d6044,1,Años 80,Los Piratas,0.988
+726c7628572af268200fc7bebb8d6044,2,Años 80,Los Piratas,0.988
+726c7628572af268200fc7bebb8d6044,3,Betrayed,Avenged Sevenfold,0.976
+726c7628572af268200fc7bebb8d6044,4,Testify,Rage Against The Machine,0.967
+726c7628572af268200fc7bebb8d6044,5,Testify,Rage Against The Machine,0.967
+726c7628572af268200fc7bebb8d6044,6,Reach For The Sky,Social Distortion,0.967
+726c7628572af268200fc7bebb8d6044,7,Great Expectations,The Gaslight Anthem,0.965
+726c7628572af268200fc7bebb8d6044,8,Infinity 2008,Guru Josh Project,0.965
+726c7628572af268200fc7bebb8d6044,9,Hyena,Editors,0.964
+726c7628572af268200fc7bebb8d6044,10,Flower Grown Wild,Bryan Adams,0.963
+202660bd04db023d2c48cdcaea8b2cd3,1,Broken Boy Soldier,The Raconteurs,0.957
+202660bd04db023d2c48cdcaea8b2cd3,2,Broken Boy Soldier,The Raconteurs,0.957
+202660bd04db023d2c48cdcaea8b2cd3,3,Tickle,Eyes Lips Eyes,0.95
+202660bd04db023d2c48cdcaea8b2cd3,4,A Nightmare To Remember,Dream Theater,0.949
+202660bd04db023d2c48cdcaea8b2cd3,5,Whirring,The Joy Formidable,0.948
+202660bd04db023d2c48cdcaea8b2cd3,6,Silver And Cold,AFI,0.943
+202660bd04db023d2c48cdcaea8b2cd3,7,Alcohol Y Rocanrrol,Cuca,0.941
+202660bd04db023d2c48cdcaea8b2cd3,8,Sleep Won’t Ever Come,Best Coast,0.94
+202660bd04db023d2c48cdcaea8b2cd3,9,Sudden Life,Rise Against,0.935
+202660bd04db023d2c48cdcaea8b2cd3,10,A Mil Años Luz,Sidonie,0.934
+fe7a836e76f696212bd199917a064081,1,Shuffle A Dream,Little Dragon,0.985
+fe7a836e76f696212bd199917a064081,2,Jealous (I Ain't With It),Chromeo,0.981
+fe7a836e76f696212bd199917a064081,3,Flawless (Go to the City),George Michael,0.977
+fe7a836e76f696212bd199917a064081,4,Foolish,Tokimonsta,0.972
+fe7a836e76f696212bd199917a064081,5,Eva maria se fue,Daniel Diges,0.972
+fe7a836e76f696212bd199917a064081,6,La Barbacoa,Georgie Dann,0.969
+fe7a836e76f696212bd199917a064081,7,San Francisco,Cascada,0.967
+fe7a836e76f696212bd199917a064081,8,Twenty Five Miles,Edwin Starr,0.967
+fe7a836e76f696212bd199917a064081,9,Backseat,Staygold,0.967
+fe7a836e76f696212bd199917a064081,10,Bad (Glee Cast Version),Glee Cast,0.965
+87ca8528de0bb93dd074b02bceb4e034,1,Coronation Day,Christophe Beck,0.984
+87ca8528de0bb93dd074b02bceb4e034,2,Schubert - Ave Maria,Exam Study Classical Music Orchestra,0.983
+87ca8528de0bb93dd074b02bceb4e034,3,Naval,Yann Tiersen,0.982
+87ca8528de0bb93dd074b02bceb4e034,4,"12 Etudes, Op.25: No.4 In A Minor",Frédéric Chopin,0.982
+87ca8528de0bb93dd074b02bceb4e034,5,Acoustic Spirit,Jacques Stotzem,0.982
+87ca8528de0bb93dd074b02bceb4e034,6,"Symphony No. 7 in A Major, Op. 92: III. Presto – Assai meno presto",Ludwig van Beethoven,0.981
+87ca8528de0bb93dd074b02bceb4e034,7,Prelude To A Kiss,Brad Mehldau,0.98
+87ca8528de0bb93dd074b02bceb4e034,8,"12 Etudes dans les tons mineurs, Op. 39: No. 12. Le festin d'Esope",Charles-Valentin Alkan,0.98
+87ca8528de0bb93dd074b02bceb4e034,9,Derniere,Yann Tiersen,0.98
+87ca8528de0bb93dd074b02bceb4e034,10,One Shot Juanita - Gold Album Version,Starflyer 59,0.98
+24d6d495d00df636fd121f1ee642ab0c,1,The Other Side,Jason Derulo,0.928
+24d6d495d00df636fd121f1ee642ab0c,2,Holiday,Metronomy,0.925
+24d6d495d00df636fd121f1ee642ab0c,3,Area51,Hardwell,0.914
+24d6d495d00df636fd121f1ee642ab0c,4,Years - Vocal Extended Mix,Alesso,0.909
+24d6d495d00df636fd121f1ee642ab0c,5,Up In The Air,Thirty Seconds To Mars,0.908
+24d6d495d00df636fd121f1ee642ab0c,6,Scream,Usher,0.904
+24d6d495d00df636fd121f1ee642ab0c,7,Somebody Loves You,Betty Who,0.903
+24d6d495d00df636fd121f1ee642ab0c,8,Pay No Mind,Madeon,0.903
+24d6d495d00df636fd121f1ee642ab0c,9,Sally,Hardwell,0.902
+24d6d495d00df636fd121f1ee642ab0c,10,Friend (Hard Times),Galantis,0.902
+7c20b2fe3ab2652a8855390bba0d1330,1,Como Hemos Cambiado,Presuntos Implicados,0.955
+7c20b2fe3ab2652a8855390bba0d1330,2,I Can See The Pines Are Dancing,A.A. Bondy,0.95
+7c20b2fe3ab2652a8855390bba0d1330,3,Heard It On The Radio,the bird and the bee,0.946
+7c20b2fe3ab2652a8855390bba0d1330,4,Heard It On The Radio,the bird and the bee,0.946
+7c20b2fe3ab2652a8855390bba0d1330,5,How Sweet It Is (To Be Loved by You),James Taylor,0.935
+7c20b2fe3ab2652a8855390bba0d1330,6,Immaculate Fools,Immaculate Fools,0.934
+7c20b2fe3ab2652a8855390bba0d1330,7,Cold Sweat,James Brown,0.933
+7c20b2fe3ab2652a8855390bba0d1330,8,Na Na Nothing,Mike Doughty,0.932
+7c20b2fe3ab2652a8855390bba0d1330,9,Na Na Nothing,Mike Doughty,0.932
+7c20b2fe3ab2652a8855390bba0d1330,10,Last Christmas - Single Version,Wham!,0.931
+a24c6285524abebc9136f2344a5527a6,1,Lights - from Sons of Anarchy,Battleme,0.971
+a24c6285524abebc9136f2344a5527a6,2,Anthony & Owen,Bill Ryder-Jones,0.957
+a24c6285524abebc9136f2344a5527a6,3,Candles,Rufus Wainwright,0.953
+a24c6285524abebc9136f2344a5527a6,4,Falling,Florence + The Machine,0.952
+a24c6285524abebc9136f2344a5527a6,5,Northern Lights,Anathallo,0.95
+a24c6285524abebc9136f2344a5527a6,6,About You,xxyyxx,0.948
+a24c6285524abebc9136f2344a5527a6,7,About You,xxyyxx,0.948
+a24c6285524abebc9136f2344a5527a6,8,A House - Original Mix,Joris Voorn,0.945
+a24c6285524abebc9136f2344a5527a6,9,Tired - Long Version,Liquido,0.943
+a24c6285524abebc9136f2344a5527a6,10,Alibi,Thirty Seconds To Mars,0.943
+74ef1770ad003257b4d6b5831e5bd4ef,1,This Is What It Feels Like - W&W Remix,Armin van Buuren,0.931
+74ef1770ad003257b4d6b5831e5bd4ef,2,Alvin Row,Animal Collective,0.908
+74ef1770ad003257b4d6b5831e5bd4ef,3,"Magnets, Pt. 1",Slothrust,0.898
+74ef1770ad003257b4d6b5831e5bd4ef,4,In the End,Embrace,0.89
+74ef1770ad003257b4d6b5831e5bd4ef,5,Churchill Speech,Iron Maiden,0.889
+74ef1770ad003257b4d6b5831e5bd4ef,6,Blast [ASOT 667] - Original Mix,Richard Durand,0.884
+74ef1770ad003257b4d6b5831e5bd4ef,7,Helter Skelter,The Beatles,0.878
+74ef1770ad003257b4d6b5831e5bd4ef,8,(Don't Fear) The Reaper,Blue Oyster Cult,0.868
+74ef1770ad003257b4d6b5831e5bd4ef,9,(Don't Fear) The Reaper,Blue Oyster Cult,0.868
+74ef1770ad003257b4d6b5831e5bd4ef,10,(Don't Fear) The Reaper,Blue Oyster Cult,0.868
+6a3d70031ad133ecde324fe6d2aeb533,1,Shambala,Three Dog Night,0.966
+6a3d70031ad133ecde324fe6d2aeb533,2,Fevgo Me Pikra Sta Xena,Stélios Kazantzídis,0.965
+6a3d70031ad133ecde324fe6d2aeb533,3,Dixie Chicken,Little Feat,0.95
+6a3d70031ad133ecde324fe6d2aeb533,4,Goodbye Cruel World,James Darren,0.939
+6a3d70031ad133ecde324fe6d2aeb533,5,It Must Be Him,Vikki Carr,0.933
+6a3d70031ad133ecde324fe6d2aeb533,6,You Are Everything,The Stylistics,0.932
+6a3d70031ad133ecde324fe6d2aeb533,7,Ao Meu Redor/Quixabeira,Marisa Monte,0.928
+6a3d70031ad133ecde324fe6d2aeb533,8,Poor Ellen Smith,Molly O'Day & The Cumberland Mountain Boys,0.91
+6a3d70031ad133ecde324fe6d2aeb533,9,Maybe I'm a Fool,Aretha Franklin,0.909
+6a3d70031ad133ecde324fe6d2aeb533,10,Sto Trapezi Pou Ta Pino,Stélios Kazantzídis,0.909
+618b5e70fb52e06d6942f17ada5525b4,1,Born To Be My Baby,Bon Jovi,0.933
+618b5e70fb52e06d6942f17ada5525b4,2,Born To Be My Baby,Bon Jovi,0.933
+618b5e70fb52e06d6942f17ada5525b4,3,On The Road,CAZZETTE,0.926
+618b5e70fb52e06d6942f17ada5525b4,4,Good Morning Blues,Ella Fitzgerald,0.924
+618b5e70fb52e06d6942f17ada5525b4,5,Elle était si jolie,Alain Barrière,0.914
+618b5e70fb52e06d6942f17ada5525b4,6,I Kinonia,Stélios Kazantzídis,0.911
+618b5e70fb52e06d6942f17ada5525b4,7,Want to Want Me,Travis-Atreo,0.906
+618b5e70fb52e06d6942f17ada5525b4,8,Fuck Her Gently,Tenacious D,0.903
+618b5e70fb52e06d6942f17ada5525b4,9,16 Candles,The Crests,0.897
+618b5e70fb52e06d6942f17ada5525b4,10,"Flute Sonata No. 1 in B Minor, BWV 1030: I. Andante",Slovak Chamber Orchestra,0.896
+41a2ae19a00e65c032fc3cfe165475b9,1,Grandmother Willow,Alan Menken,0.993
+41a2ae19a00e65c032fc3cfe165475b9,2,Pocahontas,Alan Menken,0.993
+41a2ae19a00e65c032fc3cfe165475b9,3,"Lieder ohne Worte, Op.53: No. 2. Allegro non troppo in E flat The Fleecy Cloud""""",Felix Mendelssohn,0.992
+41a2ae19a00e65c032fc3cfe165475b9,4,Suite Bergamasque: Moonlight (Claire De Lune),Claude Debussy,0.991
+41a2ae19a00e65c032fc3cfe165475b9,5,Symphony No. 9 in D Major: II. Im Tempo eines gemachlichen Landlers - Etwas tappisch und sehr derb,Gustav Mahler,0.991
+41a2ae19a00e65c032fc3cfe165475b9,6,Cats Love Theme,George Bruns,0.991
+41a2ae19a00e65c032fc3cfe165475b9,7,Come Un Fiore,Ludovico Einaudi,0.99
+41a2ae19a00e65c032fc3cfe165475b9,8,"Lieder ohne Worte, Op.38: No. 2. Allegro non troppo in C minor Lost Happiness""""",Felix Mendelssohn,0.99
+41a2ae19a00e65c032fc3cfe165475b9,9,"8 Etudes, Op.42: N 7 en fa mineur",Alexander Scriabin,0.989
+41a2ae19a00e65c032fc3cfe165475b9,10,Fuori Dalla Notte,Ludovico Einaudi,0.989
+0ba964f15ee83976e666a22f0962bb54,1,I Got The Feelin' - Single Version,James Brown,0.947
+0ba964f15ee83976e666a22f0962bb54,2,Merrymaking At My Place,Calvin Harris,0.938
+0ba964f15ee83976e666a22f0962bb54,3,Come Get It Bae,Pharrell Williams,0.919
+0ba964f15ee83976e666a22f0962bb54,4,Barcelona,KAZAKY,0.917
+0ba964f15ee83976e666a22f0962bb54,5,Trick Me,Kelis,0.914
+0ba964f15ee83976e666a22f0962bb54,6,Miles Apart,Vetiver,0.913
+0ba964f15ee83976e666a22f0962bb54,7,Shades Of Black,Breakbot,0.912
+0ba964f15ee83976e666a22f0962bb54,8,LoveStoned / I Think She Knows Interlude,Justin Timberlake,0.91
+0ba964f15ee83976e666a22f0962bb54,9,Ladna i cfana,Mesajah,0.909
+0ba964f15ee83976e666a22f0962bb54,10,Dream Machine - DownTempo Mix,Mark Farina,0.909
+a98a9341b146b47656ea851efb8518ee,1,Disturbia,Rihanna,0.982
+a98a9341b146b47656ea851efb8518ee,2,Disturbia,Rihanna,0.982
+a98a9341b146b47656ea851efb8518ee,3,Ass Back Home (feat. Neon Hitch),Gym Class Heroes,0.973
+a98a9341b146b47656ea851efb8518ee,4,Ass Back Home (feat. Neon Hitch),Gym Class Heroes,0.973
+a98a9341b146b47656ea851efb8518ee,5,I Kissed a Girl,Katy Perry,0.968
+a98a9341b146b47656ea851efb8518ee,6,I Kissed a Girl,Katy Perry,0.968
+a98a9341b146b47656ea851efb8518ee,7,Sexy Socialite - Chocolate Puma Remix,Chromeo,0.967
+a98a9341b146b47656ea851efb8518ee,8,Till the World Ends (Twister Remix),Britney Spears,0.964
+a98a9341b146b47656ea851efb8518ee,9,Relief,Coastal Cities,0.964
+a98a9341b146b47656ea851efb8518ee,10,Relief,Coastal Cities,0.964
+87d5e023925963325f0bbb88c94af51d,1,Up In The Air,Thirty Seconds To Mars,0.979
+87d5e023925963325f0bbb88c94af51d,2,I Got You Babe - Single Version,Sonny & Cher,0.962
+87d5e023925963325f0bbb88c94af51d,3,I Got You Babe,Sonny & Cher,0.962
+87d5e023925963325f0bbb88c94af51d,4,Nothing Wrong,Jimmy Eat World,0.962
+87d5e023925963325f0bbb88c94af51d,5,Prove,Fuel,0.96
+87d5e023925963325f0bbb88c94af51d,6,Temporary Remedy,Ben Harper,0.958
+87d5e023925963325f0bbb88c94af51d,7,The Great Die-Off,Rise Against,0.957
+87d5e023925963325f0bbb88c94af51d,8,Reckless Abandon,blink-182,0.955
+87d5e023925963325f0bbb88c94af51d,9,In And Out Of Love,Bon Jovi,0.954
+87d5e023925963325f0bbb88c94af51d,10,In And Out Of Love,Bon Jovi,0.954
+854e836738ed0084458267a5dc69637d,1,Blue Eyes,MIKA,0.966
+854e836738ed0084458267a5dc69637d,2,En El Mismo Lugar,Rosario,0.947
+854e836738ed0084458267a5dc69637d,3,Dreams Be Dreams,Jack Johnson,0.937
+854e836738ed0084458267a5dc69637d,4,Diamonds On The Soles Of Her Shoes,Paul Simon,0.936
+854e836738ed0084458267a5dc69637d,5,Heigh-Ho,Dwarf Chorus,0.936
+854e836738ed0084458267a5dc69637d,6,No Te Apartes de Mí,Vicentico,0.936
+854e836738ed0084458267a5dc69637d,7,Get Rhythm,Johnny Cash,0.934
+854e836738ed0084458267a5dc69637d,8,"Dance, Dance, Dance",Lykke Li,0.932
+854e836738ed0084458267a5dc69637d,9,Chiclanera,Carlos Cano,0.932
+854e836738ed0084458267a5dc69637d,10,Key Lime Pie,Kenny Chesney,0.931
+e34141a6d32c03cc839b7ce4c979d428,1,You & Me,Dave Matthews Band,0.862
+e34141a6d32c03cc839b7ce4c979d428,2,Where Are You Going,Dave Matthews Band,0.862
+e34141a6d32c03cc839b7ce4c979d428,3,You & Me,Dave Matthews Band,0.862
+e34141a6d32c03cc839b7ce4c979d428,4,"Track C - Group Dancers [(Soul Fusion) Freewoman And Oh, This Freedom’s Slave Cries]",Charles Mingus,0.86
+e34141a6d32c03cc839b7ce4c979d428,5,Flickers,Son Lux,0.859
+e34141a6d32c03cc839b7ce4c979d428,6,Tiderays,Volcano Choir,0.857
+e34141a6d32c03cc839b7ce4c979d428,7,Nutshell,Alice In Chains,0.856
+e34141a6d32c03cc839b7ce4c979d428,8,Nutshell,Alice In Chains,0.856
+e34141a6d32c03cc839b7ce4c979d428,9,Nutshell,Alice In Chains,0.856
+e34141a6d32c03cc839b7ce4c979d428,10,Ocean of Noise,Arcade Fire,0.854
+0a2f45139d5669f13c09670564d299ca,1,Til I Forget About You,Big Time Rush,0.986
+0a2f45139d5669f13c09670564d299ca,2,I Surrender,A Day To Remember,0.979
+0a2f45139d5669f13c09670564d299ca,3,Cuckoo,Lissie,0.968
+0a2f45139d5669f13c09670564d299ca,4,Animal I Have Become,Three Days Grace,0.965
+0a2f45139d5669f13c09670564d299ca,5,Animal I Have Become,Three Days Grace,0.965
+0a2f45139d5669f13c09670564d299ca,6,"Yes Sir, I Can Boogie",Count Dee's Silver Disco Explosion,0.964
+0a2f45139d5669f13c09670564d299ca,7,Ass Back Home,Secrets,0.963
+0a2f45139d5669f13c09670564d299ca,8,Ass Back Home,Secrets,0.963
+0a2f45139d5669f13c09670564d299ca,9,Brand New Day,Kodaline,0.962
+0a2f45139d5669f13c09670564d299ca,10,Spectrum,Florence + The Machine,0.957
+49b04efd7b419f3e30b3bbe6aed9ba51,1,Tickle,Eyes Lips Eyes,0.962
+49b04efd7b419f3e30b3bbe6aed9ba51,2,A Nightmare To Remember,Dream Theater,0.957
+49b04efd7b419f3e30b3bbe6aed9ba51,3,Alone,Donovan Wolfington,0.943
+49b04efd7b419f3e30b3bbe6aed9ba51,4,Alcohol Y Rocanrrol,Cuca,0.941
+49b04efd7b419f3e30b3bbe6aed9ba51,5,(Drawing) Rings Around The World,Super Furry Animals,0.94
+49b04efd7b419f3e30b3bbe6aed9ba51,6,Cosmonaut,Wolfmother,0.938
+49b04efd7b419f3e30b3bbe6aed9ba51,7,Sudden Life,Rise Against,0.935
+49b04efd7b419f3e30b3bbe6aed9ba51,8,Bleed Black,AFI,0.931
+49b04efd7b419f3e30b3bbe6aed9ba51,9,Walk,Foo Fighters,0.925
+49b04efd7b419f3e30b3bbe6aed9ba51,10,Walk,Foo Fighters,0.925
+7ebbd808a12db26b623fc433db9cd7ea,1,Mile High,Blondie,0.978
+7ebbd808a12db26b623fc433db9cd7ea,2,Matar Al Cartero,Pereza,0.973
+7ebbd808a12db26b623fc433db9cd7ea,3,Let's Go - Radio Edit - feat. Ne-Yo,Calvin Harris,0.969
+7ebbd808a12db26b623fc433db9cd7ea,4,"Back in Time - featured in Men In Black 3""""",Pitbull,0.969
+7ebbd808a12db26b623fc433db9cd7ea,5,"Back in Time - featured in Men In Black 3""""",Pitbull,0.969
+7ebbd808a12db26b623fc433db9cd7ea,6,Somebody To Love,Justin Bieber,0.965
+7ebbd808a12db26b623fc433db9cd7ea,7,Good Feeling,Flo Rida,0.964
+7ebbd808a12db26b623fc433db9cd7ea,8,Good Feeling,Flo Rida,0.964
+7ebbd808a12db26b623fc433db9cd7ea,9,Good Feeling,Flo Rida,0.964
+7ebbd808a12db26b623fc433db9cd7ea,10,Good Feeling,Flo Rida,0.964
+5fd10f6312f382de678ba6fd2489bc9a,1,FDB,Young Dro,0.968
+5fd10f6312f382de678ba6fd2489bc9a,2,Cum On Everybody,Eminem,0.967
+5fd10f6312f382de678ba6fd2489bc9a,3,"WORDS, WORDS, WORDS (studio)",Bo Burnham,0.964
+5fd10f6312f382de678ba6fd2489bc9a,4,Arc of Time,Bright Eyes,0.959
+5fd10f6312f382de678ba6fd2489bc9a,5,Blah Blah Blah (as made famous by Kesha),Non-Stop Music Workout Gro...,0.959
+5fd10f6312f382de678ba6fd2489bc9a,6,Blah Blah Blah (as made famous by Kesha),Non-Stop Music Workout Gro...,0.959
+5fd10f6312f382de678ba6fd2489bc9a,7,Anaconda,Nicki Minaj,0.958
+5fd10f6312f382de678ba6fd2489bc9a,8,Anaconda,Nicki Minaj,0.958
+5fd10f6312f382de678ba6fd2489bc9a,9,Pubic Enemy,A Tribe Called Quest,0.955
+5fd10f6312f382de678ba6fd2489bc9a,10,Break Us Apart,Stephen Marley,0.953
+c12d82d8a9bd76f1000f7447434c6400,1,Kapse Kapse,Stélios Kazantzídis,0.934
+c12d82d8a9bd76f1000f7447434c6400,2,Gospel Plow,Bob Dylan,0.914
+c12d82d8a9bd76f1000f7447434c6400,3,Black Rag,Corey Harris,0.914
+c12d82d8a9bd76f1000f7447434c6400,4,Bust Your Windows,Duke Out of the Blue,0.9
+c12d82d8a9bd76f1000f7447434c6400,5,Algunas Veces,Amaro Ferreiro,0.9
+c12d82d8a9bd76f1000f7447434c6400,6,She's Not There,The Zombies,0.899
+c12d82d8a9bd76f1000f7447434c6400,7,Subconscious-Lee,Lennie Tristano,0.891
+c12d82d8a9bd76f1000f7447434c6400,8,Have Love Will Travel,The Sonics,0.887
+c12d82d8a9bd76f1000f7447434c6400,9,Have You Ever Asked Yourself Why (All About Money Game),Willie Hutch,0.882
+c12d82d8a9bd76f1000f7447434c6400,10,Corazón Contento,Marisol,0.877
+955c998a31d2917fce486b6dd945f19e,1,All Of Me,Billie Holiday,0.979
+955c998a31d2917fce486b6dd945f19e,2,Elle était si jolie,Alain Barrière,0.975
+955c998a31d2917fce486b6dd945f19e,3,Räkna De Lyckliga Stunderna Blott,Ulla Billquist,0.971
+955c998a31d2917fce486b6dd945f19e,4,Will the Circle Be Unbroken,The Country Gentlemen,0.971
+955c998a31d2917fce486b6dd945f19e,5,I Wonder As I Wander,Jewel,0.971
+955c998a31d2917fce486b6dd945f19e,6,Parenting Never Ends,Hello Saferide,0.97
+955c998a31d2917fce486b6dd945f19e,7,All of Me - Take 2,Billie Holiday,0.97
+955c998a31d2917fce486b6dd945f19e,8,I Found A Reason,Cat Power,0.969
+955c998a31d2917fce486b6dd945f19e,9,I Found A Reason,Cat Power,0.969
+955c998a31d2917fce486b6dd945f19e,10,Min Soldat,Ulla Billquist,0.968
+e2da9cff653f2c239287f196ca97596e,1,An Introduction to the Album,The Hotelier,0.936
+e2da9cff653f2c239287f196ca97596e,2,Slow Day,Kristin Asbjørnsen,0.929
+e2da9cff653f2c239287f196ca97596e,3,Mutual Core,Björk,0.915
+e2da9cff653f2c239287f196ca97596e,4,Track 12,I Can Make A Mess,0.909
+e2da9cff653f2c239287f196ca97596e,5,New York State of Mind,Billy Joel,0.907
+e2da9cff653f2c239287f196ca97596e,6,Amie,Damien Rice,0.905
+e2da9cff653f2c239287f196ca97596e,7,Amie,Damien Rice,0.905
+e2da9cff653f2c239287f196ca97596e,8,Hallelujah,Voices in Your Head,0.903
+e2da9cff653f2c239287f196ca97596e,9,Te Para 3 - MTV Unplugged,Soda Stereo,0.89
+e2da9cff653f2c239287f196ca97596e,10,Nobody's Nixon,Cass McCombs,0.89
+8bba6ebb157aacc71da419e91d8e9ff8,1,O Green World - Live At Manchester Opera House,Gorillaz,0.954
+8bba6ebb157aacc71da419e91d8e9ff8,2,Hotdoggin',Fu Manchu,0.933
+8bba6ebb157aacc71da419e91d8e9ff8,3,Ajattele nyt,Klamydia,0.932
+8bba6ebb157aacc71da419e91d8e9ff8,4,A Sort Of Homecoming - Remastered,U2,0.926
+8bba6ebb157aacc71da419e91d8e9ff8,5,All Those Friendly People,Funeral Suits,0.925
+8bba6ebb157aacc71da419e91d8e9ff8,6,All Those Friendly People,Funeral Suits,0.925
+8bba6ebb157aacc71da419e91d8e9ff8,7,The Story,Alex Clare,0.924
+8bba6ebb157aacc71da419e91d8e9ff8,8,Hellion,W.A.S.P.,0.924
+8bba6ebb157aacc71da419e91d8e9ff8,9,Miracle,Elliott,0.919
+8bba6ebb157aacc71da419e91d8e9ff8,10,Nightmares,Band Of Skulls,0.915
+1d73fc2ea7061f2983b0b4870ec9f109,1,It's a Great Day to Be Alive,Travis Tritt,0.804
+1d73fc2ea7061f2983b0b4870ec9f109,2,Does This Bus Stop At 82nd Street?,Bruce Springsteen,0.791
+1d73fc2ea7061f2983b0b4870ec9f109,3,Carry on Wayward Son,The Tufts Amalgamates,0.774
+1d73fc2ea7061f2983b0b4870ec9f109,4,Dancing the whole way home,Miss Li,0.759
+1d73fc2ea7061f2983b0b4870ec9f109,5,Cuando los Pies Besan el Piso,Calle 13,0.757
+1d73fc2ea7061f2983b0b4870ec9f109,6,Bang Bang,Jessie J,0.755
+1d73fc2ea7061f2983b0b4870ec9f109,7,Bang Bang,Jessie J,0.755
+1d73fc2ea7061f2983b0b4870ec9f109,8,Bang Bang,Jessie J,0.755
+1d73fc2ea7061f2983b0b4870ec9f109,9,Bang Bang,Jessie J,0.755
+1d73fc2ea7061f2983b0b4870ec9f109,10,Bang Bang,Jessie J,0.755
+a0ef8e2f1fbdf24ccaffa69c01a2f4c9,1,Candace,And Also The Trees,0.985
+a0ef8e2f1fbdf24ccaffa69c01a2f4c9,2,In Search Of Peter Pan,Kate Bush,0.979
+a0ef8e2f1fbdf24ccaffa69c01a2f4c9,3,Introduction,Paul Banks,0.979
+a0ef8e2f1fbdf24ccaffa69c01a2f4c9,4,"12 Grandes Etudes, S137/R2a: No. 8 in C Minor: Presto strepitoso",Franz Liszt,0.977
+a0ef8e2f1fbdf24ccaffa69c01a2f4c9,5,"12 Grandes Etudes, S137/R2a: No. 3 in F Major: Poco adagio",Franz Liszt,0.975
+a0ef8e2f1fbdf24ccaffa69c01a2f4c9,6,Cäcilie,Richard Strauss,0.975
+a0ef8e2f1fbdf24ccaffa69c01a2f4c9,7,Bolero of Fire,The St. Louis Ocarina Trio,0.974
+a0ef8e2f1fbdf24ccaffa69c01a2f4c9,8,Symphony No. 9 in D Major: II. Im Tempo eines gemachlichen Landlers - Etwas tappisch und sehr derb,Gustav Mahler,0.972
+a0ef8e2f1fbdf24ccaffa69c01a2f4c9,9,Maybe,The Ink Spots,0.972
+a0ef8e2f1fbdf24ccaffa69c01a2f4c9,10,Street Urchins,Alan Menken,0.971
+2e0b4720c729b55e3d2b0d30af7bd0ee,1,Rebuilding Pixie Hollow,Joel McNeely,0.98
+2e0b4720c729b55e3d2b0d30af7bd0ee,2,Phil's Island,Alan Menken,0.979
+2e0b4720c729b55e3d2b0d30af7bd0ee,3,Toccata And Fugue In D Minor BWV 565,Johann Sebastian Bach,0.976
+2e0b4720c729b55e3d2b0d30af7bd0ee,4,"Symphony No. 3 in E-Flat Major, Op. 55 - Eroica"": II. Marcia funebre. Adagio assai""",Ludwig van Beethoven,0.975
+2e0b4720c729b55e3d2b0d30af7bd0ee,5,The 1000 Year Comet,Joel McNeely,0.973
+2e0b4720c729b55e3d2b0d30af7bd0ee,6,Deserts: First Electronic Interpolation (conclusion),Edgard Varèse,0.973
+2e0b4720c729b55e3d2b0d30af7bd0ee,7,Kindertotenlieder (version for voice and orchestra): No. 3. Wenn dein Mutterlein,Gustav Mahler,0.97
+2e0b4720c729b55e3d2b0d30af7bd0ee,8,Sailing,Deerhunter,0.97
+2e0b4720c729b55e3d2b0d30af7bd0ee,9,Dominique,GusGus,0.969
+2e0b4720c729b55e3d2b0d30af7bd0ee,10,Saying Goodnight,Joel McNeely,0.969
+95ef1f61dc6dc0ff0b65ff3c8b2ef997,1,Copiloto,Copiloto,0.959
+95ef1f61dc6dc0ff0b65ff3c8b2ef997,2,Pursuit of Happiness,Lissie,0.959
+95ef1f61dc6dc0ff0b65ff3c8b2ef997,3,Stingin' Belle,Biffy Clyro,0.957
+95ef1f61dc6dc0ff0b65ff3c8b2ef997,4,Tristan,Anna Calvi,0.955
+95ef1f61dc6dc0ff0b65ff3c8b2ef997,5,Alcoholics,Sibille Attar,0.953
+95ef1f61dc6dc0ff0b65ff3c8b2ef997,6,Little Miss,Sugarland,0.952
+95ef1f61dc6dc0ff0b65ff3c8b2ef997,7,Intervention,Arcade Fire,0.951
+95ef1f61dc6dc0ff0b65ff3c8b2ef997,8,Every Teardrop Is A Waterfall,Coldplay,0.947
+95ef1f61dc6dc0ff0b65ff3c8b2ef997,9,Every Teardrop Is a Waterfall,Coldplay,0.947
+95ef1f61dc6dc0ff0b65ff3c8b2ef997,10,Every Teardrop Is a Waterfall,Coldplay,0.947
+c5803780f480d499d1928185f854bc75,1,Symphony No. 9 in D Major: II. Im Tempo eines gemachlichen Landlers - Etwas tappisch und sehr derb,Gustav Mahler,0.988
+c5803780f480d499d1928185f854bc75,2,"12 Etudes, Op.25: No.1 In A Flat Harp Study""""",Frédéric Chopin,0.987
+c5803780f480d499d1928185f854bc75,3,Cäcilie,Richard Strauss,0.987
+c5803780f480d499d1928185f854bc75,4,Ratcliffe's Plan,Alan Menken,0.985
+c5803780f480d499d1928185f854bc75,5,Introduction,Paul Banks,0.985
+c5803780f480d499d1928185f854bc75,6,"12 Grandes Etudes, S137/R2a: No. 3 in F Major: Poco adagio",Franz Liszt,0.984
+c5803780f480d499d1928185f854bc75,7,Dead Hearts,Dead Man's Bones,0.984
+c5803780f480d499d1928185f854bc75,8,Epilogue,Christophe Beck,0.984
+c5803780f480d499d1928185f854bc75,9,Nyx and Queen Clarion,Joel McNeely,0.984
+c5803780f480d499d1928185f854bc75,10,"12 Etudes, Op.10: No.9 In F Minor",Frédéric Chopin,0.983
+24ce860ee59f859fc397ffa2cfc65a50,1,Noonenomore,108,0.968
+24ce860ee59f859fc397ffa2cfc65a50,2,Batcat,Mogwai,0.947
+24ce860ee59f859fc397ffa2cfc65a50,3,Tell Me,Veronica Falls,0.942
+24ce860ee59f859fc397ffa2cfc65a50,4,Woman,108,0.94
+24ce860ee59f859fc397ffa2cfc65a50,5,Goddess,Chrome Sparks,0.936
+24ce860ee59f859fc397ffa2cfc65a50,6,Mother of the World,Swans,0.935
+24ce860ee59f859fc397ffa2cfc65a50,7,The Pecan Tree,Deafheaven,0.935
+24ce860ee59f859fc397ffa2cfc65a50,8,A New Dawn,In Flames,0.934
+24ce860ee59f859fc397ffa2cfc65a50,9,Dead Bodies,Air,0.933
+24ce860ee59f859fc397ffa2cfc65a50,10,Dead Bodies,Air,0.933
+c3a8f59a568503952e018248b71f2b0f,1,Damned If She Do,The Kills,0.96
+c3a8f59a568503952e018248b71f2b0f,2,Postcard,Jukebox The Ghost,0.959
+c3a8f59a568503952e018248b71f2b0f,3,Dumb For You,Hoodie Allen,0.952
+c3a8f59a568503952e018248b71f2b0f,4,Paparazzi,Lady Gaga,0.949
+c3a8f59a568503952e018248b71f2b0f,5,Paparazzi,Lady Gaga,0.949
+c3a8f59a568503952e018248b71f2b0f,6,Crazy,Gnarls Barkley,0.946
+c3a8f59a568503952e018248b71f2b0f,7,Crazy,Gnarls Barkley,0.946
+c3a8f59a568503952e018248b71f2b0f,8,Crazy,Gnarls Barkley,0.946
+c3a8f59a568503952e018248b71f2b0f,9,Crazy,Gnarls Barkley,0.946
+c3a8f59a568503952e018248b71f2b0f,10,California Gurls - feat. Snoop Dogg,Katy Perry,0.94
+379f018cf95ce1aaf9ace6128d97d6d3,1,IFUCKINGLOVEYOU,Big Black Delta,0.967
+379f018cf95ce1aaf9ace6128d97d6d3,2,Full Imperial Collapse,Darkest Hour,0.966
+379f018cf95ce1aaf9ace6128d97d6d3,3,A Nightmare To Remember,Dream Theater,0.961
+379f018cf95ce1aaf9ace6128d97d6d3,4,Knights Of Cydonia [Live From Wembley Stadium],Muse,0.952
+379f018cf95ce1aaf9ace6128d97d6d3,5,Wires,Red Fang,0.95
+379f018cf95ce1aaf9ace6128d97d6d3,6,Alone,Donovan Wolfington,0.949
+379f018cf95ce1aaf9ace6128d97d6d3,7,Hang Out,Thurston Moore,0.938
+379f018cf95ce1aaf9ace6128d97d6d3,8,Changed The Way You Kiss Me - Extended Mix,Example,0.936
+379f018cf95ce1aaf9ace6128d97d6d3,9,Daddy's Eyes,The Killers,0.935
+379f018cf95ce1aaf9ace6128d97d6d3,10,Porch,Pearl Jam,0.934
+83c6329b395ba20cd74d41a2547965ae,1,Sexy Socialite - Chocolate Puma Remix,Chromeo,0.981
+83c6329b395ba20cd74d41a2547965ae,2,Baby's on Fire,Die Antwoord,0.979
+83c6329b395ba20cd74d41a2547965ae,3,Dance Again,Jennifer Lopez,0.972
+83c6329b395ba20cd74d41a2547965ae,4,Dance Again,Jennifer Lopez,0.972
+83c6329b395ba20cd74d41a2547965ae,5,Nadie Como Tú,Bom Bom Chip,0.97
+83c6329b395ba20cd74d41a2547965ae,6,Love In a Foreign Place,Gossip,0.969
+83c6329b395ba20cd74d41a2547965ae,7,Rabiosa,Shakira,0.966
+83c6329b395ba20cd74d41a2547965ae,8,Voices - Wookie Remix,Disclosure,0.964
+83c6329b395ba20cd74d41a2547965ae,9,La Barbacoa,Georgie Dann,0.964
+83c6329b395ba20cd74d41a2547965ae,10,Lollipop (Param Pam Pam),Alexandra Stan,0.963
+b6ee14c3f0fe1e709ba6ee857f12ade0,1,Elephant Stone - Remastered,The Stone Roses,0.974
+b6ee14c3f0fe1e709ba6ee857f12ade0,2,Powerslave,Iron Maiden,0.972
+b6ee14c3f0fe1e709ba6ee857f12ade0,3,Changed The Way You Kiss Me - Extended Mix,Example,0.964
+b6ee14c3f0fe1e709ba6ee857f12ade0,4,Lost In Space,Misfits,0.962
+b6ee14c3f0fe1e709ba6ee857f12ade0,5,Been A Son - EP Version,Nirvana,0.96
+b6ee14c3f0fe1e709ba6ee857f12ade0,6,Smile Like You Mean It,The Killers,0.952
+b6ee14c3f0fe1e709ba6ee857f12ade0,7,Daddy's Eyes,The Killers,0.949
+b6ee14c3f0fe1e709ba6ee857f12ade0,8,Best Of You,Foo Fighters,0.945
+b6ee14c3f0fe1e709ba6ee857f12ade0,9,Best Of You,Foo Fighters,0.945
+b6ee14c3f0fe1e709ba6ee857f12ade0,10,Best Of You,Foo Fighters,0.945
+dcb94bf474494c79752f0b245e4ac72f,1,The Big Blink,Béla Fleck and the Flecktones,0.97
+dcb94bf474494c79752f0b245e4ac72f,2,El Crani I la Serp,Animic,0.962
+dcb94bf474494c79752f0b245e4ac72f,3,Digital Lion,James Blake,0.957
+dcb94bf474494c79752f0b245e4ac72f,4,Gone Tomorrow,Lambchop,0.953
+dcb94bf474494c79752f0b245e4ac72f,5,Quick Canal [w/ Laetita Sadier],Atlas Sound,0.948
+dcb94bf474494c79752f0b245e4ac72f,6,Everything Will Kill You,Two Knights,0.94
+dcb94bf474494c79752f0b245e4ac72f,7,Cosmic Claps of Love,Chrome Sparks,0.936
+dcb94bf474494c79752f0b245e4ac72f,8,A Spire,Tape,0.935
+dcb94bf474494c79752f0b245e4ac72f,9,A Spire,Tape,0.935
+dcb94bf474494c79752f0b245e4ac72f,10,Different Names for the Same Thing,Death Cab for Cutie,0.932
+ae3d5bb9449a5e31a48fb1496a4034b8,1,Roscoe - Beyond The Wizard's Sleeve Remix,Midlake,0.896
+ae3d5bb9449a5e31a48fb1496a4034b8,2,If I Ever Leave This World Alive,Flogging Molly,0.867
+ae3d5bb9449a5e31a48fb1496a4034b8,3,Snow (Hey Oh),The Californicators,0.856
+ae3d5bb9449a5e31a48fb1496a4034b8,4,La Vida Es Bella - La Vita E Bella,The Film Band,0.854
+ae3d5bb9449a5e31a48fb1496a4034b8,5,Mälarö kyrka,Magnus Uggla,0.852
+ae3d5bb9449a5e31a48fb1496a4034b8,6,Mälarö kyrka,Magnus Uggla,0.852
+ae3d5bb9449a5e31a48fb1496a4034b8,7,One More Time,Alison Moyet,0.84
+ae3d5bb9449a5e31a48fb1496a4034b8,8,Sweet Painted Lady,John Grant,0.836
+ae3d5bb9449a5e31a48fb1496a4034b8,9,Bad Idea,Motion City Soundtrack,0.836
+ae3d5bb9449a5e31a48fb1496a4034b8,10,Coconut Skins,Damien Rice,0.833
+5619784e5aea57c59bb224056dcd7d23,1,Big Girl (You Are Beautiful),MIKA,0.972
+5619784e5aea57c59bb224056dcd7d23,2,Cosas Imposibles,Gustavo Cerati,0.968
+5619784e5aea57c59bb224056dcd7d23,3,Girls On The Dance Floor,Far East Movement,0.957
+5619784e5aea57c59bb224056dcd7d23,4,I Know You Want Me (Calle Ocho),Pitbull,0.955
+5619784e5aea57c59bb224056dcd7d23,5,BBC,JAY Z,0.951
+5619784e5aea57c59bb224056dcd7d23,6,Push It - Radio Version,Salt-N-Pepa,0.95
+5619784e5aea57c59bb224056dcd7d23,7,No Parking (On The Dance Floor),Dazz,0.95
+5619784e5aea57c59bb224056dcd7d23,8,Arc of Time,Bright Eyes,0.948
+5619784e5aea57c59bb224056dcd7d23,9,Do You Remember,Jay Sean,0.947
+5619784e5aea57c59bb224056dcd7d23,10,Her - Bit Funk Remix,Ghosts of Venice,0.946
+e247c7a46a2f7c7888be69e36a7d309a,1,Singing Man,Magnus,0.941
+e247c7a46a2f7c7888be69e36a7d309a,2,An Anniversary Away,Reverie Sound Revue,0.933
+e247c7a46a2f7c7888be69e36a7d309a,3,A Thousand Stars,Big Country,0.922
+e247c7a46a2f7c7888be69e36a7d309a,4,Dreams In Black And White,Zynic,0.921
+e247c7a46a2f7c7888be69e36a7d309a,5,A Place Called Space,The Juan Maclean,0.911
+e247c7a46a2f7c7888be69e36a7d309a,6,A Place Called Space,The Juan Maclean,0.911
+e247c7a46a2f7c7888be69e36a7d309a,7,"Sad Night, Where Is Morning?",The Ocean Blue,0.91
+e247c7a46a2f7c7888be69e36a7d309a,8,Paid For That,Paul Banks,0.908
+e247c7a46a2f7c7888be69e36a7d309a,9,A Little Less Conversation - JXL Radio Edit Remix,Elvis Presley,0.897
+e247c7a46a2f7c7888be69e36a7d309a,10,Time Machine,Ride,0.896
+7cadc33935594ef47a46e8a7ea94c6c3,1,Full Disclosure - Original Mix,Richard Sebastian,0.972
+7cadc33935594ef47a46e8a7ea94c6c3,2,No Mistakes,Paul Banks,0.954
+7cadc33935594ef47a46e8a7ea94c6c3,3,Bad Habit,Foals,0.95
+7cadc33935594ef47a46e8a7ea94c6c3,4,Scary Monsters And Nice Sprites,Skrillex,0.947
+7cadc33935594ef47a46e8a7ea94c6c3,5,El Rey Ricardo,León Benavente,0.945
+7cadc33935594ef47a46e8a7ea94c6c3,6,Obey the Ghost,Gang Of Four,0.938
+7cadc33935594ef47a46e8a7ea94c6c3,7,Pumpin Blood,NONONO,0.937
+7cadc33935594ef47a46e8a7ea94c6c3,8,Pumpin Blood,NONONO,0.937
+7cadc33935594ef47a46e8a7ea94c6c3,9,Jah No Partial (feat. Flux Pavilion),Major Lazer,0.934
+7cadc33935594ef47a46e8a7ea94c6c3,10,Am I Wry? No,Mew,0.933
+74f3ebbf0d72221a3e40444059273eee,1,The Veil of Time,Bear McCreary,0.989
+74f3ebbf0d72221a3e40444059273eee,2,Intro,Camera Obscura,0.986
+74f3ebbf0d72221a3e40444059273eee,3,Intro,Camera Obscura,0.986
+74f3ebbf0d72221a3e40444059273eee,4,"Hard To Starboard""""",James Horner,0.974
+74f3ebbf0d72221a3e40444059273eee,5,Deep Sea,Eskmo,0.973
+74f3ebbf0d72221a3e40444059273eee,6,Fall,Classical Study Music,0.971
+74f3ebbf0d72221a3e40444059273eee,7,Rose,James Horner,0.971
+74f3ebbf0d72221a3e40444059273eee,8,The Fire Scene and the Coming of War Medley,John Williams,0.971
+74f3ebbf0d72221a3e40444059273eee,9,Symphony No. 9 in D Major: I. Andante comodo,Gustav Mahler,0.97
+74f3ebbf0d72221a3e40444059273eee,10,Meg's Garden,Alan Menken,0.969
+dd59704a01e102b88898f549506d259e,1,Dory,Grizzly Bear,0.957
+dd59704a01e102b88898f549506d259e,2,De Todo El Mundo,Bunbury,0.953
+dd59704a01e102b88898f549506d259e,3,Cheerleader,St. Vincent,0.951
+dd59704a01e102b88898f549506d259e,4,Cheerleader,St. Vincent,0.951
+dd59704a01e102b88898f549506d259e,5,I Wonder Who Is Like This One,Hello Saferide,0.95
+dd59704a01e102b88898f549506d259e,6,Lost & Found,Lianne La Havas,0.95
+dd59704a01e102b88898f549506d259e,7,Bate Longe,Rivière Noire,0.95
+dd59704a01e102b88898f549506d259e,8,I And Love And You,The Avett Brothers,0.949
+dd59704a01e102b88898f549506d259e,9,I And Love And You,The Avett Brothers,0.949
+dd59704a01e102b88898f549506d259e,10,Take a Bow,Greg Laswell,0.949
+df6878570c7b46ab6ebc7edd8cb8a551,1,How I Feel - Sick Individuals radio mix,Flo Rida,0.969
+df6878570c7b46ab6ebc7edd8cb8a551,2,Falling - Alex Rodriguez Remix,Alex Rodriguez,0.964
+df6878570c7b46ab6ebc7edd8cb8a551,3,Best Day Of My Life - Gazzo Remix,American Authors,0.958
+df6878570c7b46ab6ebc7edd8cb8a551,4,Sucker,Charli XCX,0.951
+df6878570c7b46ab6ebc7edd8cb8a551,5,Bad (feat. Vassy) - Radio Edit,David Guetta,0.946
+df6878570c7b46ab6ebc7edd8cb8a551,6,Bad (feat. Vassy) - Radio Edit,David Guetta,0.946
+df6878570c7b46ab6ebc7edd8cb8a551,7,Bad (feat. Vassy) - Radio Edit,David Guetta,0.946
+df6878570c7b46ab6ebc7edd8cb8a551,8,She Don't Know Me,Bon Jovi,0.94
+df6878570c7b46ab6ebc7edd8cb8a551,9,No Spare Key,Honeyblood,0.939
+df6878570c7b46ab6ebc7edd8cb8a551,10,Standing Where You Left Me,Erik Hassle,0.939
+a2d8ed87da387cff086bd29f911e54a8,1,1.000.000 Lightyears,Amaranthe,0.967
+a2d8ed87da387cff086bd29f911e54a8,2,Hielo T,Miss Caffeina,0.952
+a2d8ed87da387cff086bd29f911e54a8,3,City Is Ours,Big Time Rush,0.943
+a2d8ed87da387cff086bd29f911e54a8,4,American Beauty/American Psycho,Fall Out Boy,0.937
+a2d8ed87da387cff086bd29f911e54a8,5,American Beauty/American Psycho,Fall Out Boy,0.937
+a2d8ed87da387cff086bd29f911e54a8,6,Stay The Night - Featuring Hayley Williams Of Paramore / Zedd & Kevin Drew Remix,Zedd,0.935
+a2d8ed87da387cff086bd29f911e54a8,7,Busted,The Black Keys,0.918
+a2d8ed87da387cff086bd29f911e54a8,8,Busted,The Black Keys,0.918
+a2d8ed87da387cff086bd29f911e54a8,9,Bombtrack,Rage Against The Machine,0.917
+a2d8ed87da387cff086bd29f911e54a8,10,The Rockers (feat. Wiz Khalifa),Action Bronson,0.915
+e874736cab0fe148961477ad2b771c4b,1,One Breath,Anna Calvi,0.953
+e874736cab0fe148961477ad2b771c4b,2,Pink Frosty Demo,Fugazi,0.944
+e874736cab0fe148961477ad2b771c4b,3,Sons Of The Coast,Christian Kjellvander,0.941
+e874736cab0fe148961477ad2b771c4b,4,The Storm Approaches,Joel McNeely,0.938
+e874736cab0fe148961477ad2b771c4b,5,Edward,Various Artists,0.938
+e874736cab0fe148961477ad2b771c4b,6,Les bras de mer,Yann Tiersen,0.937
+e874736cab0fe148961477ad2b771c4b,7,Deep Sea,Eskmo,0.936
+e874736cab0fe148961477ad2b771c4b,8,I Need to Know,Hans Zimmer,0.934
+e874736cab0fe148961477ad2b771c4b,9,Epilogue,Christophe Beck,0.933
+e874736cab0fe148961477ad2b771c4b,10,Dead Hearts,Dead Man's Bones,0.933
+9049ffe230470ff2d9a3b8ba47f21d7f,1,Monte Carlo,U.S. Royalty,0.984
+9049ffe230470ff2d9a3b8ba47f21d7f,2,Take Me,Tiësto,0.974
+9049ffe230470ff2d9a3b8ba47f21d7f,3,Take Me,Tiësto,0.974
+9049ffe230470ff2d9a3b8ba47f21d7f,4,She's Only Happy When She's Dancin',Bryan Adams,0.972
+9049ffe230470ff2d9a3b8ba47f21d7f,5,Wake Me Up,Avicii,0.969
+9049ffe230470ff2d9a3b8ba47f21d7f,6,Wake Me Up,Avicii,0.969
+9049ffe230470ff2d9a3b8ba47f21d7f,7,Wake Me Up,Avicii,0.969
+9049ffe230470ff2d9a3b8ba47f21d7f,8,Wake Me Up,Avicii,0.969
+9049ffe230470ff2d9a3b8ba47f21d7f,9,Wake Me Up,Avicii,0.969
+9049ffe230470ff2d9a3b8ba47f21d7f,10,Almost,Bowling For Soup,0.968
+b4ca9a19d9d7f9f8658f1338fb903fb9,1,Rabiosa,Shakira,0.976
+b4ca9a19d9d7f9f8658f1338fb903fb9,2,Nadie Como Tú,Bom Bom Chip,0.972
+b4ca9a19d9d7f9f8658f1338fb903fb9,3,Baby's on Fire,Die Antwoord,0.967
+b4ca9a19d9d7f9f8658f1338fb903fb9,4,Gettin' Jiggy Wit It,Will Smith,0.958
+b4ca9a19d9d7f9f8658f1338fb903fb9,5,Gettin' Jiggy Wit It,Will Smith,0.958
+b4ca9a19d9d7f9f8658f1338fb903fb9,6,"WORDS, WORDS, WORDS (studio)",Bo Burnham,0.955
+b4ca9a19d9d7f9f8658f1338fb903fb9,7,Unity,Dungeon Family,0.955
+b4ca9a19d9d7f9f8658f1338fb903fb9,8,La Barbacoa,Georgie Dann,0.953
+b4ca9a19d9d7f9f8658f1338fb903fb9,9,Trick Me,Kelis,0.952
+b4ca9a19d9d7f9f8658f1338fb903fb9,10,Arc of Time,Bright Eyes,0.95
+f7f1f306ce58a09c4395fc681b0ab654,1,O Green World - Live At Manchester Opera House,Gorillaz,0.949
+f7f1f306ce58a09c4395fc681b0ab654,2,About A Girl,Nirvana,0.948
+f7f1f306ce58a09c4395fc681b0ab654,3,About A Girl,Nirvana,0.948
+f7f1f306ce58a09c4395fc681b0ab654,4,Blew,Nirvana,0.941
+f7f1f306ce58a09c4395fc681b0ab654,5,Nightmares,Band Of Skulls,0.939
+f7f1f306ce58a09c4395fc681b0ab654,6,Even Better Than The Real Thing - Fish Out Of Water Remix,U2,0.936
+f7f1f306ce58a09c4395fc681b0ab654,7,The View From The Afternoon,Arctic Monkeys,0.935
+f7f1f306ce58a09c4395fc681b0ab654,8,Best Of You,Foo Fighters,0.933
+f7f1f306ce58a09c4395fc681b0ab654,9,Best Of You,Foo Fighters,0.933
+f7f1f306ce58a09c4395fc681b0ab654,10,Best Of You,Foo Fighters,0.933
+40e5d458227d86b42b434e9398205808,1,Beth,KISS,0.969
+40e5d458227d86b42b434e9398205808,2,Beth,KISS,0.969
+40e5d458227d86b42b434e9398205808,3,Räkna De Lyckliga Stunderna Blott,Ulla Billquist,0.968
+40e5d458227d86b42b434e9398205808,4,The Darkest Side,The Middle East,0.968
+40e5d458227d86b42b434e9398205808,5,Alaskans,Volcano Choir,0.968
+40e5d458227d86b42b434e9398205808,6,In a Sentimental Mood,Duke Ellington & John Coltrane,0.966
+40e5d458227d86b42b434e9398205808,7,Cotton Tail - Remastered,Duke Ellington & His Orchestra,0.966
+40e5d458227d86b42b434e9398205808,8,Where Or When,Bryan Ferry,0.962
+40e5d458227d86b42b434e9398205808,9,Falling In Love Again,Marlene Dietrich,0.961
+40e5d458227d86b42b434e9398205808,10,Two Soldiers,Bob Dylan,0.96
+2cc2ac65c644f4ad0aa1987ab16aa86c,1,I Wish You a Merry Christmas - 2006 - Remaster,Bing Crosby,0.979
+2cc2ac65c644f4ad0aa1987ab16aa86c,2,I Wish You a Merry Christmas,Bing Crosby,0.979
+2cc2ac65c644f4ad0aa1987ab16aa86c,3,Everyone's A Child At Christmas - Everyone's A Child At Christmas,Gene Autry,0.96
+2cc2ac65c644f4ad0aa1987ab16aa86c,4,To Love Somebody,Bee Gees,0.958
+2cc2ac65c644f4ad0aa1987ab16aa86c,5,"Mine, Mine, Mine - Soundtrack",David Ogden Stiers,0.947
+2cc2ac65c644f4ad0aa1987ab16aa86c,6,"Mine, Mine, Mine",David Ogden Stiers,0.947
+2cc2ac65c644f4ad0aa1987ab16aa86c,7,Stuck on the puzzle (intro),Alex Turner,0.947
+2cc2ac65c644f4ad0aa1987ab16aa86c,8,Color Of The Blues,George Jones,0.943
+2cc2ac65c644f4ad0aa1987ab16aa86c,9,Rudolph the Red Nosed Reindeer,I Love Christmas,0.94
+2cc2ac65c644f4ad0aa1987ab16aa86c,10,I Have Confidence,Julie Andrews,0.936
+bf7fa366005ef4026b8b94978d8a2150,1,Hero's Gold,Ari Koivunen,0.985
+bf7fa366005ef4026b8b94978d8a2150,2,Disparity By Design,Rise Against,0.975
+bf7fa366005ef4026b8b94978d8a2150,3,Disparity By Design,Rise Against,0.975
+bf7fa366005ef4026b8b94978d8a2150,4,The Great Die-Off,Rise Against,0.973
+bf7fa366005ef4026b8b94978d8a2150,5,DotA - Radio Edit,Basshunter,0.972
+bf7fa366005ef4026b8b94978d8a2150,6,Do It Again,Camera Obscura,0.969
+bf7fa366005ef4026b8b94978d8a2150,7,"Cheer Up, Boys (Your Make Up Is Running)",Foo Fighters,0.967
+bf7fa366005ef4026b8b94978d8a2150,8,My Life for Hire,A Day To Remember,0.966
+bf7fa366005ef4026b8b94978d8a2150,9,Bulletproof Love,Pierce The Veil,0.965
+bf7fa366005ef4026b8b94978d8a2150,10,Every Word Means No,Smash Mouth,0.962
+f5f2e14652a2426a8504dac270eba010,1,Behold the Sun,Extol,0.924
+f5f2e14652a2426a8504dac270eba010,2,Dig,Mudvayne,0.911
+f5f2e14652a2426a8504dac270eba010,3,Modern World,Ex Cops,0.9
+f5f2e14652a2426a8504dac270eba010,4,Blow Ya Mind,Nicki Minaj,0.899
+f5f2e14652a2426a8504dac270eba010,5,Strobe,Friendly Fires,0.897
+f5f2e14652a2426a8504dac270eba010,6,Levels - Skrillex Remix,Avicii,0.897
+f5f2e14652a2426a8504dac270eba010,7,Levels - Skrillex Remix,Avicii,0.897
+f5f2e14652a2426a8504dac270eba010,8,Uprising,Muse,0.896
+f5f2e14652a2426a8504dac270eba010,9,Uprising,Muse,0.896
+f5f2e14652a2426a8504dac270eba010,10,Uprising,Muse,0.896
+e1df6944f09b06ed7f1cfd8737daf371,1,Better Off,Foo Fighters,0.969
+e1df6944f09b06ed7f1cfd8737daf371,2,Colors,Hardwell,0.967
+e1df6944f09b06ed7f1cfd8737daf371,3,Kiss The Girl,Ashley Tisdale,0.953
+e1df6944f09b06ed7f1cfd8737daf371,4,Sweater Weather,The Neighbourhood,0.953
+e1df6944f09b06ed7f1cfd8737daf371,5,Sweater Weather,The Neighbourhood,0.953
+e1df6944f09b06ed7f1cfd8737daf371,6,Sweater Weather,The Neighbourhood,0.953
+e1df6944f09b06ed7f1cfd8737daf371,7,Sweater Weather,The Neighbourhood,0.953
+e1df6944f09b06ed7f1cfd8737daf371,8,Sweater Weather,The Neighbourhood,0.953
+e1df6944f09b06ed7f1cfd8737daf371,9,Club Can't Handle Me - feat. David Guetta,Flo Rida,0.951
+e1df6944f09b06ed7f1cfd8737daf371,10,Stay The Night - Featuring Hayley Williams Of Paramore,Zedd,0.95
+74e3bfd35b951a257c85f9904fa6f57b,1,Rose,James Horner,0.99
+74e3bfd35b951a257c85f9904fa6f57b,2,Ancora,Ludovico Einaudi,0.987
+74e3bfd35b951a257c85f9904fa6f57b,3,Melodia Africana III,Ludovico Einaudi,0.986
+74e3bfd35b951a257c85f9904fa6f57b,4,River's Edge,Alan Menken,0.986
+74e3bfd35b951a257c85f9904fa6f57b,5,Nyx and Queen Clarion,Joel McNeely,0.986
+74e3bfd35b951a257c85f9904fa6f57b,6,"12 Etudes, Op.25: No.1 In A Flat Harp Study""""",Frédéric Chopin,0.985
+74e3bfd35b951a257c85f9904fa6f57b,7,In Un'Altra Vita,Ludovico Einaudi,0.985
+74e3bfd35b951a257c85f9904fa6f57b,8,Solar Sailer,Daft Punk,0.984
+74e3bfd35b951a257c85f9904fa6f57b,9,Appalachian Spring: Moderato,Aaron Copland,0.983
+74e3bfd35b951a257c85f9904fa6f57b,10,The Bonny Hind,Various Artists,0.983
+7bbfeb2e8c6e2a60e9c0a1a3117d9dbf,1,Change Of Heart,El Perro Del Mar,0.889
+7bbfeb2e8c6e2a60e9c0a1a3117d9dbf,2,L.A. River Lady,Brazzaville,0.879
+7bbfeb2e8c6e2a60e9c0a1a3117d9dbf,3,Leyndarmál,Ásgeir,0.856
+7bbfeb2e8c6e2a60e9c0a1a3117d9dbf,4,Bright Blue,Daniela Andrade,0.837
+7bbfeb2e8c6e2a60e9c0a1a3117d9dbf,5,For Emma,Bon Iver,0.835
+7bbfeb2e8c6e2a60e9c0a1a3117d9dbf,6,For Emma,Bon Iver,0.835
+7bbfeb2e8c6e2a60e9c0a1a3117d9dbf,7,Bittersweet Faith,Bitter:Sweet,0.826
+7bbfeb2e8c6e2a60e9c0a1a3117d9dbf,8,Make It With You,Bread,0.826
+7bbfeb2e8c6e2a60e9c0a1a3117d9dbf,9,Splitting The Atom,Massive Attack,0.826
+7bbfeb2e8c6e2a60e9c0a1a3117d9dbf,10,Superheroes,Esthero,0.823
+21ec6d20517a6d5d8dba1a3be5da6951,1,Nut,Amy Schumer,0.995
+21ec6d20517a6d5d8dba1a3be5da6951,2,Maury,Amy Schumer,0.994
+21ec6d20517a6d5d8dba1a3be5da6951,3,Jews,Amy Schumer,0.993
+21ec6d20517a6d5d8dba1a3be5da6951,4,Gorillaz Are Ten - Spotify Radio Show 3 (9),Gorillaz,0.993
+21ec6d20517a6d5d8dba1a3be5da6951,5,French Guy,Amy Schumer,0.992
+21ec6d20517a6d5d8dba1a3be5da6951,6,Cutting,Amy Schumer,0.992
+21ec6d20517a6d5d8dba1a3be5da6951,7,Gorillaz Are Ten - Spotify Radio Show 2 (5),Gorillaz,0.989
+21ec6d20517a6d5d8dba1a3be5da6951,8,The Word Retard,Christopher Titus,0.989
+21ec6d20517a6d5d8dba1a3be5da6951,9,I Didn't Mean to End My Set Like This,Brandon Wardell,0.989
+21ec6d20517a6d5d8dba1a3be5da6951,10,Hotel Pools,Jim Gaffigan,0.989
+ee08a8b52231838c270846edd2aac788,1,Leave It Alone,Broken Bells,0.895
+ee08a8b52231838c270846edd2aac788,2,Leave It Alone,Broken Bells,0.895
+ee08a8b52231838c270846edd2aac788,3,I Don't Like Mondays,The Boomtown Rats,0.885
+ee08a8b52231838c270846edd2aac788,4,Hazel,Bob Dylan,0.884
+ee08a8b52231838c270846edd2aac788,5,A Batzegades,Els Pets,0.877
+ee08a8b52231838c270846edd2aac788,6,I Wanna Be Loved By You,Marilyn Monroe,0.873
+ee08a8b52231838c270846edd2aac788,7,I Wanna Be Loved By You,Marilyn Monroe,0.873
+ee08a8b52231838c270846edd2aac788,8,An Ine I Agapi Eglima,Stélios Kazantzídis,0.872
+ee08a8b52231838c270846edd2aac788,9,Just the Way You Are,Billy Joel,0.867
+ee08a8b52231838c270846edd2aac788,10,Beyond the Sea,Bobby Darin,0.867
+5c5b0a363796e285d304e0a18b743dfd,1,1:18,Lemaitre,0.907
+5c5b0a363796e285d304e0a18b743dfd,2,Drömmen om Sverige,Di Leva,0.882
+5c5b0a363796e285d304e0a18b743dfd,3,Drömmen om Sverige,Di Leva,0.882
+5c5b0a363796e285d304e0a18b743dfd,4,A Batzegades,Els Pets,0.881
+5c5b0a363796e285d304e0a18b743dfd,5,Goodbye Yellow Brick Road,Elton John,0.879
+5c5b0a363796e285d304e0a18b743dfd,6,Goodbye Yellow Brick Road - Remastered 2014,Elton John,0.879
+5c5b0a363796e285d304e0a18b743dfd,7,Goodbye Yellow Brick Road,Elton John,0.879
+5c5b0a363796e285d304e0a18b743dfd,8,Goodbye Yellow Brick Road,Elton John,0.879
+5c5b0a363796e285d304e0a18b743dfd,9,Manga Por Hombro,Anni B Sweet,0.875
+5c5b0a363796e285d304e0a18b743dfd,10,Seguirillas De La Verdad - con Paco de Lucía,Estrella Morente,0.868
+da98fdd2af1008e1da09a310e9c7f118,1,Disturbia,Rihanna,0.969
+da98fdd2af1008e1da09a310e9c7f118,2,Disturbia,Rihanna,0.969
+da98fdd2af1008e1da09a310e9c7f118,3,Be With You,AZIATIX,0.967
+da98fdd2af1008e1da09a310e9c7f118,4,Let's Go - Radio Edit - feat. Ne-Yo,Calvin Harris,0.966
+da98fdd2af1008e1da09a310e9c7f118,5,Trojans - Lenno Remix,Atlas Genius,0.96
+da98fdd2af1008e1da09a310e9c7f118,6,Mr. Saxobeat,Alexandra Stan,0.958
+da98fdd2af1008e1da09a310e9c7f118,7,Good Girl,Carrie Underwood,0.958
+da98fdd2af1008e1da09a310e9c7f118,8,Mr. Saxobeat - Radio Edit,Alexandra Stan,0.957
+da98fdd2af1008e1da09a310e9c7f118,9,Mr. Saxobeat - Radio Edit,Alexandra Stan,0.957
+da98fdd2af1008e1da09a310e9c7f118,10,You Make Me - Avicii By Avicii,Avicii,0.955
+031d69a7c94fdedb5e8648916af3a4e4,1,Mama Taught Me Better,Black Rebel Motorcycle Club,0.975
+031d69a7c94fdedb5e8648916af3a4e4,2,Demons,Sleigh Bells,0.949
+031d69a7c94fdedb5e8648916af3a4e4,3,Demons,Sleigh Bells,0.949
+031d69a7c94fdedb5e8648916af3a4e4,4,Santacruz,Supersubmarina,0.946
+031d69a7c94fdedb5e8648916af3a4e4,5,Robots In The Garden,Autolux,0.943
+031d69a7c94fdedb5e8648916af3a4e4,6,I Like It - Ghost Remix,Sevyn Streeter,0.942
+031d69a7c94fdedb5e8648916af3a4e4,7,Black Magic (Kill The Noise Pt. 2),Kill The Noise,0.927
+031d69a7c94fdedb5e8648916af3a4e4,8,Sun of Nihility,Job For A Cowboy,0.927
+031d69a7c94fdedb5e8648916af3a4e4,9,Sun of Nihility,Job For A Cowboy,0.927
+031d69a7c94fdedb5e8648916af3a4e4,10,Ancient Ways,Interpol,0.925
+ec5ceb54a6b0540432f0bbe148623b7e,1,Calling All Skeletons,Alkaline Trio,0.971
+ec5ceb54a6b0540432f0bbe148623b7e,2,Innocence,Disturbed,0.97
+ec5ceb54a6b0540432f0bbe148623b7e,3,Novocaine,Fall Out Boy,0.966
+ec5ceb54a6b0540432f0bbe148623b7e,4,Novocaine,Fall Out Boy,0.966
+ec5ceb54a6b0540432f0bbe148623b7e,5,Loosen the Knot,Lissie,0.963
+ec5ceb54a6b0540432f0bbe148623b7e,6,Love,Foster the People,0.962
+ec5ceb54a6b0540432f0bbe148623b7e,7,Nothin' But A Good Time - 2006 - Remaster,Poison,0.96
+ec5ceb54a6b0540432f0bbe148623b7e,8,As Long As You Love Me,Justin Bieber,0.959
+ec5ceb54a6b0540432f0bbe148623b7e,9,Love Me,Justin Bieber,0.959
+ec5ceb54a6b0540432f0bbe148623b7e,10,Push It,Static-X,0.952
+c2002a10677e054e299b0debe77d1554,1,The View From The Afternoon,Arctic Monkeys,0.97
+c2002a10677e054e299b0debe77d1554,2,Plush,Stone Temple Pilots,0.96
+c2002a10677e054e299b0debe77d1554,3,Plush,Stone Temple Pilots,0.96
+c2002a10677e054e299b0debe77d1554,4,Animal,University of North Carolina Clef Hangers,0.96
+c2002a10677e054e299b0debe77d1554,5,Change Your Mind,The Killers,0.958
+c2002a10677e054e299b0debe77d1554,6,Change Your Mind,The Killers,0.958
+c2002a10677e054e299b0debe77d1554,7,Round And Round,Imagine Dragons,0.957
+c2002a10677e054e299b0debe77d1554,8,Round And Round,Imagine Dragons,0.957
+c2002a10677e054e299b0debe77d1554,9,Good Things,Rival Schools,0.957
+c2002a10677e054e299b0debe77d1554,10,The Kilburn High Road,Flogging Molly,0.954
+14c19a3b5dfc1e78cfbcfb446fbe8632,1,Fuck You,Cee Lo Green,0.989
+14c19a3b5dfc1e78cfbcfb446fbe8632,2,Fuck You,Cee Lo Green,0.989
+14c19a3b5dfc1e78cfbcfb446fbe8632,3,Disturbia,Rihanna,0.985
+14c19a3b5dfc1e78cfbcfb446fbe8632,4,Disturbia,Rihanna,0.985
+14c19a3b5dfc1e78cfbcfb446fbe8632,5,Bad Habit,The Kooks,0.984
+14c19a3b5dfc1e78cfbcfb446fbe8632,6,Bad Habit,The Kooks,0.984
+14c19a3b5dfc1e78cfbcfb446fbe8632,7,Bad Habit,The Kooks,0.984
+14c19a3b5dfc1e78cfbcfb446fbe8632,8,Rayos De Sol,Jose De Rico,0.982
+14c19a3b5dfc1e78cfbcfb446fbe8632,9,Eva maria se fue,Daniel Diges,0.98
+14c19a3b5dfc1e78cfbcfb446fbe8632,10,Sweet Dreams (Are Made of This) - Remastered Version,Eurythmics,0.978
+b4bef6915c22aaf74d8b57f952c18a1a,1,Almost,Bowling For Soup,0.989
+b4bef6915c22aaf74d8b57f952c18a1a,2,Autobahn,Anberlin,0.987
+b4bef6915c22aaf74d8b57f952c18a1a,3,Monte Carlo,U.S. Royalty,0.986
+b4bef6915c22aaf74d8b57f952c18a1a,4,Parla,Els Pets,0.982
+b4bef6915c22aaf74d8b57f952c18a1a,5,Speed Of Life,Sugarland,0.981
+b4bef6915c22aaf74d8b57f952c18a1a,6,Ask Yourself,Foster The People,0.979
+b4bef6915c22aaf74d8b57f952c18a1a,7,Luces De Neón,Lori Meyers,0.977
+b4bef6915c22aaf74d8b57f952c18a1a,8,Life In A Beautiful Light,Amy Macdonald,0.974
+b4bef6915c22aaf74d8b57f952c18a1a,9,All In,Lifehouse,0.974
+b4bef6915c22aaf74d8b57f952c18a1a,10,Better Than Revenge,Taylor Swift,0.972
+68930b6a0a50e785dc9c14b86173ebeb,1,Full Imperial Collapse,Darkest Hour,0.971
+68930b6a0a50e785dc9c14b86173ebeb,2,Welcome To The Jungle,Guns N' Roses,0.968
+68930b6a0a50e785dc9c14b86173ebeb,3,Welcome To The Jungle,Guns N' Roses,0.968
+68930b6a0a50e785dc9c14b86173ebeb,4,Broken Boy Soldier,The Raconteurs,0.956
+68930b6a0a50e785dc9c14b86173ebeb,5,Broken Boy Soldier,The Raconteurs,0.956
+68930b6a0a50e785dc9c14b86173ebeb,6,Whirring,The Joy Formidable,0.945
+68930b6a0a50e785dc9c14b86173ebeb,7,Stockholm Syndrome,Muse,0.937
+68930b6a0a50e785dc9c14b86173ebeb,8,Anything Goes,Guns N' Roses,0.936
+68930b6a0a50e785dc9c14b86173ebeb,9,Anything Goes,Guns N' Roses,0.936
+68930b6a0a50e785dc9c14b86173ebeb,10,Knights Of Cydonia [Live From Wembley Stadium],Muse,0.935
+2b3aaaa55584e8396e3a9f8ad7d60387,1,Arab Money - Dirty,Busta Rhymes,0.981
+2b3aaaa55584e8396e3a9f8ad7d60387,2,What Iz Rap?,Dungeon Family,0.964
+2b3aaaa55584e8396e3a9f8ad7d60387,3,Aire De Molino,Niña Pastori,0.957
+2b3aaaa55584e8396e3a9f8ad7d60387,4,Hell on Earth (Front Lines),Mobb Deep,0.956
+2b3aaaa55584e8396e3a9f8ad7d60387,5,3 a.m.,Eminem,0.956
+2b3aaaa55584e8396e3a9f8ad7d60387,6,Ge oss Sverige tillbaka,Promoe,0.955
+2b3aaaa55584e8396e3a9f8ad7d60387,7,Tears For The Sheep,Atmosphere,0.952
+2b3aaaa55584e8396e3a9f8ad7d60387,8,Like Today,Atmosphere,0.951
+2b3aaaa55584e8396e3a9f8ad7d60387,9,Drips,Eminem,0.949
+2b3aaaa55584e8396e3a9f8ad7d60387,10,Where I'm From,The Game,0.949
+4e7d6140c674e9a36915824a9c39a493,1,"Amor, Corneta y Costal",Dos Hermanas,0.897
+4e7d6140c674e9a36915824a9c39a493,2,Flunky Jazz,Howard Levy,0.893
+4e7d6140c674e9a36915824a9c39a493,3,Star Slinger,Star Slinger,0.893
+4e7d6140c674e9a36915824a9c39a493,4,Adriatic,Mount Kimbie,0.889
+4e7d6140c674e9a36915824a9c39a493,5,Hello World,Khotin,0.881
+4e7d6140c674e9a36915824a9c39a493,6,Bonne Nuit - Robotaki Remix,Mix Chopin,0.88
+4e7d6140c674e9a36915824a9c39a493,7,Part 1,FLR aka KEN ISHII,0.877
+4e7d6140c674e9a36915824a9c39a493,8,DC 4am - Radio Edit,Sied Van Riel,0.857
+4e7d6140c674e9a36915824a9c39a493,9,Chroma Chords,Alix Perez,0.85
+4e7d6140c674e9a36915824a9c39a493,10,Golden State Overnight,Tarentel,0.847
+40bf74282217aec55960a8b2ec6a9a2a,1,De Mi,Charly García,0.968
+40bf74282217aec55960a8b2ec6a9a2a,2,Maybe,The Ink Spots,0.965
+40bf74282217aec55960a8b2ec6a9a2a,3,Night Sounds,Music For Absolute Sleep,0.962
+40bf74282217aec55960a8b2ec6a9a2a,4,Beautiful Girl,William Fitzsimmons,0.956
+40bf74282217aec55960a8b2ec6a9a2a,5,"Lord Randall, My Son",Josh White,0.956
+40bf74282217aec55960a8b2ec6a9a2a,6,In Search Of Peter Pan,Kate Bush,0.952
+40bf74282217aec55960a8b2ec6a9a2a,7,Side Of The Road,Beck,0.952
+40bf74282217aec55960a8b2ec6a9a2a,8,Bolero of Fire,The St. Louis Ocarina Trio,0.951
+40bf74282217aec55960a8b2ec6a9a2a,9,Unearthed,Cass McCombs,0.949
+40bf74282217aec55960a8b2ec6a9a2a,10,Flotsam And Jetsam,Alan Menken,0.947
+619367d4ac10140077a65a4d1b3e7a2e,1,Hermit The Frog,Marina and The Diamonds,0.956
+619367d4ac10140077a65a4d1b3e7a2e,2,Con Sólo Una Sonrisa,Melendi,0.915
+619367d4ac10140077a65a4d1b3e7a2e,3,Always On The Run,Yuksek,0.91
+619367d4ac10140077a65a4d1b3e7a2e,4,Sleepin In,The Postal Service,0.902
+619367d4ac10140077a65a4d1b3e7a2e,5,Skipping Stone,Transit,0.897
+619367d4ac10140077a65a4d1b3e7a2e,6,I Want To Break Free,The Cab,0.892
+619367d4ac10140077a65a4d1b3e7a2e,7,Autocrítica,Vetusta Morla,0.891
+619367d4ac10140077a65a4d1b3e7a2e,8,Falsetto,The-Dream,0.89
+619367d4ac10140077a65a4d1b3e7a2e,9,Breathe Slow,Alesha Dixon,0.881
+619367d4ac10140077a65a4d1b3e7a2e,10,Blue Moon,Beck,0.878
+9457b311b156924da2617c85ec62c466,1,I Believe In A Thing Called Love,The Darkness,0.996
+9457b311b156924da2617c85ec62c466,2,Century's Boy,Bad Religion,0.982
+9457b311b156924da2617c85ec62c466,3,21st Century (Digital Boy),Bad Religion,0.982
+9457b311b156924da2617c85ec62c466,4,Collision,Faith No More,0.972
+9457b311b156924da2617c85ec62c466,5,Post Break-Up Sex,The Vaccines,0.972
+9457b311b156924da2617c85ec62c466,6,Mary Lou,Bruce Springsteen,0.971
+9457b311b156924da2617c85ec62c466,7,Stranger,Lissie,0.97
+9457b311b156924da2617c85ec62c466,8,Travelling With HS,Hello Saferide,0.97
+9457b311b156924da2617c85ec62c466,9,Temporary Remedy,Ben Harper,0.969
+9457b311b156924da2617c85ec62c466,10,Fall Back Into My Life,Amber Pacific,0.965
+314140da04078a3e5a36e770c101e8cd,1,Moving Away From The Pulse Beat,Buzzcocks,0.899
+314140da04078a3e5a36e770c101e8cd,2,Blue Tile Fever,Fu Manchu,0.895
+314140da04078a3e5a36e770c101e8cd,3,Escape,Metallica,0.871
+314140da04078a3e5a36e770c101e8cd,4,Escape,Metallica,0.871
+314140da04078a3e5a36e770c101e8cd,5,Party Hard,Pulp,0.868
+314140da04078a3e5a36e770c101e8cd,6,The Mob Rules,Black Sabbath,0.838
+314140da04078a3e5a36e770c101e8cd,7,Snakebellies,Fu Manchu,0.834
+314140da04078a3e5a36e770c101e8cd,8,Heartbreaker,The Walkmen,0.832
+314140da04078a3e5a36e770c101e8cd,9,Full Imperial Collapse,Darkest Hour,0.828
+314140da04078a3e5a36e770c101e8cd,10,Find That Man - Live in Studio Underjord,Dead Soul,0.827
+b1318c0d34cb7fb9562166c241331be4,1,Caminando Por La Vida,Melendi,0.986
+b1318c0d34cb7fb9562166c241331be4,2,All For You,Janet Jackson,0.977
+b1318c0d34cb7fb9562166c241331be4,3,All For You,Janet Jackson,0.977
+b1318c0d34cb7fb9562166c241331be4,4,Brick House 2003,Rob Zombie,0.974
+b1318c0d34cb7fb9562166c241331be4,5,Brick House 2003 - Featuring Lionel Richie,Rob Zombie,0.97
+b1318c0d34cb7fb9562166c241331be4,6,El Mar de Sus Ojos,Carlos Vives,0.963
+b1318c0d34cb7fb9562166c241331be4,7,Pretty Shitty,Ex Cops,0.961
+b1318c0d34cb7fb9562166c241331be4,8,Falling Away,Amber Pacific,0.959
+b1318c0d34cb7fb9562166c241331be4,9,Edgecrusher,Fear Factory,0.959
+b1318c0d34cb7fb9562166c241331be4,10,DJ Got Us Fallin' in Love,Usher,0.955
+f714fd2b8a84765762d8cc7d958fb54f,1,Mother Popcorn - Single Version,James Brown,0.967
+f714fd2b8a84765762d8cc7d958fb54f,2,Another One Bites The Dust - 2011 Remaster,Queen,0.959
+f714fd2b8a84765762d8cc7d958fb54f,3,Another One Bites The Dust - 2011 Remaster,Queen,0.959
+f714fd2b8a84765762d8cc7d958fb54f,4,Another One Bites The Dust,Queen,0.959
+f714fd2b8a84765762d8cc7d958fb54f,5,Another One Bites The Dust - 2011 Remaster,Queen,0.959
+f714fd2b8a84765762d8cc7d958fb54f,6,Another One Bites The Dust - 2011 Remaster,Queen,0.959
+f714fd2b8a84765762d8cc7d958fb54f,7,Another One Bites The Dust - Remastered 2011,Queen,0.959
+f714fd2b8a84765762d8cc7d958fb54f,8,Another One Bites The Dust,Queen,0.959
+f714fd2b8a84765762d8cc7d958fb54f,9,See Right Through,Tensnake,0.956
+f714fd2b8a84765762d8cc7d958fb54f,10,Barcelona,KAZAKY,0.927
+c031ae610faf28fe60354921d85f2ce6,1,The Other Side,Jason Derulo,0.958
+c031ae610faf28fe60354921d85f2ce6,2,Catch Tomorrow,Afrojack,0.943
+c031ae610faf28fe60354921d85f2ce6,3,Next Year,Two Door Cinema Club,0.941
+c031ae610faf28fe60354921d85f2ce6,4,Next Year,Two Door Cinema Club,0.941
+c031ae610faf28fe60354921d85f2ce6,5,Barlights,Fun.,0.938
+c031ae610faf28fe60354921d85f2ce6,6,Live for the Night,Krewella,0.933
+c031ae610faf28fe60354921d85f2ce6,7,Om sanningen ska fram (Vill du ligga med mig?) - Clubedit Radio,Eric Amarillo,0.932
+c031ae610faf28fe60354921d85f2ce6,8,Film Noir,The Gaslight Anthem,0.93
+c031ae610faf28fe60354921d85f2ce6,9,Under Control,Calvin Harris,0.924
+c031ae610faf28fe60354921d85f2ce6,10,Under Control,Calvin Harris,0.924
+228975be1e4296380d17eece902d9ec1,1,Glad You Came,The Wanted,0.949
+228975be1e4296380d17eece902d9ec1,2,Glad You Came,The Wanted,0.949
+228975be1e4296380d17eece902d9ec1,3,Glad You Came,The Wanted,0.949
+228975be1e4296380d17eece902d9ec1,4,Till The World Ends (the Femme Fatale Remix),Britney Spears,0.948
+228975be1e4296380d17eece902d9ec1,5,Till The World Ends (the Femme Fatale Remix),Britney Spears,0.948
+228975be1e4296380d17eece902d9ec1,6,Hey Brother - Syn Cole Remix,Avicii,0.941
+228975be1e4296380d17eece902d9ec1,7,Counting Stars,OneRepublic,0.938
+228975be1e4296380d17eece902d9ec1,8,Counting Stars,OneRepublic,0.938
+228975be1e4296380d17eece902d9ec1,9,Counting Stars,OneRepublic,0.938
+228975be1e4296380d17eece902d9ec1,10,Counting Stars,OneRepublic,0.938
+87438a4c5638cdd97d224412753643a4,1,Windfall,Cass McCombs,0.946
+87438a4c5638cdd97d224412753643a4,2,GMF,John Grant,0.929
+87438a4c5638cdd97d224412753643a4,3,Only One Woman,Alien,0.924
+87438a4c5638cdd97d224412753643a4,4,A Face To Call Home,John Mayer,0.92
+87438a4c5638cdd97d224412753643a4,5,I Cross My Heart,George Strait,0.906
+87438a4c5638cdd97d224412753643a4,6,Sinking Like Stone,Blackchords,0.894
+87438a4c5638cdd97d224412753643a4,7,When a Man Loves a Woman,Michael Bolton,0.893
+87438a4c5638cdd97d224412753643a4,8,When a Man Loves a Woman,Michael Bolton,0.893
+87438a4c5638cdd97d224412753643a4,9,Forever Young - Slow Version,Bob Dylan,0.891
+87438a4c5638cdd97d224412753643a4,10,Forever Young - Slow Version,Bob Dylan,0.891
+014cbb4fca17d60636275b13377cab6d,1,Bang Bang,Jessie J,0.952
+014cbb4fca17d60636275b13377cab6d,2,Bang Bang,Jessie J,0.952
+014cbb4fca17d60636275b13377cab6d,3,Bang Bang,Jessie J,0.952
+014cbb4fca17d60636275b13377cab6d,4,Bang Bang,Jessie J,0.952
+014cbb4fca17d60636275b13377cab6d,5,Bang Bang,Jessie J,0.952
+014cbb4fca17d60636275b13377cab6d,6,Perseguido,Calle 13,0.947
+014cbb4fca17d60636275b13377cab6d,7,Fool For You,Alice Smith,0.945
+014cbb4fca17d60636275b13377cab6d,8,Underneath It All,No Doubt,0.941
+014cbb4fca17d60636275b13377cab6d,9,Fire,The Zombie Kids,0.933
+014cbb4fca17d60636275b13377cab6d,10,Locked Out Of Heaven,Bruno Mars,0.926
+a660e081ac8aa6f7bddc548fbd62eb0a,1,Insects Don't Know (space Cigale Mix),Ghostown,0.971
+a660e081ac8aa6f7bddc548fbd62eb0a,2,Turn It Up / Fire It Up - Remix,Busta Rhymes,0.967
+a660e081ac8aa6f7bddc548fbd62eb0a,3,Turn It Up / Fire It Up - Remix,Busta Rhymes,0.967
+a660e081ac8aa6f7bddc548fbd62eb0a,4,Murder She Wrote (Original Mix),Chaka Demus & Pliers,0.964
+a660e081ac8aa6f7bddc548fbd62eb0a,5,Murder She Wrote (Original Mix),Chaka Demus & Pliers,0.964
+a660e081ac8aa6f7bddc548fbd62eb0a,6,Mirando el mundo al revés,Che Sudaka,0.963
+a660e081ac8aa6f7bddc548fbd62eb0a,7,El Mundo Al Reves,Che Sudaka,0.963
+a660e081ac8aa6f7bddc548fbd62eb0a,8,Big Girl (You Are Beautiful),MIKA,0.959
+a660e081ac8aa6f7bddc548fbd62eb0a,9,Trick Me,Kelis,0.958
+a660e081ac8aa6f7bddc548fbd62eb0a,10,Brigadier Sabari,Alpha Blondy,0.958
+fd16fd12aab79c33ffd1944d6b2b9af8,1,Cum On Everybody,Eminem,0.966
+fd16fd12aab79c33ffd1944d6b2b9af8,2,Bootylicious,Destiny's Child,0.963
+fd16fd12aab79c33ffd1944d6b2b9af8,3,Bootylicious,Destiny's Child,0.963
+fd16fd12aab79c33ffd1944d6b2b9af8,4,Bootylicious,Destiny's Child,0.963
+fd16fd12aab79c33ffd1944d6b2b9af8,5,Express Yourself - Extended Mix,N.W.A.,0.955
+fd16fd12aab79c33ffd1944d6b2b9af8,6,ATLiens,OutKast,0.954
+fd16fd12aab79c33ffd1944d6b2b9af8,7,ATLiens,OutKast,0.954
+fd16fd12aab79c33ffd1944d6b2b9af8,8,"Breaker, Breaker",GZA,0.952
+fd16fd12aab79c33ffd1944d6b2b9af8,9,Tipsy - Radio Mix,J-Kwon,0.951
+fd16fd12aab79c33ffd1944d6b2b9af8,10,Pubic Enemy,A Tribe Called Quest,0.95
+47f4a1ba1a028ef390d053d84c8f51d7,1,Big Moustache,Ghostown,0.955
+47f4a1ba1a028ef390d053d84c8f51d7,2,4 y 26,Pereza,0.944
+47f4a1ba1a028ef390d053d84c8f51d7,3,I Want To Break Free,The Cab,0.927
+47f4a1ba1a028ef390d053d84c8f51d7,4,Como Te Digo Eso,Conchita,0.92
+47f4a1ba1a028ef390d053d84c8f51d7,5,"Sitting, Waiting, Wishing",Jack Johnson,0.91
+47f4a1ba1a028ef390d053d84c8f51d7,6,"Sitting, Waiting, Wishing",Jack Johnson,0.91
+47f4a1ba1a028ef390d053d84c8f51d7,7,Loyalty,Alice Smith,0.907
+47f4a1ba1a028ef390d053d84c8f51d7,8,Ditto,Cassie,0.901
+47f4a1ba1a028ef390d053d84c8f51d7,9,Like I'm Gonna Lose You,Meghan Trainor,0.9
+47f4a1ba1a028ef390d053d84c8f51d7,10,Like I'm Gonna Lose You,Meghan Trainor,0.9
+0a962e52881f4d60dbc6e4c000c08e4e,1,Cause You Are Young - Maxi Version,C.C. Catch,0.983
+0a962e52881f4d60dbc6e4c000c08e4e,2,Precious Angel,Bob Dylan,0.978
+0a962e52881f4d60dbc6e4c000c08e4e,3,Train in Vain - Remastered,The Clash,0.976
+0a962e52881f4d60dbc6e4c000c08e4e,4,Family Man,Fleetwood Mac,0.97
+0a962e52881f4d60dbc6e4c000c08e4e,5,Get Lucky,Daft Punk,0.968
+0a962e52881f4d60dbc6e4c000c08e4e,6,Get Lucky,Daft Punk,0.968
+0a962e52881f4d60dbc6e4c000c08e4e,7,Get Lucky,Daft Punk,0.968
+0a962e52881f4d60dbc6e4c000c08e4e,8,Get Lucky,Daft Punk,0.968
+0a962e52881f4d60dbc6e4c000c08e4e,9,Get Lucky,Daft Punk,0.968
+0a962e52881f4d60dbc6e4c000c08e4e,10,Get Lucky,Daft Punk,0.968
+33b71ffd05e78593e4c46d5edd20d7ec,1,Elephants,Blaudzun,0.969
+33b71ffd05e78593e4c46d5edd20d7ec,2,Summer - Extended Mix,Calvin Harris,0.958
+33b71ffd05e78593e4c46d5edd20d7ec,3,Always,Panama,0.942
+33b71ffd05e78593e4c46d5edd20d7ec,4,Face,The Zombie Kids,0.937
+33b71ffd05e78593e4c46d5edd20d7ec,5,Promises [Mix Cut] - Myon & Shane 54 Summer Of Love Mix Edit,Andain,0.936
+33b71ffd05e78593e4c46d5edd20d7ec,6,1977,Mikel Erentxun,0.934
+33b71ffd05e78593e4c46d5edd20d7ec,7,"Lessons In Love (All Day, All Night)",Neon Trees,0.931
+33b71ffd05e78593e4c46d5edd20d7ec,8,Hear Me,Imagine Dragons,0.93
+33b71ffd05e78593e4c46d5edd20d7ec,9,Hear Me,Imagine Dragons,0.93
+33b71ffd05e78593e4c46d5edd20d7ec,10,Make Me Over,Lifehouse,0.928
+200073695d77b2a18a189a96a52b1a0f,1,Evening Sun,The Strokes,0.909
+200073695d77b2a18a189a96a52b1a0f,2,Evening Sun,The Strokes,0.909
+200073695d77b2a18a189a96a52b1a0f,3,It's a Great Day to Be Alive,Travis Tritt,0.906
+200073695d77b2a18a189a96a52b1a0f,4,Hermit The Frog,Marina and The Diamonds,0.869
+200073695d77b2a18a189a96a52b1a0f,5,Headfirst Slide Into Cooperstown On A Bad Bet,Oregon Mind The Gap,0.852
+200073695d77b2a18a189a96a52b1a0f,6,"Gracias, Santa Claus",Miguel Antelo,0.834
+200073695d77b2a18a189a96a52b1a0f,7,So Big,Iyaz,0.833
+200073695d77b2a18a189a96a52b1a0f,8,Go,Grimes,0.832
+200073695d77b2a18a189a96a52b1a0f,9,Sleeping With The Enemy - Bonus Track,Kylie Minogue,0.83
+200073695d77b2a18a189a96a52b1a0f,10,Girls Just Want to Have Fun,Cyndi Lauper,0.827
+08b7fc6c0ab7f93f2d9c7e8420ac3a78,1,Tu pu du cu - Bonus Track,Odezenne,0.975
+08b7fc6c0ab7f93f2d9c7e8420ac3a78,2,There Dey Go,Tru$,0.957
+08b7fc6c0ab7f93f2d9c7e8420ac3a78,3,Award Tour,A Tribe Called Quest,0.953
+08b7fc6c0ab7f93f2d9c7e8420ac3a78,4,Award Tour,A Tribe Called Quest,0.953
+08b7fc6c0ab7f93f2d9c7e8420ac3a78,5,Mince Meat,Dangerdoom,0.949
+08b7fc6c0ab7f93f2d9c7e8420ac3a78,6,Fuk U (Remix) (Explicit),Bekay,0.946
+08b7fc6c0ab7f93f2d9c7e8420ac3a78,7,Here Comes the Hotstepper,Ini Kamoze,0.946
+08b7fc6c0ab7f93f2d9c7e8420ac3a78,8,Next Level,Showbiz & AG,0.942
+08b7fc6c0ab7f93f2d9c7e8420ac3a78,9,Fuk U (Explicit),Bekay,0.94
+08b7fc6c0ab7f93f2d9c7e8420ac3a78,10,Wu-Tang Forever,Drake,0.939
+fb221fc44a1abd156671e3be3c574082,1,Baby I Need Your Loving,Four Tops,0.855
+fb221fc44a1abd156671e3be3c574082,2,Baby I Need Your Loving,Four Tops,0.855
+fb221fc44a1abd156671e3be3c574082,3,Si Solo Estas Ahí,Amén,0.847
+fb221fc44a1abd156671e3be3c574082,4,Hola I Adéu,Els Pets,0.838
+fb221fc44a1abd156671e3be3c574082,5,Envy,Breton,0.834
+fb221fc44a1abd156671e3be3c574082,6,Si salimos de esta,Love of Lesbian,0.833
+fb221fc44a1abd156671e3be3c574082,7,Nancy Joe,Joe Pass,0.831
+fb221fc44a1abd156671e3be3c574082,8,Good Time,Alex Goot,0.821
+fb221fc44a1abd156671e3be3c574082,9,I Guess That's Why They Call It The Blues,Elton John,0.82
+fb221fc44a1abd156671e3be3c574082,10,Me equivocaria otra vez,Fito y Fitipaldis,0.82
+decd7531e86ee5d4180f2f1dde5ff343,1,Speed Of Life,Sugarland,0.975
+decd7531e86ee5d4180f2f1dde5ff343,2,Better Than Revenge,Taylor Swift,0.967
+decd7531e86ee5d4180f2f1dde5ff343,3,Scream,Avenged Sevenfold,0.965
+decd7531e86ee5d4180f2f1dde5ff343,4,Ass Back Home,Secrets,0.964
+decd7531e86ee5d4180f2f1dde5ff343,5,Ass Back Home,Secrets,0.964
+decd7531e86ee5d4180f2f1dde5ff343,6,Bloodlines,Arkells,0.962
+decd7531e86ee5d4180f2f1dde5ff343,7,Minority,Green Day,0.959
+decd7531e86ee5d4180f2f1dde5ff343,8,God's Not Dead (Like a Lion),Newsboys,0.957
+decd7531e86ee5d4180f2f1dde5ff343,9,"Cheer Up, Boys (Your Make Up Is Running)",Foo Fighters,0.957
+decd7531e86ee5d4180f2f1dde5ff343,10,Almost,Bowling For Soup,0.956
+8d6682c4c7c9769b7dd62eeb70883c7e,1,Cruz De Sal,Aterciopelados,0.948
+8d6682c4c7c9769b7dd62eeb70883c7e,2,Conga Habanera,Angelique Kidjo,0.948
+8d6682c4c7c9769b7dd62eeb70883c7e,3,Chas! Y Aparezco A Tu Lado,Alex Y Christina,0.946
+8d6682c4c7c9769b7dd62eeb70883c7e,4,Dangerous,Roxette,0.944
+8d6682c4c7c9769b7dd62eeb70883c7e,5,La plaça de la alegría,Bongo Botrako,0.944
+8d6682c4c7c9769b7dd62eeb70883c7e,6,Voulez-Vous,ABBA,0.943
+8d6682c4c7c9769b7dd62eeb70883c7e,7,Delirious (Boneless),Steve Aoki,0.942
+8d6682c4c7c9769b7dd62eeb70883c7e,8,Boneless,Steve Aoki,0.942
+8d6682c4c7c9769b7dd62eeb70883c7e,9,Looking For A Fox,John Goodman,0.941
+8d6682c4c7c9769b7dd62eeb70883c7e,10,Comfort Eagle,Cake,0.941
+b8410554bbed6ba9a05a6a9aa7e0c3ed,1,Rudolph The Red Nosed Reindeer - Rudolph The Red Nosed Reindeer,Dean Martin,0.969
+b8410554bbed6ba9a05a6a9aa7e0c3ed,2,Henry Lee,Dick Justice,0.967
+b8410554bbed6ba9a05a6a9aa7e0c3ed,3,Shackles & Chains,Mac Wiseman,0.965
+b8410554bbed6ba9a05a6a9aa7e0c3ed,4,Gialinos Kosmos,Stélios Kazantzídis,0.964
+b8410554bbed6ba9a05a6a9aa7e0c3ed,5,I Zoi Mou Oli,Stélios Kazantzídis,0.964
+b8410554bbed6ba9a05a6a9aa7e0c3ed,6,"Let It Snow, Let It Snow, Let It Snow - Let It Snow, Let It Snow, Let It Snow",Dean Martin,0.963
+b8410554bbed6ba9a05a6a9aa7e0c3ed,7,Billy 4,Bob Dylan,0.958
+b8410554bbed6ba9a05a6a9aa7e0c3ed,8,Tin Paraskevi To Vradi,Stélios Kazantzídis,0.955
+b8410554bbed6ba9a05a6a9aa7e0c3ed,9,"So Long, Farewell (Reprise)",Julie Andrews,0.951
+b8410554bbed6ba9a05a6a9aa7e0c3ed,10,Black Magic Woman,Santana,0.95
+cda3f2776c7fb8baa0e99313ee76eec5,1,I Want To Break Free,The Cab,0.951
+cda3f2776c7fb8baa0e99313ee76eec5,2,Habits (Stay High),Tove Lo,0.906
+cda3f2776c7fb8baa0e99313ee76eec5,3,She Will Be Loved,Maroon 5,0.901
+cda3f2776c7fb8baa0e99313ee76eec5,4,She Will Be Loved,Maroon 5,0.901
+cda3f2776c7fb8baa0e99313ee76eec5,5,She Will Be Loved - Radio Mix,Maroon 5,0.901
+cda3f2776c7fb8baa0e99313ee76eec5,6,She Will Be Loved,Maroon 5,0.901
+cda3f2776c7fb8baa0e99313ee76eec5,7,Always On The Run,Yuksek,0.9
+cda3f2776c7fb8baa0e99313ee76eec5,8,Hermit The Frog,Marina and The Diamonds,0.899
+cda3f2776c7fb8baa0e99313ee76eec5,9,Just A Man,Alex Clare,0.897
+cda3f2776c7fb8baa0e99313ee76eec5,10,Paparazzi,Lady Gaga,0.896
+fe4717676a185fe1a446d7be3cbc0138,1,Les bras de mer,Yann Tiersen,0.984
+fe4717676a185fe1a446d7be3cbc0138,2,Theme From Psycho (Prelude),Bernard Herrmann,0.972
+fe4717676a185fe1a446d7be3cbc0138,3,Crinan Wood,Alexi Murdoch,0.971
+fe4717676a185fe1a446d7be3cbc0138,4,Maybe,The Ink Spots,0.967
+fe4717676a185fe1a446d7be3cbc0138,5,Candace,And Also The Trees,0.966
+fe4717676a185fe1a446d7be3cbc0138,6,Introduction,Paul Banks,0.965
+fe4717676a185fe1a446d7be3cbc0138,7,"La cheminee du roi Rene, Op. 205: III. Jongleurs",Darius Milhaud,0.965
+fe4717676a185fe1a446d7be3cbc0138,8,Within,Daft Punk,0.965
+fe4717676a185fe1a446d7be3cbc0138,9,Within,Daft Punk,0.965
+fe4717676a185fe1a446d7be3cbc0138,10,Within,Daft Punk,0.965
+af013b8e913a30ff36e279febd309caf,1,Steven's Last Night in Town,Ben Folds Five,0.975
+af013b8e913a30ff36e279febd309caf,2,Waking the Fallen,Avenged Sevenfold,0.964
+af013b8e913a30ff36e279febd309caf,3,Pyramids,Frank Ocean,0.964
+af013b8e913a30ff36e279febd309caf,4,Pyramids,Frank Ocean,0.964
+af013b8e913a30ff36e279febd309caf,5,Pyramids,Frank Ocean,0.964
+af013b8e913a30ff36e279febd309caf,6,Pyramids,Frank Ocean,0.964
+af013b8e913a30ff36e279febd309caf,7,Numb,Linkin Park,0.963
+af013b8e913a30ff36e279febd309caf,8,Numb,Linkin Park,0.963
+af013b8e913a30ff36e279febd309caf,9,Hurts Like Heaven - Live,Coldplay,0.963
+af013b8e913a30ff36e279febd309caf,10,Comfortable Liar,Chevelle,0.957
+04939b224ac61ca0f49f40a7d4ecb090,1,Farewell,Alan Menken,0.993
+04939b224ac61ca0f49f40a7d4ecb090,2,Epilogue,Christophe Beck,0.993
+04939b224ac61ca0f49f40a7d4ecb090,3,The Storm Approaches,Joel McNeely,0.99
+04939b224ac61ca0f49f40a7d4ecb090,4,Brandenburg Concerto No. 2 in F Major BWV 1047: II. Andante,Slovak Chamber Orchestra,0.986
+04939b224ac61ca0f49f40a7d4ecb090,5,Edward,Various Artists,0.986
+04939b224ac61ca0f49f40a7d4ecb090,6,Indaco,Ludovico Einaudi,0.984
+04939b224ac61ca0f49f40a7d4ecb090,7,Journey,Luciano,0.982
+04939b224ac61ca0f49f40a7d4ecb090,8,"Depuis le jour""""",Gustave Charpentier,0.982
+04939b224ac61ca0f49f40a7d4ecb090,9,Chiyo's Prayer,John Williams,0.982
+04939b224ac61ca0f49f40a7d4ecb090,10,Council Meeting,Alan Menken,0.982
+2a54617e3e8b16905fbf75782dd9e438,1,Analogue (All I Want),a-ha,0.94
+2a54617e3e8b16905fbf75782dd9e438,2,Shelter - Live,Birdy,0.933
+2a54617e3e8b16905fbf75782dd9e438,3,Don't Get Around Much Anymore,Ella Fitzgerald,0.928
+2a54617e3e8b16905fbf75782dd9e438,4,River,Béla Fleck and the Flecktones,0.91
+2a54617e3e8b16905fbf75782dd9e438,5,Fiddle and the Drum (Live),A Perfect Circle,0.902
+2a54617e3e8b16905fbf75782dd9e438,6,Eu Só Quero,Rita Guerra,0.902
+2a54617e3e8b16905fbf75782dd9e438,7,See You Soon - Live In Sydney,Coldplay,0.901
+2a54617e3e8b16905fbf75782dd9e438,8,Somewhere - Live In Paris/1965,The Supremes,0.9
+2a54617e3e8b16905fbf75782dd9e438,9,Ave Maria,The Cranberries,0.9
+2a54617e3e8b16905fbf75782dd9e438,10,A Song For You,Whitney Houston,0.9
+ec25039feed85a7c2acf38e61150f363,1,Holiday,Metronomy,0.957
+ec25039feed85a7c2acf38e61150f363,2,Years - Vocal Extended Mix,Alesso,0.942
+ec25039feed85a7c2acf38e61150f363,3,"Me, Myself And Time",Demi Lovato,0.938
+ec25039feed85a7c2acf38e61150f363,4,All Night - Cash Cash Radio Edit,Icona Pop,0.934
+ec25039feed85a7c2acf38e61150f363,5,Take Me Home (feat. Bebe Rexha),Cash Cash,0.917
+ec25039feed85a7c2acf38e61150f363,6,Take Me Home (feat. Bebe Rexha),Cash Cash,0.917
+ec25039feed85a7c2acf38e61150f363,7,Take Me Home (feat. Bebe Rexha),Cash Cash,0.917
+ec25039feed85a7c2acf38e61150f363,8,Strobe,Friendly Fires,0.915
+ec25039feed85a7c2acf38e61150f363,9,Faith - Extended Mix,BlasterJaxx,0.911
+ec25039feed85a7c2acf38e61150f363,10,On Our Way,The Royal Concept,0.904
+57dc902666152367cfe8be0d52a7a7b7,1,This Is The Place,Red Hot Chili Peppers,0.984
+57dc902666152367cfe8be0d52a7a7b7,2,Set Fire To The Rain,Adele,0.978
+57dc902666152367cfe8be0d52a7a7b7,3,Set Fire to the Rain,Adele,0.978
+57dc902666152367cfe8be0d52a7a7b7,4,Set Fire To The Rain,Adele,0.978
+57dc902666152367cfe8be0d52a7a7b7,5,Set Fire To The Rain,Adele,0.978
+57dc902666152367cfe8be0d52a7a7b7,6,In The Shadow [Sunday Morning] - Single Version,Broken Door,0.964
+57dc902666152367cfe8be0d52a7a7b7,7,Cold Cold Man,Saint Motel,0.957
+57dc902666152367cfe8be0d52a7a7b7,8,Wherever You Will Go,The Calling,0.945
+57dc902666152367cfe8be0d52a7a7b7,9,After The Storm,Shovels & Rope,0.943
+57dc902666152367cfe8be0d52a7a7b7,10,Birmingham,Shovels & Rope,0.943
+4f96c4f3be65da13d98cfd4242fcb855,1,Into The Sunlight,Alan Menken,0.95
+4f96c4f3be65da13d98cfd4242fcb855,2,Rebuilding Pixie Hollow,Joel McNeely,0.943
+4f96c4f3be65da13d98cfd4242fcb855,3,Cinema Paradiso - Nuovo Cinema Paradiso,Ennio Morricone,0.942
+4f96c4f3be65da13d98cfd4242fcb855,4,Nyx Chases Gruff,Joel McNeely,0.942
+4f96c4f3be65da13d98cfd4242fcb855,5,Sonata Pathetique,Classical Study Music,0.94
+4f96c4f3be65da13d98cfd4242fcb855,6,Intro - Live,Megadeth,0.939
+4f96c4f3be65da13d98cfd4242fcb855,7,Some People Are Worth Melting For,Christophe Beck,0.937
+4f96c4f3be65da13d98cfd4242fcb855,8,Naturespace,Music For Absolute Sleep,0.937
+4f96c4f3be65da13d98cfd4242fcb855,9,Barcarolle,Jacques Offenbach,0.935
+4f96c4f3be65da13d98cfd4242fcb855,10,Warszawa - Live; 2005 Remastered Version,David Bowie,0.933
+67fb84f6e9462b7b8c0d0916f99d1293,1,The Two Brothers,Various Artists,0.991
+67fb84f6e9462b7b8c0d0916f99d1293,2,Lux Arumque,Eric Whitacre,0.99
+67fb84f6e9462b7b8c0d0916f99d1293,3,Symphonies of Wind Instruments (1920 version),Igor Stravinsky,0.988
+67fb84f6e9462b7b8c0d0916f99d1293,4,"La cheminee du roi Rene, Op. 205: IV. La Malousinglade",Darius Milhaud,0.987
+67fb84f6e9462b7b8c0d0916f99d1293,5,Back On The Breadline,Hunters & Collectors,0.987
+67fb84f6e9462b7b8c0d0916f99d1293,6,Song F,Bruce Hornsby,0.985
+67fb84f6e9462b7b8c0d0916f99d1293,7,Finding Satsu,John Williams,0.984
+67fb84f6e9462b7b8c0d0916f99d1293,8,Sheaf And Knife,Various Artists,0.983
+67fb84f6e9462b7b8c0d0916f99d1293,9,"Suite d'apres Corrette, Op. 161: VII. Menuets I, II and III",Darius Milhaud,0.983
+67fb84f6e9462b7b8c0d0916f99d1293,10,Cats Love Theme,George Bruns,0.982
+06f09645c2038a033aa762659191c31d,1,There She Goes,Taio Cruz,0.953
+06f09645c2038a033aa762659191c31d,2,Bob Dylan's 115th Dream,Taj Mahal,0.952
+06f09645c2038a033aa762659191c31d,3,Rock That Body,Black Eyed Peas,0.947
+06f09645c2038a033aa762659191c31d,4,She Bangs - English Version,Ricky Martin,0.947
+06f09645c2038a033aa762659191c31d,5,Bad Boy Lick A New Shot (Jungle Bullet),Beenie Man & Ninja Ford,0.945
+06f09645c2038a033aa762659191c31d,6,Girls Dem Sugar,Beenie Man,0.945
+06f09645c2038a033aa762659191c31d,7,Blame It On The Girls,MIKA,0.944
+06f09645c2038a033aa762659191c31d,8,Blame It On The Girls,MIKA,0.944
+06f09645c2038a033aa762659191c31d,9,We Run The Night,Havana Brown,0.944
+06f09645c2038a033aa762659191c31d,10,Moves Like Jagger (Radio Edit) [feat. Christina Aguilera],Maroon 5,0.944
+e9c742d5f9c9f29a6456d2d808c5c719,1,Hair of the Dog (Studio Demo),Nazareth,0.882
+e9c742d5f9c9f29a6456d2d808c5c719,2,Sookie Sookie,Steppenwolf,0.876
+e9c742d5f9c9f29a6456d2d808c5c719,3,Surfin' Bird,The Trashmen,0.864
+e9c742d5f9c9f29a6456d2d808c5c719,4,Surfin Bird,The Trashmen,0.864
+e9c742d5f9c9f29a6456d2d808c5c719,5,The Rhythm Of The Night,Corona,0.864
+e9c742d5f9c9f29a6456d2d808c5c719,6,The Rhythm Of The Night,Corona,0.864
+e9c742d5f9c9f29a6456d2d808c5c719,7,You Have Changed - Rap Beat,Popof,0.852
+e9c742d5f9c9f29a6456d2d808c5c719,8,I Feel Love,Donna Summer,0.843
+e9c742d5f9c9f29a6456d2d808c5c719,9,Batonga,Angelique Kidjo,0.841
+e9c742d5f9c9f29a6456d2d808c5c719,10,The Big Sky - Special Single Mix,Kate Bush,0.832
+f518abe5dc16a603528b12885ccc04fb,1,Barcelona,KAZAKY,0.973
+f518abe5dc16a603528b12885ccc04fb,2,Cosas Imposibles,Gustavo Cerati,0.956
+f518abe5dc16a603528b12885ccc04fb,3,Swimsuits,The Cool Kids,0.954
+f518abe5dc16a603528b12885ccc04fb,4,BBC,JAY Z,0.953
+f518abe5dc16a603528b12885ccc04fb,5,Arc of Time,Bright Eyes,0.951
+f518abe5dc16a603528b12885ccc04fb,6,Gettin' Jiggy Wit It,Will Smith,0.948
+f518abe5dc16a603528b12885ccc04fb,7,Gettin' Jiggy Wit It,Will Smith,0.948
+f518abe5dc16a603528b12885ccc04fb,8,Indestructible,Matisyahu,0.944
+f518abe5dc16a603528b12885ccc04fb,9,Insects Don't Know (space Cigale Mix),Ghostown,0.944
+f518abe5dc16a603528b12885ccc04fb,10,I Know You Want Me (Calle Ocho),Pitbull,0.942
+b0a0786204b6f2cce4454771a00eefc6,1,Acid Orgy,Alien Vampires,0.93
+b0a0786204b6f2cce4454771a00eefc6,2,Pump It,The Black Eyed Peas,0.918
+b0a0786204b6f2cce4454771a00eefc6,3,Bustin' Surfboards,The Tornadoes,0.902
+b0a0786204b6f2cce4454771a00eefc6,4,Riddle,Bit Brigade,0.889
+b0a0786204b6f2cce4454771a00eefc6,5,I Love London,Crystal Fighters,0.883
+b0a0786204b6f2cce4454771a00eefc6,6,7/4 (Shoreline),Broken Social Scene,0.875
+b0a0786204b6f2cce4454771a00eefc6,7,Rhinocerize,The Apples,0.874
+b0a0786204b6f2cce4454771a00eefc6,8,Black Gloves - The Bloody Beetroots remix,Goose,0.868
+b0a0786204b6f2cce4454771a00eefc6,9,Blitz,Digitalism,0.861
+b0a0786204b6f2cce4454771a00eefc6,10,Burn It To The Ground,Nickelback,0.859
+be74d895556244e2a3076245b51da802,1,Sun Structures,Temples,0.922
+be74d895556244e2a3076245b51da802,2,Broken Boy Soldier,The Raconteurs,0.905
+be74d895556244e2a3076245b51da802,3,Broken Boy Soldier,The Raconteurs,0.905
+be74d895556244e2a3076245b51da802,4,Ageless Beauty,Stars,0.905
+be74d895556244e2a3076245b51da802,5,Heartbreaker,The Walkmen,0.904
+be74d895556244e2a3076245b51da802,6,Whirring,The Joy Formidable,0.898
+be74d895556244e2a3076245b51da802,7,Misprint,Restorations,0.894
+be74d895556244e2a3076245b51da802,8,IFUCKINGLOVEYOU,Big Black Delta,0.89
+be74d895556244e2a3076245b51da802,9,Full Imperial Collapse,Darkest Hour,0.889
+be74d895556244e2a3076245b51da802,10,Alone,Donovan Wolfington,0.885
+98a06c37cca884c2163a947d6e4c4c09,1,Bombing Mission (From Final Fantasy),RMaster,0.958
+98a06c37cca884c2163a947d6e4c4c09,2,No Eye Candy,Slothrust,0.954
+98a06c37cca884c2163a947d6e4c4c09,3,Beat Around the Bush,Nothing,0.953
+98a06c37cca884c2163a947d6e4c4c09,4,WIXIW,Liars,0.95
+98a06c37cca884c2163a947d6e4c4c09,5,"Sonata in G minor, BWV 1030b: Siciliano",Jonathan Manson & Trevor Pinnock,0.95
+98a06c37cca884c2163a947d6e4c4c09,6,As We Sleep in a Japanese Garden,Sébastien Schuller,0.949
+98a06c37cca884c2163a947d6e4c4c09,7,Fabricator - Radio Edit,Sebastian Brandt,0.948
+98a06c37cca884c2163a947d6e4c4c09,8,Awesome to the Max,Ephixa,0.948
+98a06c37cca884c2163a947d6e4c4c09,9,Nattskift,Gösta Berlings Saga,0.947
+98a06c37cca884c2163a947d6e4c4c09,10,Elegy For All The Dead Rock Stars,Thurston Moore,0.945
+4abce8127ece35dab4d024cb63db3010,1,Sisters,AVAN LAVA,0.933
+4abce8127ece35dab4d024cb63db3010,2,Coasting Earth,Hard Mix,0.923
+4abce8127ece35dab4d024cb63db3010,3,Woman Woman,AWOLNATION,0.914
+4abce8127ece35dab4d024cb63db3010,4,Baby Don't Lie,Gwen Stefani,0.901
+4abce8127ece35dab4d024cb63db3010,5,I Follow Rivers,Audiogroove,0.898
+4abce8127ece35dab4d024cb63db3010,6,Break It Down Again,Tears For Fears,0.886
+4abce8127ece35dab4d024cb63db3010,7,Say My Name,ODESZA,0.855
+4abce8127ece35dab4d024cb63db3010,8,Always,Panama,0.851
+4abce8127ece35dab4d024cb63db3010,9,Bad,Michael Jackson,0.843
+4abce8127ece35dab4d024cb63db3010,10,Champagne Nights - Original Mix,Leventina,0.835
+24234268ddbbd4421d00b0edeab1c77d,1,Det kommer aldrig va över för mig,Håkan Hellström,0.975
+24234268ddbbd4421d00b0edeab1c77d,2,Det kommer aldrig va över för mig,Håkan Hellström,0.975
+24234268ddbbd4421d00b0edeab1c77d,3,Det kommer aldrig va över för mig,Håkan Hellström,0.975
+24234268ddbbd4421d00b0edeab1c77d,4,Det kommer aldrig va över för mig,Håkan Hellström,0.975
+24234268ddbbd4421d00b0edeab1c77d,5,Pale Shelter - 2nd Single Version,Tears For Fears,0.959
+24234268ddbbd4421d00b0edeab1c77d,6,New Year's Day,U2,0.959
+24234268ddbbd4421d00b0edeab1c77d,7,The Hardest Part,Coldplay,0.956
+24234268ddbbd4421d00b0edeab1c77d,8,Flower Drum Song,Cold War Kids,0.955
+24234268ddbbd4421d00b0edeab1c77d,9,Neon,Sander Van Doorn,0.954
+24234268ddbbd4421d00b0edeab1c77d,10,My Body,Young the Giant,0.952
+f4b93ec1bfffc441992a69a852361632,1,Bonkers,Dizzee Rascal,0.963
+f4b93ec1bfffc441992a69a852361632,2,Good Time,Owl City,0.941
+f4b93ec1bfffc441992a69a852361632,3,Good Time,Owl City,0.941
+f4b93ec1bfffc441992a69a852361632,4,Bottled In Cork,Ted Leo and the Pharmacists,0.94
+f4b93ec1bfffc441992a69a852361632,5,I See You Baby - Fatboy Slim Radio Edit,Groove Armada,0.93
+f4b93ec1bfffc441992a69a852361632,6,California Dreaming - Radio Edit,Royal DJs,0.924
+f4b93ec1bfffc441992a69a852361632,7,Bob Dylan's 115th Dream,Taj Mahal,0.923
+f4b93ec1bfffc441992a69a852361632,8,Cancer For The Cure,Eels,0.92
+f4b93ec1bfffc441992a69a852361632,9,Bad Boy Lick A New Shot (Jungle Bullet),Beenie Man & Ninja Ford,0.918
+f4b93ec1bfffc441992a69a852361632,10,Girls Dem Sugar,Beenie Man,0.918
+3371ab38b68333db5db569537b414c65,1,Olvídame,Julión Álvarez Y Su Norteño Banda,0.984
+3371ab38b68333db5db569537b414c65,2,Always Like This,Bombay Bicycle Club,0.97
+3371ab38b68333db5db569537b414c65,3,La Doble Cara,Banda Carnaval,0.963
+3371ab38b68333db5db569537b414c65,4,Tú Ya Eres Cosa Del Pasado,Fidel Rueda,0.957
+3371ab38b68333db5db569537b414c65,5,I Like a Sleighride (Jingle Bells),Peggy Lee,0.956
+3371ab38b68333db5db569537b414c65,6,Personal Jesus,Johnny Cash,0.953
+3371ab38b68333db5db569537b414c65,7,Los Mimbrales,Carlos Cano,0.949
+3371ab38b68333db5db569537b414c65,8,Crash on the Levee,Bob Dylan,0.948
+3371ab38b68333db5db569537b414c65,9,Me To Voria - 2005 - Remaster;,Stélios Kazantzídis,0.944
+3371ab38b68333db5db569537b414c65,10,Because Of You,Ne-Yo,0.943
+8f356bc476945e6c8f5c843bbd0bfcd2,1,My Name,Ferraby Lionheart,0.932
+8f356bc476945e6c8f5c843bbd0bfcd2,2,Jacob Fleet,And Also The Trees,0.925
+8f356bc476945e6c8f5c843bbd0bfcd2,3,Varför är du så tyst,Thåström,0.913
+8f356bc476945e6c8f5c843bbd0bfcd2,4,"If You See Her, Say Hello",Bob Dylan,0.907
+8f356bc476945e6c8f5c843bbd0bfcd2,5,"If You See Her, Say Hello",Bob Dylan,0.907
+8f356bc476945e6c8f5c843bbd0bfcd2,6,"Ferrandini – Quartet in E Flat Major, Op. 1 III. Presto",Exam Study Classical Music Orchestra,0.906
+8f356bc476945e6c8f5c843bbd0bfcd2,7,Cry Me a River,Dinah Washington,0.905
+8f356bc476945e6c8f5c843bbd0bfcd2,8,When The Mourning Comes,Christian Kjellvander,0.905
+8f356bc476945e6c8f5c843bbd0bfcd2,9,Nihterides Ki Arahnes,Stélios Kazantzídis,0.901
+8f356bc476945e6c8f5c843bbd0bfcd2,10,Ding Dong! Merrily on High,"Choir of Clare College, Cambridge",0.897
+ac08669f9d162aea8a4c599f311ef979,1,The Light (Her Hands Were Leaves),Alexi Murdoch,0.961
+ac08669f9d162aea8a4c599f311ef979,2,The Ocean Floor,Electric President,0.96
+ac08669f9d162aea8a4c599f311ef979,3,Flynn Lives,Daft Punk,0.957
+ac08669f9d162aea8a4c599f311ef979,4,Flynn Lives,Daft Punk,0.957
+ac08669f9d162aea8a4c599f311ef979,5,Nowhere Near,Yo La Tengo,0.955
+ac08669f9d162aea8a4c599f311ef979,6,Boogie Man,Aerosmith,0.952
+ac08669f9d162aea8a4c599f311ef979,7,Pink Frosty Demo,Fugazi,0.952
+ac08669f9d162aea8a4c599f311ef979,8,Come Rain or Come Shine,Bill Evans Trio,0.951
+ac08669f9d162aea8a4c599f311ef979,9,Feuilles d'Acanthe,Maxence Cyrin,0.948
+ac08669f9d162aea8a4c599f311ef979,10,Brand New Angel,Jeff Bridges,0.947
+2ff7c2fcd53fda30bc1cd3a55e2935d3,1,Ready to Go,Republica,0.951
+2ff7c2fcd53fda30bc1cd3a55e2935d3,2,Modern World,Ex Cops,0.943
+2ff7c2fcd53fda30bc1cd3a55e2935d3,3,Rapture - Avicii New Generation Radio Edit,Nadia Ali,0.939
+2ff7c2fcd53fda30bc1cd3a55e2935d3,4,Welcome To The Jungle,Guns N' Roses,0.934
+2ff7c2fcd53fda30bc1cd3a55e2935d3,5,Welcome To The Jungle,Guns N' Roses,0.934
+2ff7c2fcd53fda30bc1cd3a55e2935d3,6,Sucker,Charli XCX,0.923
+2ff7c2fcd53fda30bc1cd3a55e2935d3,7,She Don't Know Me,Bon Jovi,0.92
+2ff7c2fcd53fda30bc1cd3a55e2935d3,8,Breathe In,Camelot,0.919
+2ff7c2fcd53fda30bc1cd3a55e2935d3,9,Falling - Alex Rodriguez Remix,Alex Rodriguez,0.918
+2ff7c2fcd53fda30bc1cd3a55e2935d3,10,Behold the Sun,Extol,0.913
+9e7e8c9ce15b39496071f7533d8beccd,1,Det var en gång en fågel,Laser Inc.,0.952
+9e7e8c9ce15b39496071f7533d8beccd,2,Libra - Original Mix,Sandro Silva,0.931
+9e7e8c9ce15b39496071f7533d8beccd,3,Gotta Be Ur Man,Chris Brown,0.929
+9e7e8c9ce15b39496071f7533d8beccd,4,United We Are,Hardwell,0.928
+9e7e8c9ce15b39496071f7533d8beccd,5,Aura,Lady Gaga,0.927
+9e7e8c9ce15b39496071f7533d8beccd,6,Aura,Lady Gaga,0.927
+9e7e8c9ce15b39496071f7533d8beccd,7,Sally,Hardwell,0.927
+9e7e8c9ce15b39496071f7533d8beccd,8,B.M.F. (Blowin' Money Fast),Rick Ross,0.923
+9e7e8c9ce15b39496071f7533d8beccd,9,Blue,Calvin Harris,0.921
+9e7e8c9ce15b39496071f7533d8beccd,10,Blue,Calvin Harris,0.921
+0c9b6fe5ba3bde5e8f6856618b74750b,1,Lonesome Tears,Beck,0.973
+0c9b6fe5ba3bde5e8f6856618b74750b,2,93 Ave. Blues,Swans,0.969
+0c9b6fe5ba3bde5e8f6856618b74750b,3,Long the Desert Mile,Caspian,0.961
+0c9b6fe5ba3bde5e8f6856618b74750b,4,Angelica,Lamb,0.951
+0c9b6fe5ba3bde5e8f6856618b74750b,5,Gone in Bloom and Bough,Caspian,0.947
+0c9b6fe5ba3bde5e8f6856618b74750b,6,Request Denied,108,0.941
+0c9b6fe5ba3bde5e8f6856618b74750b,7,Year Zero,Thirty Seconds To Mars,0.94
+0c9b6fe5ba3bde5e8f6856618b74750b,8,Black Wave/Bad Vibrations,Arcade Fire,0.939
+0c9b6fe5ba3bde5e8f6856618b74750b,9,Holy Fallout,Cynic,0.938
+0c9b6fe5ba3bde5e8f6856618b74750b,10,Barbarian,Electric Wizard,0.938
+44b1dcdfd8f22ae2044edefdb446539b,1,Vis-A-Vis,Allah-Las,0.908
+44b1dcdfd8f22ae2044edefdb446539b,2,Tell Me (What's On Your Mind),Allah-Las,0.899
+44b1dcdfd8f22ae2044edefdb446539b,3,Paid For That,Paul Banks,0.865
+44b1dcdfd8f22ae2044edefdb446539b,4,Discipline,Nine Inch Nails,0.864
+44b1dcdfd8f22ae2044edefdb446539b,5,It Beats For You,My Morning Jacket,0.862
+44b1dcdfd8f22ae2044edefdb446539b,6,Handshake,Two Door Cinema Club,0.849
+44b1dcdfd8f22ae2044edefdb446539b,7,Handshake,Two Door Cinema Club,0.849
+44b1dcdfd8f22ae2044edefdb446539b,8,Handshake,Two Door Cinema Club,0.849
+44b1dcdfd8f22ae2044edefdb446539b,9,Heroes - Single Version; 2002 Digital Remaster,David Bowie,0.84
+44b1dcdfd8f22ae2044edefdb446539b,10,Face It,Beach Fossils,0.835
+cb8b96f68ca98e5c650e4a27bc6d34d5,1,Venus,Lady Gaga,0.983
+cb8b96f68ca98e5c650e4a27bc6d34d5,2,Venus,Lady Gaga,0.983
+cb8b96f68ca98e5c650e4a27bc6d34d5,3,Disturbia,Rihanna,0.98
+cb8b96f68ca98e5c650e4a27bc6d34d5,4,Disturbia,Rihanna,0.98
+cb8b96f68ca98e5c650e4a27bc6d34d5,5,All For You,Janet Jackson,0.974
+cb8b96f68ca98e5c650e4a27bc6d34d5,6,All For You,Janet Jackson,0.974
+cb8b96f68ca98e5c650e4a27bc6d34d5,7,Mr. Saxobeat - Radio Edit,Alexandra Stan,0.972
+cb8b96f68ca98e5c650e4a27bc6d34d5,8,Mr. Saxobeat - Radio Edit,Alexandra Stan,0.972
+cb8b96f68ca98e5c650e4a27bc6d34d5,9,Cuando Zarpa El Amor,Camela,0.972
+cb8b96f68ca98e5c650e4a27bc6d34d5,10,The Monster,Eminem,0.97
+4328f2842b519b9f2a1e4bb887b5a354,1,Dive (Memoryhouse Remix),Tycho,0.969
+4328f2842b519b9f2a1e4bb887b5a354,2,Sea Within A Sea,The Horrors,0.967
+4328f2842b519b9f2a1e4bb887b5a354,3,Mileena's Theme,Tokimonsta,0.962
+4328f2842b519b9f2a1e4bb887b5a354,4,9-bit Expedition,Lifeformed,0.96
+4328f2842b519b9f2a1e4bb887b5a354,5,Guilford Fall Demo,Fugazi,0.955
+4328f2842b519b9f2a1e4bb887b5a354,6,Out There (5th Dimension) - Original Mix,Nickson,0.953
+4328f2842b519b9f2a1e4bb887b5a354,7,Psychic Hearts,Thurston Moore,0.952
+4328f2842b519b9f2a1e4bb887b5a354,8,Debaser,Pixies,0.951
+4328f2842b519b9f2a1e4bb887b5a354,9,I Ran (So Far Away),A Flock Of Seagulls,0.95
+4328f2842b519b9f2a1e4bb887b5a354,10,I Ran (So Far Away),A Flock Of Seagulls,0.95
+467ac0f96ab78ee74a04a296e14efe9d,1,Maybe,The Ink Spots,0.986
+467ac0f96ab78ee74a04a296e14efe9d,2,Candace,And Also The Trees,0.985
+467ac0f96ab78ee74a04a296e14efe9d,3,Innamorata,Jeff Steinberg,0.972
+467ac0f96ab78ee74a04a296e14efe9d,4,Night Sounds,Music For Absolute Sleep,0.972
+467ac0f96ab78ee74a04a296e14efe9d,5,In Search Of Peter Pan,Kate Bush,0.971
+467ac0f96ab78ee74a04a296e14efe9d,6,Side Of The Road,Beck,0.969
+467ac0f96ab78ee74a04a296e14efe9d,7,Should Have Known Better,Sufjan Stevens,0.968
+467ac0f96ab78ee74a04a296e14efe9d,8,Beautiful Girl,William Fitzsimmons,0.968
+467ac0f96ab78ee74a04a296e14efe9d,9,Bolero of Fire,The St. Louis Ocarina Trio,0.967
+467ac0f96ab78ee74a04a296e14efe9d,10,),Sufjan Stevens,0.965
+fac64a3b69a8329f0684e22044afa99e,1,An Honest Mistake,The Bravery,0.946
+fac64a3b69a8329f0684e22044afa99e,2,Easy,Real Estate,0.94
+fac64a3b69a8329f0684e22044afa99e,3,Party Hard,Pulp,0.93
+fac64a3b69a8329f0684e22044afa99e,4,Alisa,Cut Copy,0.922
+fac64a3b69a8329f0684e22044afa99e,5,Am I Wry? No,Mew,0.92
+fac64a3b69a8329f0684e22044afa99e,6,La Segunda Oportunidad,La Habitación Roja,0.918
+fac64a3b69a8329f0684e22044afa99e,7,Planting Seeds,Built To Spill,0.917
+fac64a3b69a8329f0684e22044afa99e,8,La Palabra,León Benavente,0.915
+fac64a3b69a8329f0684e22044afa99e,9,That's Where You're Wrong,Arctic Monkeys,0.909
+fac64a3b69a8329f0684e22044afa99e,10,That's Where You're Wrong,Arctic Monkeys,0.909
+861df6df3177c4905c16ca947f0cee9b,1,"Septet In E-Flat Major, Op. 20: III. Tempo di menuetto",Ludwig van Beethoven,0.993
+861df6df3177c4905c16ca947f0cee9b,2,Percy's Bath,Alan Menken,0.99
+861df6df3177c4905c16ca947f0cee9b,3,"Lieder ohne Worte, Op.53: No. 3. Presto agitato in G minor",Felix Mendelssohn,0.99
+861df6df3177c4905c16ca947f0cee9b,4,Fur Elise,Classical Study Music,0.989
+861df6df3177c4905c16ca947f0cee9b,5,"6 Etudes d'exécution transcendante d'après Paganini, S.140: 3. La Campanella",Franz Liszt,0.986
+861df6df3177c4905c16ca947f0cee9b,6,Tio Sabas - Instrumental,Paco De Lucia,0.985
+861df6df3177c4905c16ca947f0cee9b,7,Les Sablons,Oskar Schuster,0.985
+861df6df3177c4905c16ca947f0cee9b,8,"Lieder ohne Worte, Op.30: No. 2. Allegro di molto in B flat minor",Felix Mendelssohn,0.984
+861df6df3177c4905c16ca947f0cee9b,9,Graduation Day,Classical Study Music,0.983
+861df6df3177c4905c16ca947f0cee9b,10,"12 Etudes, Op.10: No.5 In G Flat Black Keys""""",Frédéric Chopin,0.983
+9f0aa8a6bf2918cbade0e381c2537957,1,Almost A Year Since,Oddisee,0.955
+9f0aa8a6bf2918cbade0e381c2537957,2,Grand Guignol,Bajofondo,0.951
+9f0aa8a6bf2918cbade0e381c2537957,3,Pacific Coast Highway,Kavinsky,0.949
+9f0aa8a6bf2918cbade0e381c2537957,4,Come With Me - Radio Mix,Nora En Pure,0.949
+9f0aa8a6bf2918cbade0e381c2537957,5,Fools Gold,The Stone Roses,0.946
+9f0aa8a6bf2918cbade0e381c2537957,6,Fools Gold,The Stone Roses,0.946
+9f0aa8a6bf2918cbade0e381c2537957,7,Fools Gold - Remastered,The Stone Roses,0.946
+9f0aa8a6bf2918cbade0e381c2537957,8,Love Me (Dub),Ango,0.938
+9f0aa8a6bf2918cbade0e381c2537957,9,Cocaine Blues - Greg Wilson Remix,Escort,0.933
+9f0aa8a6bf2918cbade0e381c2537957,10,Cocaine Blues - Greg Wilson Remix,Escort,0.933
+f9da0e4f01e3bfe8b936edcc0834de35,1,Between A Man And A Woman,Kate Bush,0.817
+f9da0e4f01e3bfe8b936edcc0834de35,2,Satellite Of Love,Lou Reed,0.808
+f9da0e4f01e3bfe8b936edcc0834de35,3,"En höst, en vinter, en vår",Billy,0.758
+f9da0e4f01e3bfe8b936edcc0834de35,4,San Francisco (Be Sure to Wear Flowers in Your Hair) - Single Version,Scott McKenzie,0.719
+f9da0e4f01e3bfe8b936edcc0834de35,5,Everybody's Talkin',Harry Nilsson,0.719
+f9da0e4f01e3bfe8b936edcc0834de35,6,Everybody's Talkin',Harry Nilsson,0.719
+f9da0e4f01e3bfe8b936edcc0834de35,7,Everybody's Talkin',Harry Nilsson,0.719
+f9da0e4f01e3bfe8b936edcc0834de35,8,Christmas Will Be Just Another Lonely Day,Brenda Lee,0.718
+f9da0e4f01e3bfe8b936edcc0834de35,9,Turn Me Loose,Loverboy,0.718
+f9da0e4f01e3bfe8b936edcc0834de35,10,Etoile,Monade,0.714
+b11cdf1b83d78e24fd1e950a0b589409,1,Never Say Never - Omnia Remix,Armin van Buuren,0.976
+b11cdf1b83d78e24fd1e950a0b589409,2,Sandstorm (Dubstep RMX),Dubstep,0.956
+b11cdf1b83d78e24fd1e950a0b589409,3,Waste My Time,Bullet,0.95
+b11cdf1b83d78e24fd1e950a0b589409,4,Eternally Yrs,Sepalcure,0.949
+b11cdf1b83d78e24fd1e950a0b589409,5,Dubstep Killer,Space Temple,0.949
+b11cdf1b83d78e24fd1e950a0b589409,6,Lost Soul Society - Original Mix,Armin,0.947
+b11cdf1b83d78e24fd1e950a0b589409,7,Shuriken,Madeon,0.944
+b11cdf1b83d78e24fd1e950a0b589409,8,Pure Thrust - NU NRG Remix,Basic Dawn,0.943
+b11cdf1b83d78e24fd1e950a0b589409,9,Escape,Vince DiCola,0.943
+b11cdf1b83d78e24fd1e950a0b589409,10,Hear You Calling - En Motion Remix,Aurora,0.939
+5eee8a0d6604e65a92a56f5860a0a41f,1,Warmness On The Soul,Avenged Sevenfold,0.885
+5eee8a0d6604e65a92a56f5860a0a41f,2,If You Want Me To,Adam Green,0.877
+5eee8a0d6604e65a92a56f5860a0a41f,3,A La Primera Persona,Alejandro Sanz,0.876
+5eee8a0d6604e65a92a56f5860a0a41f,4,A la primera persona,Alejandro Sanz,0.876
+5eee8a0d6604e65a92a56f5860a0a41f,5,Cuando Suba La Marea,Amaral,0.862
+5eee8a0d6604e65a92a56f5860a0a41f,6,Insoportable,Aterciopelados,0.855
+5eee8a0d6604e65a92a56f5860a0a41f,7,María La Portuguesa,Carlos Cano,0.854
+5eee8a0d6604e65a92a56f5860a0a41f,8,María De La O,Carlos Cano,0.854
+5eee8a0d6604e65a92a56f5860a0a41f,9,Sin Miedo A Nada,Alex Ubago,0.848
+5eee8a0d6604e65a92a56f5860a0a41f,10,Told You So,Leslie Clio,0.842
+1c43b609f0b4a55de35803000c86ade0,1,IFUCKINGLOVEYOU,Big Black Delta,0.968
+1c43b609f0b4a55de35803000c86ade0,2,A Nightmare To Remember,Dream Theater,0.959
+1c43b609f0b4a55de35803000c86ade0,3,Alone,Donovan Wolfington,0.956
+1c43b609f0b4a55de35803000c86ade0,4,Hoppípolla,Sigur Rós,0.955
+1c43b609f0b4a55de35803000c86ade0,5,Hoppípolla,Sigur Rós,0.955
+1c43b609f0b4a55de35803000c86ade0,6,Cosmonaut,Wolfmother,0.951
+1c43b609f0b4a55de35803000c86ade0,7,Dulce introduccion al caos,Extremoduro,0.95
+1c43b609f0b4a55de35803000c86ade0,8,Godless Run,W.A.S.P.,0.949
+1c43b609f0b4a55de35803000c86ade0,9,Whitechapel,S.C.U.M.,0.941
+1c43b609f0b4a55de35803000c86ade0,10,No Cars Go,Arcade Fire,0.938
+74c7b4328621b7f6578f5b6f79245dd9,1,Rectifier,Daft Punk,0.964
+74c7b4328621b7f6578f5b6f79245dd9,2,Del Fuego,Fat Freddy's Drop,0.963
+74c7b4328621b7f6578f5b6f79245dd9,3,I Need to Know,Hans Zimmer,0.956
+74c7b4328621b7f6578f5b6f79245dd9,4,Golden Porsche,Mogwai,0.955
+74c7b4328621b7f6578f5b6f79245dd9,5,'Faith In Her',Clubroot,0.952
+74c7b4328621b7f6578f5b6f79245dd9,6,Burn Girl Prom Queen,Mogwai,0.952
+74c7b4328621b7f6578f5b6f79245dd9,7,One Breath,Anna Calvi,0.951
+74c7b4328621b7f6578f5b6f79245dd9,8,2/2 - 2004 Digital Remaster,Brian Eno,0.951
+74c7b4328621b7f6578f5b6f79245dd9,9,2/2 - 2004 Digital Remaster,Brian Eno,0.951
+74c7b4328621b7f6578f5b6f79245dd9,10,Pink Frosty Demo,Fugazi,0.942
+e58f04c3ee13d0f72a9d537b4e849670,1,World of Two,Cake,0.948
+e58f04c3ee13d0f72a9d537b4e849670,2,Robin Egg Blue,Cass McCombs,0.94
+e58f04c3ee13d0f72a9d537b4e849670,3,Hello Benjamin,Melpo Mene,0.93
+e58f04c3ee13d0f72a9d537b4e849670,4,Badinerie,Various Artists,0.928
+e58f04c3ee13d0f72a9d537b4e849670,5,That's None Of Your Business,Chuck Berry,0.912
+e58f04c3ee13d0f72a9d537b4e849670,6,1517,The Whitest Boy Alive,0.911
+e58f04c3ee13d0f72a9d537b4e849670,7,1517,The Whitest Boy Alive,0.911
+e58f04c3ee13d0f72a9d537b4e849670,8,My Guy,Mary Wells,0.908
+e58f04c3ee13d0f72a9d537b4e849670,9,Santa's Beard,The Beach Boys,0.905
+e58f04c3ee13d0f72a9d537b4e849670,10,Untold Stories,Buju Banton,0.903
+fc948340135d01bad9c383426af232ab,1,Missionary Man,Eurythmics,0.992
+fc948340135d01bad9c383426af232ab,2,Missionary Man,Eurythmics,0.992
+fc948340135d01bad9c383426af232ab,3,Missionary Man,Eurythmics,0.992
+fc948340135d01bad9c383426af232ab,4,"Yes Sir, I Can Boogie",Count Dee's Silver Disco Explosion,0.986
+fc948340135d01bad9c383426af232ab,5,Shut Up and Dance,Walk the Moon,0.979
+fc948340135d01bad9c383426af232ab,6,Club Can't Handle Me - feat. David Guetta,Flo Rida,0.977
+fc948340135d01bad9c383426af232ab,7,Every Thug Needs A Lady,Alkaline Trio,0.972
+fc948340135d01bad9c383426af232ab,8,Every Thug Needs a Lady,Alkaline Trio,0.972
+fc948340135d01bad9c383426af232ab,9,Breaking Up,Charli XCX,0.971
+fc948340135d01bad9c383426af232ab,10,Fiction - Dreams In Digital,Orgy,0.969
+0dfcfd746ba619ae8c0a85f72cecdfba,1,White Gutz,Dungeon Family,0.96
+0dfcfd746ba619ae8c0a85f72cecdfba,2,Canta Con Nosotros (Katuka),Siempre Asi,0.959
+0dfcfd746ba619ae8c0a85f72cecdfba,3,Que nadie me levante la voz,Bebe,0.959
+0dfcfd746ba619ae8c0a85f72cecdfba,4,"Breaker, Breaker",GZA,0.958
+0dfcfd746ba619ae8c0a85f72cecdfba,5,Always On Time,Ja Rule,0.958
+0dfcfd746ba619ae8c0a85f72cecdfba,6,Always On Time,Ja Rule,0.958
+0dfcfd746ba619ae8c0a85f72cecdfba,7,Hey Ladies,Beastie Boys,0.955
+0dfcfd746ba619ae8c0a85f72cecdfba,8,Cum On Everybody,Eminem,0.955
+0dfcfd746ba619ae8c0a85f72cecdfba,9,Atomic Dog,George S. Clinton,0.952
+0dfcfd746ba619ae8c0a85f72cecdfba,10,Mr. Clean,Viktor Vaughn,0.952
+1829212a600a1e77e6e69c869635b787,1,Tequila Sunrise,Eagles,0.971
+1829212a600a1e77e6e69c869635b787,2,Give Me Some Credit,Ann Peebles,0.971
+1829212a600a1e77e6e69c869635b787,3,Somebody That I Used To Know,Elliott Smith,0.967
+1829212a600a1e77e6e69c869635b787,4,Facility Girls,Soft Cell,0.959
+1829212a600a1e77e6e69c869635b787,5,"Merry Christmas, Baby",Otis Redding,0.953
+1829212a600a1e77e6e69c869635b787,6,Suspended In Gaffa,Kate Bush,0.952
+1829212a600a1e77e6e69c869635b787,7,Never Be Mine,Kate Bush,0.951
+1829212a600a1e77e6e69c869635b787,8,Girl With Grey Eyes,Big Country,0.944
+1829212a600a1e77e6e69c869635b787,9,Somethin' Stupid,Robbie Williams,0.944
+1829212a600a1e77e6e69c869635b787,10,It's All In The Game,Four Tops,0.936
+1917e8b68cd9835570ea93c0dbe11921,1,Counting Stars,OneRepublic,0.893
+1917e8b68cd9835570ea93c0dbe11921,2,Counting Stars,OneRepublic,0.893
+1917e8b68cd9835570ea93c0dbe11921,3,Counting Stars,OneRepublic,0.893
+1917e8b68cd9835570ea93c0dbe11921,4,Counting Stars,OneRepublic,0.893
+1917e8b68cd9835570ea93c0dbe11921,5,Counting Stars,OneRepublic,0.893
+1917e8b68cd9835570ea93c0dbe11921,6,Counting Stars,OneRepublic,0.893
+1917e8b68cd9835570ea93c0dbe11921,7,Counting Stars,OneRepublic,0.893
+1917e8b68cd9835570ea93c0dbe11921,8,Counting Stars,OneRepublic,0.893
+1917e8b68cd9835570ea93c0dbe11921,9,Counting Stars,OneRepublic,0.893
+1917e8b68cd9835570ea93c0dbe11921,10,Counting Stars,OneRepublic,0.893
+8242edc92fee25dcae83a1287b2edcc9,1,"I Can't Help Myself (Sugar Pie, Honey Bunch)",Four Tops,0.971
+8242edc92fee25dcae83a1287b2edcc9,2,Lyin' Eyes,Eagles,0.971
+8242edc92fee25dcae83a1287b2edcc9,3,Lyin' Eyes,Eagles,0.971
+8242edc92fee25dcae83a1287b2edcc9,4,Mystery Mail,Cass McCombs,0.969
+8242edc92fee25dcae83a1287b2edcc9,5,It's The Same Old Song,Four Tops,0.966
+8242edc92fee25dcae83a1287b2edcc9,6,"Finders Keepers, Losers Weepers",The Marvelettes,0.958
+8242edc92fee25dcae83a1287b2edcc9,7,Honky Tonk Woman,Albert King,0.957
+8242edc92fee25dcae83a1287b2edcc9,8,Hawaiian Roller Coaster Ride,Mark Keali'i Ho'omalu,0.95
+8242edc92fee25dcae83a1287b2edcc9,9,Love Resurrection,Alison Moyet,0.948
+8242edc92fee25dcae83a1287b2edcc9,10,Love Resurrection,Alison Moyet,0.948
+2edc909db14e19e58343da8a3b218f38,1,Admit It,EMF,0.886
+2edc909db14e19e58343da8a3b218f38,2,Looking For A Kiss,New York Dolls,0.882
+2edc909db14e19e58343da8a3b218f38,3,Looking For A Kiss,New York Dolls,0.882
+2edc909db14e19e58343da8a3b218f38,4,Lo Que Te Quiero Decir,Che Sudaka,0.844
+2edc909db14e19e58343da8a3b218f38,5,One Bad Stud,The Blasters,0.84
+2edc909db14e19e58343da8a3b218f38,6,Sweet Hitch-Hiker,Creedence Clearwater Revival,0.839
+2edc909db14e19e58343da8a3b218f38,7,Sweet Hitch-Hiker,Creedence Clearwater Revival,0.839
+2edc909db14e19e58343da8a3b218f38,8,Colombia Conexion,Aterciopelados,0.836
+2edc909db14e19e58343da8a3b218f38,9,Violin,Kate Bush,0.835
+2edc909db14e19e58343da8a3b218f38,10,Euro Megamix,2 Brothers On The 4th Floor,0.83
+9d4e29abb92554051d71a9fda7985677,1,In Dulci Jubilo,"Choir of King's College, Cambridge",0.967
+9d4e29abb92554051d71a9fda7985677,2,My Soul's Full of Glory,Hedy West,0.961
+9d4e29abb92554051d71a9fda7985677,3,Dealing,Cass McCombs,0.959
+9d4e29abb92554051d71a9fda7985677,4,Cry To Me,Heart,0.959
+9d4e29abb92554051d71a9fda7985677,5,Frankie Silvers,Hedy West,0.958
+9d4e29abb92554051d71a9fda7985677,6,Down the Highway,Bob Dylan,0.957
+9d4e29abb92554051d71a9fda7985677,7,Lemon Tree,"Peter, Paul and Mary",0.956
+9d4e29abb92554051d71a9fda7985677,8,I Know It’s Pathetic But That Was the Greatest Night of My Life,Sun Kil Moon,0.952
+9d4e29abb92554051d71a9fda7985677,9,Simple Twist of Fate,Bob Dylan,0.951
+9d4e29abb92554051d71a9fda7985677,10,Simple Twist Of Fate,Bob Dylan,0.951
+d2ef782da87a3e4c98035599227ca954,1,Limit To Your Love,James Blake,0.828
+d2ef782da87a3e4c98035599227ca954,2,Limit To Your Love,James Blake,0.828
+d2ef782da87a3e4c98035599227ca954,3,Limit To Your Love,James Blake,0.828
+d2ef782da87a3e4c98035599227ca954,4,I Love You More - 2002 - Remaster,Rene & Angela,0.817
+d2ef782da87a3e4c98035599227ca954,5,All The Time,Jeremih,0.816
+d2ef782da87a3e4c98035599227ca954,6,Sonnentanz (Sun Don’t Shine),Klangkarussell,0.8
+d2ef782da87a3e4c98035599227ca954,7,Sonnentanz (Sun Don’t Shine),Klangkarussell,0.8
+d2ef782da87a3e4c98035599227ca954,8,Insecure,Delilah,0.793
+d2ef782da87a3e4c98035599227ca954,9,Black Smoke,Cha-Cha,0.787
+d2ef782da87a3e4c98035599227ca954,10,Mine,Beyoncé,0.786
+f92ace61a1ee07e0f61f5f82a031691b,1,Need Your Heart (Candyland Remix) [feat. Kai],Adventure Club,0.979
+f92ace61a1ee07e0f61f5f82a031691b,2,N 2 Gether Now,Limp Bizkit,0.968
+f92ace61a1ee07e0f61f5f82a031691b,3,When You Hear The Bassline,Major Lazer,0.965
+f92ace61a1ee07e0f61f5f82a031691b,4,Candi Bar,Keith Murray,0.961
+f92ace61a1ee07e0f61f5f82a031691b,5,Check This Out - Original Club Mix,Cyberpunkers,0.955
+f92ace61a1ee07e0f61f5f82a031691b,6,Pain,A$AP Rocky,0.951
+f92ace61a1ee07e0f61f5f82a031691b,7,Love Language,Reflection Eternal,0.95
+f92ace61a1ee07e0f61f5f82a031691b,8,Fresh Prince - feat. Uncle Phil,Soprano,0.95
+f92ace61a1ee07e0f61f5f82a031691b,9,Barbra Streisand,Duck Sauce,0.948
+f92ace61a1ee07e0f61f5f82a031691b,10,Barbra Streisand,Duck Sauce,0.948
+ba8afbbec383c9fcee4353712ea807ef,1,You Sexy Thing (Re-Recorded / Remastered),Hot Chocolate,0.934
+ba8afbbec383c9fcee4353712ea807ef,2,Harlem,Bill Withers,0.933
+ba8afbbec383c9fcee4353712ea807ef,3,I Just Called To Say I Love You,Stevie Wonder,0.933
+ba8afbbec383c9fcee4353712ea807ef,4,I Just Called To Say I Love You,stevie wonder,0.933
+ba8afbbec383c9fcee4353712ea807ef,5,King Of Emotion,Big Country,0.927
+ba8afbbec383c9fcee4353712ea807ef,6,Trabubulandia,Los Delinqüentes,0.927
+ba8afbbec383c9fcee4353712ea807ef,7,Feeling Without Touching,Glass Candy,0.926
+ba8afbbec383c9fcee4353712ea807ef,8,Bass Down Low,DEV,0.926
+ba8afbbec383c9fcee4353712ea807ef,9,In The Midnight Hour,Wilson Pickett,0.926
+ba8afbbec383c9fcee4353712ea807ef,10,Everywhere,Fleetwood Mac,0.926
+22a9c2cdc5d61579d9dbabb33faaa993,1,Help Me Lose My Mind - Paul Woolford Remix,Disclosure,0.908
+22a9c2cdc5d61579d9dbabb33faaa993,2,Break It Down Again,Tears For Fears,0.906
+22a9c2cdc5d61579d9dbabb33faaa993,3,Mozart - Original Mix,Mat Zo,0.89
+22a9c2cdc5d61579d9dbabb33faaa993,4,Bodyrock,Moby,0.89
+22a9c2cdc5d61579d9dbabb33faaa993,5,Bodyrock,Moby,0.89
+22a9c2cdc5d61579d9dbabb33faaa993,6,Something Good Can Work (The Twelves Remix),Two Door Cinema Club,0.886
+22a9c2cdc5d61579d9dbabb33faaa993,7,Something Good Can Work (The Twelves Remix),Two Door Cinema Club,0.886
+22a9c2cdc5d61579d9dbabb33faaa993,8,Something Good Can Work (The Twelves Remix),Two Door Cinema Club,0.886
+22a9c2cdc5d61579d9dbabb33faaa993,9,No No No,Yeah Yeah Yeahs,0.886
+22a9c2cdc5d61579d9dbabb33faaa993,10,Say My Name,ODESZA,0.885
+620aefc8b2806483c7dc7e1516330f68,1,Christe lux mundi,Taizé,0.988
+620aefc8b2806483c7dc7e1516330f68,2,Lake Tahoe,Kate Bush,0.982
+620aefc8b2806483c7dc7e1516330f68,3,Saying Goodnight,Joel McNeely,0.98
+620aefc8b2806483c7dc7e1516330f68,4,"String Quartet No. 7 In F Major, Op. 59, No. 1: III. Adagio molto e mesto",Ludwig van Beethoven,0.975
+620aefc8b2806483c7dc7e1516330f68,5,The Losing Side of History,Bear McCreary,0.975
+620aefc8b2806483c7dc7e1516330f68,6,Tonight You Belong to Me,Gene Austin,0.973
+620aefc8b2806483c7dc7e1516330f68,7,Elsa and Anna,Christophe Beck,0.973
+620aefc8b2806483c7dc7e1516330f68,8,Reverie,Roberto Occhipinti,0.971
+620aefc8b2806483c7dc7e1516330f68,9,"Depuis le jour""""",Gustave Charpentier,0.97
+620aefc8b2806483c7dc7e1516330f68,10,Sailing,Deerhunter,0.97
+553cc373ecc06882a8abf177e7317cb8,1,"Minnesota, WI",Bon Iver,0.942
+553cc373ecc06882a8abf177e7317cb8,2,"Minnesota, WI",Bon Iver,0.942
+553cc373ecc06882a8abf177e7317cb8,3,"Minnesota, WI",Bon Iver,0.942
+553cc373ecc06882a8abf177e7317cb8,4,"Minnesota, WI",Bon Iver,0.942
+553cc373ecc06882a8abf177e7317cb8,5,"Minnesota, WI",Bon Iver,0.942
+553cc373ecc06882a8abf177e7317cb8,6,Folk Song,Chick Corea,0.934
+553cc373ecc06882a8abf177e7317cb8,7,End of the Line,Woody Guthrie,0.932
+553cc373ecc06882a8abf177e7317cb8,8,I Like The Way This Is Going - Live At KEXP Seattle/2011,Eels,0.925
+553cc373ecc06882a8abf177e7317cb8,9,The Great Remember (for Nancy),Steve Martin,0.923
+553cc373ecc06882a8abf177e7317cb8,10,The Great Remember (for Nancy),Steve Martin,0.923
+8abca42432d3c2597cef18daa0f7cc82,1,Run Rabbit Run,Flanagan & Allen,0.987
+8abca42432d3c2597cef18daa0f7cc82,2,Carol of the Bells,Exam Study Classical Music Orchestra,0.983
+8abca42432d3c2597cef18daa0f7cc82,3,La Longue Route,Yann Tiersen,0.975
+8abca42432d3c2597cef18daa0f7cc82,4,Tercero segunda,Love of Lesbian,0.973
+8abca42432d3c2597cef18daa0f7cc82,5,Night And Day,New York Lounge Quartett,0.973
+8abca42432d3c2597cef18daa0f7cc82,6,Simple Gifts,Classical Study Music,0.972
+8abca42432d3c2597cef18daa0f7cc82,7,"6 Etudes d'exécution transcendante d'après Paganini, S.140: 5. La Chasse",Franz Liszt,0.971
+8abca42432d3c2597cef18daa0f7cc82,8,Fur Elise,Classical Study Music,0.97
+8abca42432d3c2597cef18daa0f7cc82,9,Auld Lang Syne,Exam Study Classical Music Orchestra,0.968
+8abca42432d3c2597cef18daa0f7cc82,10,Shaken All Over,Fugazi,0.968
+643a4cbab7ca7ddf76e9d151f2edb1bc,1,Relief,Coastal Cities,0.976
+643a4cbab7ca7ddf76e9d151f2edb1bc,2,Relief,Coastal Cities,0.976
+643a4cbab7ca7ddf76e9d151f2edb1bc,3,Relief,Coastal Cities,0.976
+643a4cbab7ca7ddf76e9d151f2edb1bc,4,Stars Come Out,Calvin Harris,0.971
+643a4cbab7ca7ddf76e9d151f2edb1bc,5,Stars Come Out,Calvin Harris,0.971
+643a4cbab7ca7ddf76e9d151f2edb1bc,6,Hate You,2NE1,0.969
+643a4cbab7ca7ddf76e9d151f2edb1bc,7,Thinking About You,Calvin Harris,0.967
+643a4cbab7ca7ddf76e9d151f2edb1bc,8,Thinking About You,Calvin Harris,0.967
+643a4cbab7ca7ddf76e9d151f2edb1bc,9,All I Ask Of You (feat. Penny),Skrillex,0.967
+643a4cbab7ca7ddf76e9d151f2edb1bc,10,All I Ask Of You (feat. Penny),Skrillex,0.967
+c6a670c49077bf0ed14fa277be2bea30,1,Knights Of Cydonia [Live From Wembley Stadium],Muse,0.974
+c6a670c49077bf0ed14fa277be2bea30,2,Fears Of Moonpilot Ben,Bearsuit,0.963
+c6a670c49077bf0ed14fa277be2bea30,3,IFUCKINGLOVEYOU,Big Black Delta,0.951
+c6a670c49077bf0ed14fa277be2bea30,4,Wires,Red Fang,0.943
+c6a670c49077bf0ed14fa277be2bea30,5,Extol,Extol,0.943
+c6a670c49077bf0ed14fa277be2bea30,6,Full Imperial Collapse,Darkest Hour,0.939
+c6a670c49077bf0ed14fa277be2bea30,7,Daggers,The Chariot,0.936
+c6a670c49077bf0ed14fa277be2bea30,8,Shattered By Broken Dreams,Avenged Sevenfold,0.936
+c6a670c49077bf0ed14fa277be2bea30,9,Daddy's Eyes,The Killers,0.935
+c6a670c49077bf0ed14fa277be2bea30,10,Margin Walker,Fugazi,0.931
+45b532cbdd7978d5a3cc87c7da5497cc,1,Clique,Kanye West,0.951
+45b532cbdd7978d5a3cc87c7da5497cc,2,Clique,Kanye West,0.951
+45b532cbdd7978d5a3cc87c7da5497cc,3,Clique,Kanye West,0.951
+45b532cbdd7978d5a3cc87c7da5497cc,4,Clique,Kanye West,0.951
+45b532cbdd7978d5a3cc87c7da5497cc,5,PHOTOFINNISH,3OH!3,0.949
+45b532cbdd7978d5a3cc87c7da5497cc,6,P.O.S. Is Ruining My Life,P.O.S.,0.942
+45b532cbdd7978d5a3cc87c7da5497cc,7,All Me,Drake,0.939
+45b532cbdd7978d5a3cc87c7da5497cc,8,All Me,Drake,0.939
+45b532cbdd7978d5a3cc87c7da5497cc,9,All Me,Drake,0.939
+45b532cbdd7978d5a3cc87c7da5497cc,10,All Me,Drake,0.939
+58daf634e32d939e618d9a773c4db8a6,1,Stacy's Friend,Baby Birds Don’t Drink Milk,0.977
+58daf634e32d939e618d9a773c4db8a6,2,Burn Out,The Cinematic Orchestra,0.976
+58daf634e32d939e618d9a773c4db8a6,3,Banshee Beat,Animal Collective,0.974
+58daf634e32d939e618d9a773c4db8a6,4,Main Title from Superman - Instrumental,John Williams,0.973
+58daf634e32d939e618d9a773c4db8a6,5,On Earth As It Is In Heaven,Ennio Morricone,0.972
+58daf634e32d939e618d9a773c4db8a6,6,'Faith In Her',Clubroot,0.96
+58daf634e32d939e618d9a773c4db8a6,7,Now We Are Free,Lisa Gerrard,0.952
+58daf634e32d939e618d9a773c4db8a6,8,Now We Are Free,Lisa Gerrard,0.952
+58daf634e32d939e618d9a773c4db8a6,9,The Big Blink,Béla Fleck and the Flecktones,0.95
+58daf634e32d939e618d9a773c4db8a6,10,Rectifier,Daft Punk,0.95
+8bd31a32b308486583eac1919c095d2a,1,Excuse Me,Lemaitre,0.893
+8bd31a32b308486583eac1919c095d2a,2,2 Time,Architecture In Helsinki,0.891
+8bd31a32b308486583eac1919c095d2a,3,Singing Man,Magnus,0.888
+8bd31a32b308486583eac1919c095d2a,4,Endorphine,CAZZETTE,0.887
+8bd31a32b308486583eac1919c095d2a,5,A Little Less Conversation - JXL Radio Edit Remix,Elvis Presley,0.883
+8bd31a32b308486583eac1919c095d2a,6,Riverside (Let's Go!) - Radio Edit,Sidney Samson,0.881
+8bd31a32b308486583eac1919c095d2a,7,Riverside (Let's Go!) - Radio Edit,Sidney Samson,0.881
+8bd31a32b308486583eac1919c095d2a,8,Let's Go - Extended Mix,Calvin Harris,0.88
+8bd31a32b308486583eac1919c095d2a,9,Woo Boost,Rusko,0.88
+8bd31a32b308486583eac1919c095d2a,10,Happy Up Here,Röyksopp,0.877
+250b36ff8b1502104ea0615f9023f5be,1,Chapel Song,Augustines,0.97
+250b36ff8b1502104ea0615f9023f5be,2,Run Through The Jungle,Creedence Clearwater Revival,0.97
+250b36ff8b1502104ea0615f9023f5be,3,Run Through The Jungle,Creedence Clearwater Revival,0.97
+250b36ff8b1502104ea0615f9023f5be,4,Run Through The Jungle,Creedence Clearwater Revival,0.97
+250b36ff8b1502104ea0615f9023f5be,5,Faces,Electric Youth,0.962
+250b36ff8b1502104ea0615f9023f5be,6,David,GusGus,0.961
+250b36ff8b1502104ea0615f9023f5be,7,Lava,The B-52's,0.959
+250b36ff8b1502104ea0615f9023f5be,8,Face To Face (Cosmo VItelli Remix),Daft Punk,0.958
+250b36ff8b1502104ea0615f9023f5be,9,How To Be A Heartbreaker,Marina and The Diamonds,0.957
+250b36ff8b1502104ea0615f9023f5be,10,Jai Ho! (You Are My Destiny),A.R. Rahman,0.954
+f6b2a77ea810655a976ca73d6e8592a2,1,The Sweet Escape,Gwen Stefani,0.98
+f6b2a77ea810655a976ca73d6e8592a2,2,Up To You,Chris Brown,0.976
+f6b2a77ea810655a976ca73d6e8592a2,3,Disturbia,Rihanna,0.967
+f6b2a77ea810655a976ca73d6e8592a2,4,Disturbia,Rihanna,0.967
+f6b2a77ea810655a976ca73d6e8592a2,5,LaserLight,Jessie J,0.966
+f6b2a77ea810655a976ca73d6e8592a2,6,Mama's Broken Heart,Miranda Lambert,0.961
+f6b2a77ea810655a976ca73d6e8592a2,7,Poker Face,Lady Gaga,0.959
+f6b2a77ea810655a976ca73d6e8592a2,8,Poker Face,Lady Gaga,0.959
+f6b2a77ea810655a976ca73d6e8592a2,9,Coast 2 Coast,Sammy Adams,0.958
+f6b2a77ea810655a976ca73d6e8592a2,10,Money Honey,Lady Gaga,0.957
+f7ab87e39d5ebe7fd78cddc1d3e8e47e,1,Love Me (Dub),Ango,0.955
+f7ab87e39d5ebe7fd78cddc1d3e8e47e,2,Fight The Fire - Original Mix,Andy Moor,0.934
+f7ab87e39d5ebe7fd78cddc1d3e8e47e,3,Long Time feat. Andreas Moe - Original Mix,John De Sohn,0.927
+f7ab87e39d5ebe7fd78cddc1d3e8e47e,4,Thunderclap,Adventure Club,0.925
+f7ab87e39d5ebe7fd78cddc1d3e8e47e,5,Full Bloom - Original Mix,deadmau5,0.92
+f7ab87e39d5ebe7fd78cddc1d3e8e47e,6,Almost A Year Since,Oddisee,0.917
+f7ab87e39d5ebe7fd78cddc1d3e8e47e,7,E,Emmure,0.916
+f7ab87e39d5ebe7fd78cddc1d3e8e47e,8,Grand Guignol,Bajofondo,0.911
+f7ab87e39d5ebe7fd78cddc1d3e8e47e,9,DONTTRUSTME - Hostage's Dub,3OH!3,0.909
+f7ab87e39d5ebe7fd78cddc1d3e8e47e,10,Fools Gold - Remastered,The Stone Roses,0.906
+384c751887f00392395ee864ce66db71,1,La Parrala,Carlos Cano,0.933
+384c751887f00392395ee864ce66db71,2,Feeling Good,Michael Bublé,0.923
+384c751887f00392395ee864ce66db71,3,Lay Down Your Weary Tune,Billy Bragg,0.915
+384c751887f00392395ee864ce66db71,4,Carousel,Vanessa Carlton,0.908
+384c751887f00392395ee864ce66db71,5,Sparks,Alex Clare,0.907
+384c751887f00392395ee864ce66db71,6,Manga Por Hombro,Anni B Sweet,0.905
+384c751887f00392395ee864ce66db71,7,Lynch Blues,Corey Harris,0.902
+384c751887f00392395ee864ce66db71,8,You Were Meant For Me,Jewel,0.901
+384c751887f00392395ee864ce66db71,9,Peace Out,Say Anything,0.9
+384c751887f00392395ee864ce66db71,10,A Batzegades,Els Pets,0.898
+71cd7a9ba8fcf3884992a9b31c65ba14,1,Love Me Do,The Yesteryears,0.914
+71cd7a9ba8fcf3884992a9b31c65ba14,2,Love Me Do,The Yesteryears,0.914
+71cd7a9ba8fcf3884992a9b31c65ba14,3,Delirious Love,Neil Diamond,0.905
+71cd7a9ba8fcf3884992a9b31c65ba14,4,La Guerra,Che Sudaka,0.904
+71cd7a9ba8fcf3884992a9b31c65ba14,5,Fortunate Son,Creedence Clearwater Revival,0.896
+71cd7a9ba8fcf3884992a9b31c65ba14,6,Fortunate Son,Creedence Clearwater Revival,0.896
+71cd7a9ba8fcf3884992a9b31c65ba14,7,Fortunate Son,Creedence Clearwater Revival,0.896
+71cd7a9ba8fcf3884992a9b31c65ba14,8,Eight Days A Week,The Beatles,0.885
+71cd7a9ba8fcf3884992a9b31c65ba14,9,El hambre invisible,Love of Lesbian,0.885
+71cd7a9ba8fcf3884992a9b31c65ba14,10,Baby I Need Your Loving,Four Tops,0.883
+99d3dcfd6c776216bed72da453fc7fd8,1,After The Love Is Gone (Made Famous by Earth Wind & Fire),Piano Classic Players,0.861
+99d3dcfd6c776216bed72da453fc7fd8,2,Tie,Chisu,0.779
+99d3dcfd6c776216bed72da453fc7fd8,3,Love You More,Alexi Murdoch,0.774
+99d3dcfd6c776216bed72da453fc7fd8,4,Wuthering Heights,Kate Bush,0.773
+99d3dcfd6c776216bed72da453fc7fd8,5,Paper Bag,Goldfrapp,0.767
+99d3dcfd6c776216bed72da453fc7fd8,6,La Valse Egarée,Oskar Schuster,0.762
+99d3dcfd6c776216bed72da453fc7fd8,7,Les bras de mer,Yann Tiersen,0.759
+99d3dcfd6c776216bed72da453fc7fd8,8,Be Invited,The Twilight Singers,0.758
+99d3dcfd6c776216bed72da453fc7fd8,9,Lights - from Sons of Anarchy,Battleme,0.757
+99d3dcfd6c776216bed72da453fc7fd8,10,Good Evening,The Concretes,0.753
+348f58bf0f3fef2d1e40e5b886438736,1,Mile High,Blondie,0.974
+348f58bf0f3fef2d1e40e5b886438736,2,Le Disko (Radio Edit),Shiny Toy Guns,0.966
+348f58bf0f3fef2d1e40e5b886438736,3,So Big,Iyaz,0.954
+348f58bf0f3fef2d1e40e5b886438736,4,Me Alegro de Su Odio 2014,Cartel De Santa,0.941
+348f58bf0f3fef2d1e40e5b886438736,5,Rouler moutou,Meiway,0.94
+348f58bf0f3fef2d1e40e5b886438736,6,The Sweet Escape,Gwen Stefani,0.94
+348f58bf0f3fef2d1e40e5b886438736,7,Shady Love,Scissor Sisters,0.939
+348f58bf0f3fef2d1e40e5b886438736,8,Beautiful Girls,Sean Kingston,0.938
+348f58bf0f3fef2d1e40e5b886438736,9,Moves Like Jagger - Studio Recording From The Voice Performance,Maroon 5,0.937
+348f58bf0f3fef2d1e40e5b886438736,10,Moves Like Jagger - Studio Recording From The Voice Performance,Maroon 5,0.937
+65c3f67f6cde406ffb261bbff874a3a7,1,Down,Fuel,0.959
+65c3f67f6cde406ffb261bbff874a3a7,2,Austerity Blues,Silver Mt Zion,0.956
+65c3f67f6cde406ffb261bbff874a3a7,3,Find That Man - Live in Studio Underjord,Dead Soul,0.955
+65c3f67f6cde406ffb261bbff874a3a7,4,A Paradox With Flies - the Light,Darkest Hour,0.95
+65c3f67f6cde406ffb261bbff874a3a7,5,Bring It On Down,Oasis,0.941
+65c3f67f6cde406ffb261bbff874a3a7,6,The Lion's Roar,Cynic,0.939
+65c3f67f6cde406ffb261bbff874a3a7,7,The Swan,Cheatahs,0.938
+65c3f67f6cde406ffb261bbff874a3a7,8,Goodbye,Best Coast,0.937
+65c3f67f6cde406ffb261bbff874a3a7,9,The Mob Rules,Black Sabbath,0.933
+65c3f67f6cde406ffb261bbff874a3a7,10,Bent Nail,Nothing,0.932
+5324a814a82156d2a76927e0f0a28b0a,1,Love Minus Zero/No Limit,Jackson Browne,0.916
+5324a814a82156d2a76927e0f0a28b0a,2,Delirious Love,Neil Diamond,0.915
+5324a814a82156d2a76927e0f0a28b0a,3,Heaven Must Have Sent You,The Elgins,0.893
+5324a814a82156d2a76927e0f0a28b0a,4,Starting The Hurt All Over Again - Single Version,Brenda Holloway,0.884
+5324a814a82156d2a76927e0f0a28b0a,5,Ventura Highway,America,0.884
+5324a814a82156d2a76927e0f0a28b0a,6,A Train Wreck,Bearsuit,0.883
+5324a814a82156d2a76927e0f0a28b0a,7,California Dreamin',The Mamas & The Papas,0.881
+5324a814a82156d2a76927e0f0a28b0a,8,"Monday, Monday - Single Version",The Mamas & The Papas,0.881
+5324a814a82156d2a76927e0f0a28b0a,9,Midnight Voyage,The Mamas & The Papas,0.881
+5324a814a82156d2a76927e0f0a28b0a,10,Meditation Mama (Transcendental Woman Travels),The Mamas & The Papas,0.881
+0a5aa3ffc5d786440039cf315c655735,1,Golden State Overnight,Tarentel,0.92
+0a5aa3ffc5d786440039cf315c655735,2,Shambala,Beastie Boys,0.915
+0a5aa3ffc5d786440039cf315c655735,3,Veridis Quo,Daft Punk,0.901
+0a5aa3ffc5d786440039cf315c655735,4,Magik Journey,Tiësto,0.9
+0a5aa3ffc5d786440039cf315c655735,5,Far Nearer,Jamie xx,0.892
+0a5aa3ffc5d786440039cf315c655735,6,$40 Feeling,Steve Sobs,0.882
+0a5aa3ffc5d786440039cf315c655735,7,Hubble,Actress,0.882
+0a5aa3ffc5d786440039cf315c655735,8,Voyager,Daft Punk,0.881
+0a5aa3ffc5d786440039cf315c655735,9,Voyager,Daft Punk,0.881
+0a5aa3ffc5d786440039cf315c655735,10,Motherboard,Daft Punk,0.87
+72739d764d5ee0dd311b03da8c6595b9,1,Voices,Disclosure,0.967
+72739d764d5ee0dd311b03da8c6595b9,2,Voices,Disclosure,0.967
+72739d764d5ee0dd311b03da8c6595b9,3,Show Me Love,Robin S,0.966
+72739d764d5ee0dd311b03da8c6595b9,4,Gentleman,PSY,0.958
+72739d764d5ee0dd311b03da8c6595b9,5,Nadie Como Tú,Bom Bom Chip,0.957
+72739d764d5ee0dd311b03da8c6595b9,6,Rabiosa,Shakira,0.957
+72739d764d5ee0dd311b03da8c6595b9,7,Alla vill till himmelen men ingen vill dö,Timbuktu,0.956
+72739d764d5ee0dd311b03da8c6595b9,8,Anti-Matter,Black Dubstep Express,0.953
+72739d764d5ee0dd311b03da8c6595b9,9,FDB,Young Dro,0.952
+72739d764d5ee0dd311b03da8c6595b9,10,Arc of Time,Bright Eyes,0.949
+8deabacb2b71898ea917b1cbcd33cd11,1,Bad for Me,Brendan Benson,0.929
+8deabacb2b71898ea917b1cbcd33cd11,2,Jesusland,Ben Folds,0.923
+8deabacb2b71898ea917b1cbcd33cd11,3,Another Round,Foo Fighters,0.91
+8deabacb2b71898ea917b1cbcd33cd11,4,Anywhere I Lay My Head,The Gaslight Anthem,0.909
+8deabacb2b71898ea917b1cbcd33cd11,5,Appaloosa,Joe la Reina,0.909
+8deabacb2b71898ea917b1cbcd33cd11,6,Bus Stop Boxer - Live At Town Hall,Eels,0.909
+8deabacb2b71898ea917b1cbcd33cd11,7,Morir O Matar,Nacho Vegas,0.9
+8deabacb2b71898ea917b1cbcd33cd11,8,ALICIA (EXPULSADA AL PAIS DE LAS MARAVILLAS),Bunbury,0.897
+8deabacb2b71898ea917b1cbcd33cd11,9,Free And Easy (Summer Girls),Fu Manchu,0.89
+8deabacb2b71898ea917b1cbcd33cd11,10,True Story,Can,0.888
+f86a0392a6b1698f2e48d9cddc1940c2,1,Come - Original,Myk Derill,0.929
+f86a0392a6b1698f2e48d9cddc1940c2,2,Face To Face (Demon Remix),Daft Punk,0.926
+f86a0392a6b1698f2e48d9cddc1940c2,3,Garden,Totally Enormous Extinct Dinosaurs,0.915
+f86a0392a6b1698f2e48d9cddc1940c2,4,It's a War - Ss Uk Re Edit,Kano,0.904
+f86a0392a6b1698f2e48d9cddc1940c2,5,It's a War - Ss Uk Re Edit,Kano,0.904
+f86a0392a6b1698f2e48d9cddc1940c2,6,Just passing through,Pional,0.894
+f86a0392a6b1698f2e48d9cddc1940c2,7,Piece By Piece,Anna Calvi,0.885
+f86a0392a6b1698f2e48d9cddc1940c2,8,Funday Sunday,Dj Rapid,0.884
+f86a0392a6b1698f2e48d9cddc1940c2,9,Knobbers,Crookers,0.881
+f86a0392a6b1698f2e48d9cddc1940c2,10,Jestrüpp,Paul Kalkbrenner,0.878
+f276e60e87c95c5bca73cd0c3bb9eac8,1,No One Does It Better - Acoustic Version,You Me At Six,0.956
+f276e60e87c95c5bca73cd0c3bb9eac8,2,Tender Things,Bill Withers,0.915
+f276e60e87c95c5bca73cd0c3bb9eac8,3,1:18,Lemaitre,0.913
+f276e60e87c95c5bca73cd0c3bb9eac8,4,Seasons,Major League,0.909
+f276e60e87c95c5bca73cd0c3bb9eac8,5,Penny Lane,Beatles,0.907
+f276e60e87c95c5bca73cd0c3bb9eac8,6,Bird of the Summer,A Fine Frenzy,0.906
+f276e60e87c95c5bca73cd0c3bb9eac8,7,Never Let You Go,Destry,0.904
+f276e60e87c95c5bca73cd0c3bb9eac8,8,I Will Remember,Toto,0.902
+f276e60e87c95c5bca73cd0c3bb9eac8,9,I Will Remember,Toto,0.902
+f276e60e87c95c5bca73cd0c3bb9eac8,10,Go Tell It On the Mountain,Pentatonix,0.896
+58ab316fdc46b9e51e6bbf1c39b140dd,1,The Great Remember (for Nancy),Steve Martin,0.99
+58ab316fdc46b9e51e6bbf1c39b140dd,2,The Great Remember (for Nancy),Steve Martin,0.99
+58ab316fdc46b9e51e6bbf1c39b140dd,3,Bang Bang (My Baby Shot Me Down),Nancy Sinatra,0.977
+58ab316fdc46b9e51e6bbf1c39b140dd,4,Bang Bang (My Baby Shot Me Down),Nancy Sinatra,0.977
+58ab316fdc46b9e51e6bbf1c39b140dd,5,Min Soldat,Ulla Billquist,0.977
+58ab316fdc46b9e51e6bbf1c39b140dd,6,I Like The Way This Is Going - Live At KEXP Seattle/2011,Eels,0.976
+58ab316fdc46b9e51e6bbf1c39b140dd,7,Angels,The xx,0.973
+58ab316fdc46b9e51e6bbf1c39b140dd,8,Angels,The xx,0.973
+58ab316fdc46b9e51e6bbf1c39b140dd,9,Angels,The xx,0.973
+58ab316fdc46b9e51e6bbf1c39b140dd,10,Angels,The xx,0.973
+84adb231fc75231f25817f30b2a77db4,1,Dance Our Tears Away - Radio Edit,John De Sohn,0.944
+84adb231fc75231f25817f30b2a77db4,2,Rimbaud Eyes,Dum Dum Girls,0.938
+84adb231fc75231f25817f30b2a77db4,3,Empty Souls,Manic Street Preachers,0.937
+84adb231fc75231f25817f30b2a77db4,4,She's Got You High,Mumm-ra,0.936
+84adb231fc75231f25817f30b2a77db4,5,Trespass - Antillas & Dankann Radio Edit,Andy Moor,0.936
+84adb231fc75231f25817f30b2a77db4,6,The Saddest Song,The Ataris,0.934
+84adb231fc75231f25817f30b2a77db4,7,Home,Daughtry,0.932
+84adb231fc75231f25817f30b2a77db4,8,Silver And Cold,AFI,0.931
+84adb231fc75231f25817f30b2a77db4,9,Again - From Full Metal Alchemist,Shiroku,0.928
+84adb231fc75231f25817f30b2a77db4,10,(Drawing) Rings Around The World,Super Furry Animals,0.928
+d7d48e1d55970b769c04ce63ee2005b5,1,Ever Had A Little Faith?,Belle & Sebastian,0.999
+d7d48e1d55970b769c04ce63ee2005b5,2,Allie,Belle & Sebastian,0.999
+d7d48e1d55970b769c04ce63ee2005b5,3,Play For Today,Belle & Sebastian,0.999
+d7d48e1d55970b769c04ce63ee2005b5,4,The Power Of Three,Belle & Sebastian,0.999
+d7d48e1d55970b769c04ce63ee2005b5,5,Enter Sylvia Plath,Belle & Sebastian,0.999
+d7d48e1d55970b769c04ce63ee2005b5,6,Perfect Couples,Belle & Sebastian,0.999
+d7d48e1d55970b769c04ce63ee2005b5,7,Long Black Scarf,Belle & Sebastian,0.999
+d7d48e1d55970b769c04ce63ee2005b5,8,Love on the March,Belle & Sebastian,0.999
+d7d48e1d55970b769c04ce63ee2005b5,9,The Eighth Station of the Cross Kebab House,Belle & Sebastian,0.999
+d7d48e1d55970b769c04ce63ee2005b5,10,The Life Pursuit,Belle & Sebastian,0.999
+afa26c322701200d3872ec219156db8e,1,Flagpole Sitta,Harvey Danger,0.978
+afa26c322701200d3872ec219156db8e,2,Absolute,The Fray,0.968
+afa26c322701200d3872ec219156db8e,3,Keep On Walking,Salem Al Fakir,0.963
+afa26c322701200d3872ec219156db8e,4,Post Break-Up Sex,The Vaccines,0.963
+afa26c322701200d3872ec219156db8e,5,The Kilburn High Road,Flogging Molly,0.962
+afa26c322701200d3872ec219156db8e,6,Jesus Of Suburbia,Green Day,0.96
+afa26c322701200d3872ec219156db8e,7,Jesus Of Suburbia,Green Day,0.96
+afa26c322701200d3872ec219156db8e,8,Lollipop,Framing Hanley,0.955
+afa26c322701200d3872ec219156db8e,9,It All Feels the Same,Tennis,0.954
+afa26c322701200d3872ec219156db8e,10,The Saddest Song,The Ataris,0.953
+78a8f856d7567fa98265f4cf82d065bb,1,Who Took The Wheel,Blaudzun,0.797
+78a8f856d7567fa98265f4cf82d065bb,2,Modern Nature,Sondre Lerche,0.787
+78a8f856d7567fa98265f4cf82d065bb,3,Delirious Love,Neil Diamond,0.782
+78a8f856d7567fa98265f4cf82d065bb,4,All I Do Is Dream Of You,Michael Bublé,0.776
+78a8f856d7567fa98265f4cf82d065bb,5,I Think I'm In Love,Kat Dahlia,0.756
+78a8f856d7567fa98265f4cf82d065bb,6,Si Solo Estas Ahí,Amén,0.755
+78a8f856d7567fa98265f4cf82d065bb,7,Silver Lining,Rilo Kiley,0.754
+78a8f856d7567fa98265f4cf82d065bb,8,I Wanna Be,Chris Brown,0.748
+78a8f856d7567fa98265f4cf82d065bb,9,Windsor,Pereza,0.746
+78a8f856d7567fa98265f4cf82d065bb,10,Crash on the Levee,Bob Dylan,0.741
+89603bff48dbfb67c80cf9948cf0b0fc,1,See Me Feel Me,Sepalcure,0.933
+89603bff48dbfb67c80cf9948cf0b0fc,2,Me,Sepalcure,0.933
+89603bff48dbfb67c80cf9948cf0b0fc,3,The Best Thing,Electric Youth,0.93
+89603bff48dbfb67c80cf9948cf0b0fc,4,Law of Life,Farah,0.926
+89603bff48dbfb67c80cf9948cf0b0fc,5,F4T,CAZZETTE,0.907
+89603bff48dbfb67c80cf9948cf0b0fc,6,Zoé Et Heine,Premier Rang,0.904
+89603bff48dbfb67c80cf9948cf0b0fc,7,Zoé Et Heine,Premier Rang,0.904
+89603bff48dbfb67c80cf9948cf0b0fc,8,Blooms Eventually,Pulseprogramming,0.9
+89603bff48dbfb67c80cf9948cf0b0fc,9,Mirror Maru,Cashmere Cat,0.899
+89603bff48dbfb67c80cf9948cf0b0fc,10,Mirror Maru,Cashmere Cat,0.899
+ac8ee16eb8513526a2c8eff5d85033f1,1,And All Things Will End,Avenged Sevenfold,0.959
+ac8ee16eb8513526a2c8eff5d85033f1,2,Better To Best,You Blew It!,0.951
+ac8ee16eb8513526a2c8eff5d85033f1,3,Same Side,The Casket Girls,0.944
+ac8ee16eb8513526a2c8eff5d85033f1,4,Neue Idee,PeterLicht,0.939
+ac8ee16eb8513526a2c8eff5d85033f1,5,Outside,Foo Fighters,0.938
+ac8ee16eb8513526a2c8eff5d85033f1,6,In the End,Anthrax,0.938
+ac8ee16eb8513526a2c8eff5d85033f1,7,Raising the Skate,Speedy Ortiz,0.937
+ac8ee16eb8513526a2c8eff5d85033f1,8,Sun Structures,Temples,0.936
+ac8ee16eb8513526a2c8eff5d85033f1,9,Burning,The War On Drugs,0.936
+ac8ee16eb8513526a2c8eff5d85033f1,10,Brat Mouth,Hunters,0.934
+a4669c3b25ad9b3685626a11ac01afb1,1,Where Did You Sleep Last Night,Lead Belly,0.973
+a4669c3b25ad9b3685626a11ac01afb1,2,Back Water Blues,Bessie Smith,0.97
+a4669c3b25ad9b3685626a11ac01afb1,3,My Favorite Things,Julie Andrews,0.969
+a4669c3b25ad9b3685626a11ac01afb1,4,My Favorite Things,Julie Andrews,0.969
+a4669c3b25ad9b3685626a11ac01afb1,5,Med dej i mina armar,Sven Olof Sandberg,0.966
+a4669c3b25ad9b3685626a11ac01afb1,6,Charles Giteau,Kelly Harrell,0.966
+a4669c3b25ad9b3685626a11ac01afb1,7,Coffee Homeground,Kate Bush,0.965
+a4669c3b25ad9b3685626a11ac01afb1,8,Bad Lee Brown (Cocaine Blues),Woody Guthrie,0.961
+a4669c3b25ad9b3685626a11ac01afb1,9,I Like The Way This Is Going - Live At KEXP Seattle/2011,Eels,0.96
+a4669c3b25ad9b3685626a11ac01afb1,10,Angel,Matt Nathanson,0.96
+c99823a8bb05402de5965382289db13c,1,Suave (Kiss Me) (feat. Mohombi & Pitbull),Nayer,0.96
+c99823a8bb05402de5965382289db13c,2,Tik Tok - Tik Tok,Kesha,0.958
+c99823a8bb05402de5965382289db13c,3,Double Vision - Wiz Khalifa Mix,3OH!3,0.951
+c99823a8bb05402de5965382289db13c,4,Darkness Into Light,Matisyahu,0.948
+c99823a8bb05402de5965382289db13c,5,You,Galantis,0.947
+c99823a8bb05402de5965382289db13c,6,Calle Luna,Che Sudaka,0.944
+c99823a8bb05402de5965382289db13c,7,"Beautiful, Dirty, Rich",Lady Gaga,0.943
+c99823a8bb05402de5965382289db13c,8,Turn Me On - feat. Nicki Minaj,David Guetta,0.941
+c99823a8bb05402de5965382289db13c,9,All Around The World,Justin Bieber,0.938
+c99823a8bb05402de5965382289db13c,10,Tik Tok,Bob Sinclar,0.938
+a4df34595f4135ada3d34f00ebefa379,1,Do You,Spoon,0.966
+a4df34595f4135ada3d34f00ebefa379,2,Pilas,Aterciopelados,0.963
+a4df34595f4135ada3d34f00ebefa379,3,Angry All the Time,Ann Beretta,0.96
+a4df34595f4135ada3d34f00ebefa379,4,Sunday Girl - Rerecorded 2014 Version,Blondie,0.955
+a4df34595f4135ada3d34f00ebefa379,5,Como Camaron,Estopa,0.953
+a4df34595f4135ada3d34f00ebefa379,6,Como Camaron,Estopa,0.953
+a4df34595f4135ada3d34f00ebefa379,7,Wake Me Up,Bluebirds,0.947
+a4df34595f4135ada3d34f00ebefa379,8,Daly City Train,Rancid,0.944
+a4df34595f4135ada3d34f00ebefa379,9,Mr. Jones,Counting Crows,0.94
+a4df34595f4135ada3d34f00ebefa379,10,My Friend The Wind,Demis Roussos,0.94
+1d0a375f7a47b814baa2d88ea3957325,1,White Rabbit,Mayssa Karaa,0.96
+1d0a375f7a47b814baa2d88ea3957325,2,White Rabbit,Mayssa Karaa,0.96
+1d0a375f7a47b814baa2d88ea3957325,3,Habaneras De Cádiz,Carlos Cano,0.958
+1d0a375f7a47b814baa2d88ea3957325,4,Let It Be Me,Ray LaMontagne,0.953
+1d0a375f7a47b814baa2d88ea3957325,5,Let It Be Me,Ray LaMontagne,0.953
+1d0a375f7a47b814baa2d88ea3957325,6,Let It Be Me,Ray LaMontagne,0.953
+1d0a375f7a47b814baa2d88ea3957325,7,Landlord,Joss Stone,0.946
+1d0a375f7a47b814baa2d88ea3957325,8,Wrecking Ball,Miley Cyrus,0.944
+1d0a375f7a47b814baa2d88ea3957325,9,Wrecking Ball,Miley Cyrus,0.944
+1d0a375f7a47b814baa2d88ea3957325,10,Luz en Su Voz,Nunatak,0.942
+d845d573de684cba4344751e4ca52cb9,1,Sean II,Cass McCombs,0.964
+d845d573de684cba4344751e4ca52cb9,2,Nature Sounds for Sleep,Music For Absolute Sleep,0.962
+d845d573de684cba4344751e4ca52cb9,3,Sean III,Cass McCombs,0.954
+d845d573de684cba4344751e4ca52cb9,4,Introductions (Live - Acoustic),STS9,0.942
+d845d573de684cba4344751e4ca52cb9,5,The Elderly,Bob Odenkirk,0.941
+d845d573de684cba4344751e4ca52cb9,6,The Fear,Bob Odenkirk,0.939
+d845d573de684cba4344751e4ca52cb9,7,Stardate,Deltron 3030,0.938
+d845d573de684cba4344751e4ca52cb9,8,Lynn,Mitch Hedberg,0.934
+d845d573de684cba4344751e4ca52cb9,9,Extra: A Parlour Sketch,Bob Odenkirk,0.933
+d845d573de684cba4344751e4ca52cb9,10,The Stakes,Bob Odenkirk,0.932
+9305a8a99c586704c6206d95f82a05a0,1,SHINE,Antipop Consortium,0.932
+9305a8a99c586704c6206d95f82a05a0,2,Me Julie,Ali G,0.917
+9305a8a99c586704c6206d95f82a05a0,3,Stronger Than I Was,Eminem,0.917
+9305a8a99c586704c6206d95f82a05a0,4,Big Daddy,Nicki Minaj,0.91
+9305a8a99c586704c6206d95f82a05a0,5,Suit & Tie featuring JAY Z,Justin Timberlake,0.901
+9305a8a99c586704c6206d95f82a05a0,6,Suit & Tie featuring JAY Z,Justin Timberlake,0.901
+9305a8a99c586704c6206d95f82a05a0,7,Shimmy Shimmy Ya,Ol' Dirty Bastard,0.895
+9305a8a99c586704c6206d95f82a05a0,8,2 On,Tinashe,0.879
+9305a8a99c586704c6206d95f82a05a0,9,Someone To Love Me,Diddy - Dirty Money,0.876
+9305a8a99c586704c6206d95f82a05a0,10,Heartbeat,Childish Gambino,0.873
+832dc67bfacf8b0ad0096d95dbb79416,1,All I Have Are Memories,Harper Simon,0.949
+832dc67bfacf8b0ad0096d95dbb79416,2,Stuck Inside of Mobile with the Memphis Blues Again,Cat Power,0.94
+832dc67bfacf8b0ad0096d95dbb79416,3,Lorelai,Fleet Foxes,0.94
+832dc67bfacf8b0ad0096d95dbb79416,4,Michael,Franz Ferdinand,0.931
+832dc67bfacf8b0ad0096d95dbb79416,5,Australia,The Shins,0.93
+832dc67bfacf8b0ad0096d95dbb79416,6,Australia,The Shins,0.93
+832dc67bfacf8b0ad0096d95dbb79416,7,Australia,The Shins,0.93
+832dc67bfacf8b0ad0096d95dbb79416,8,My Friend The Wind,Demis Roussos,0.927
+832dc67bfacf8b0ad0096d95dbb79416,9,Honey & I,Haim,0.923
+832dc67bfacf8b0ad0096d95dbb79416,10,Reward,The Teardrop Explodes,0.919
+7f4109fe34256316880209638115005c,1,"Let It Snow, Let It Snow, Let It Snow - Let It Snow, Let It Snow, Let It Snow",Dean Martin,0.974
+7f4109fe34256316880209638115005c,2,La Banlieue,Beirut,0.97
+7f4109fe34256316880209638115005c,3,I Know It’s Pathetic But That Was the Greatest Night of My Life,Sun Kil Moon,0.97
+7f4109fe34256316880209638115005c,4,Med dej i mina armar,Sven Olof Sandberg,0.967
+7f4109fe34256316880209638115005c,5,You Mean Nothing To Me Anymore,Anna Ternheim,0.966
+7f4109fe34256316880209638115005c,6,"Baby, It's Cold Outside",Dean Martin,0.965
+7f4109fe34256316880209638115005c,7,"Oh, Susannah",James Taylor,0.964
+7f4109fe34256316880209638115005c,8,"I Like You, Anthony Jeselnik, Because You Are Nice",Papa Razzi and the Photogs,0.964
+7f4109fe34256316880209638115005c,9,Wayfaring Stranger,Jack White,0.959
+7f4109fe34256316880209638115005c,10,I Watched The Film The Song Remains the Same,Sun Kil Moon,0.958
+eff242a01e0fd25b52d54a1b81a65843,1,Lacrimae,Moby,0.909
+eff242a01e0fd25b52d54a1b81a65843,2,Companions,Tape,0.896
+eff242a01e0fd25b52d54a1b81a65843,3,Windowsill,Arcade Fire,0.874
+eff242a01e0fd25b52d54a1b81a65843,4,"Goodnight, Travel Well",The Killers,0.854
+eff242a01e0fd25b52d54a1b81a65843,5,End Of The Road,Eddie Vedder,0.852
+eff242a01e0fd25b52d54a1b81a65843,6,End Of The Road,Eddie Vedder,0.852
+eff242a01e0fd25b52d54a1b81a65843,7,End Of The Road,Eddie Vedder,0.852
+eff242a01e0fd25b52d54a1b81a65843,8,Saturn Boy,Dream Koala,0.849
+eff242a01e0fd25b52d54a1b81a65843,9,Ribs,Lorde,0.842
+eff242a01e0fd25b52d54a1b81a65843,10,Transatlanticism,Death Cab for Cutie,0.835
+3a9277515819fa10216eb90a3e23d23c,1,Turn Me On - feat. Nicki Minaj,David Guetta,0.97
+3a9277515819fa10216eb90a3e23d23c,2,Till The World Ends (the Femme Fatale Remix),Britney Spears,0.964
+3a9277515819fa10216eb90a3e23d23c,3,Till The World Ends (the Femme Fatale Remix),Britney Spears,0.964
+3a9277515819fa10216eb90a3e23d23c,4,Area51,Hardwell,0.962
+3a9277515819fa10216eb90a3e23d23c,5,No Money no Love (feat. Elliphant & Ms. Dynamite),David Guetta,0.962
+3a9277515819fa10216eb90a3e23d23c,6,Jewels N' Drugs,Lady Gaga,0.959
+3a9277515819fa10216eb90a3e23d23c,7,Bodies,Drowning Pool,0.958
+3a9277515819fa10216eb90a3e23d23c,8,Bodies,Drowning Pool,0.958
+3a9277515819fa10216eb90a3e23d23c,9,Bodies,Drowning Pool,0.958
+3a9277515819fa10216eb90a3e23d23c,10,Jungle Bae (feat. Bunji Garlin & MX Prime),Jack Ü,0.949
+e7d537b8e8fdc27644180dbbad1593f0,1,Över mig,Ansiktet,0.962
+e7d537b8e8fdc27644180dbbad1593f0,2,God Talk,108,0.954
+e7d537b8e8fdc27644180dbbad1593f0,3,The Coming,CAZZETTE,0.943
+e7d537b8e8fdc27644180dbbad1593f0,4,Sail Away - Digitalism Remix,The Rapture,0.934
+e7d537b8e8fdc27644180dbbad1593f0,5,Lighthouse,Fantasia,0.934
+e7d537b8e8fdc27644180dbbad1593f0,6,Clique,Kanye West,0.926
+e7d537b8e8fdc27644180dbbad1593f0,7,Clique,Kanye West,0.926
+e7d537b8e8fdc27644180dbbad1593f0,8,Clique,Kanye West,0.926
+e7d537b8e8fdc27644180dbbad1593f0,9,Clique,Kanye West,0.926
+e7d537b8e8fdc27644180dbbad1593f0,10,We Have Invisible Friends - Washed Mix,Eskmo,0.925
+5d5e2764ce815ae76a356e4c86fac37a,1,Phil,Mitch Hedberg,0.969
+5d5e2764ce815ae76a356e4c86fac37a,2,Good Guy,Anthony Jeselnik,0.967
+5d5e2764ce815ae76a356e4c86fac37a,3,Restaurants,Mitch Hedberg,0.967
+5d5e2764ce815ae76a356e4c86fac37a,4,Headless Horseman,Mitch Hedberg,0.966
+5d5e2764ce815ae76a356e4c86fac37a,5,Bad Dates,Anthony Jeselnik,0.965
+5d5e2764ce815ae76a356e4c86fac37a,6,Belt,Mitch Hedberg,0.965
+5d5e2764ce815ae76a356e4c86fac37a,7,Mother,Anthony Jeselnik,0.964
+5d5e2764ce815ae76a356e4c86fac37a,8,Hotels And Beds,Mitch Hedberg,0.963
+5d5e2764ce815ae76a356e4c86fac37a,9,Door Deal,Mitch Hedberg,0.962
+5d5e2764ce815ae76a356e4c86fac37a,10,Gorillaz Are Ten - Spotify Radio Show 1 (7),Gorillaz,0.961
+be59058141e74704b56297b88bc22cf2,1,Pedestal,Beth Orton,0.993
+be59058141e74704b56297b88bc22cf2,2,Out Of My Hands,Milow,0.992
+be59058141e74704b56297b88bc22cf2,3,Honey Honey,Feist,0.99
+be59058141e74704b56297b88bc22cf2,4,Dust On The Ground,Bombay Bicycle Club,0.989
+be59058141e74704b56297b88bc22cf2,5,The Rainbow Connection,Willie Nelson,0.989
+be59058141e74704b56297b88bc22cf2,6,Agarrate A Mi Maria,Los Secretos,0.987
+be59058141e74704b56297b88bc22cf2,7,The Son Never Shines (On Closed Doors),Flogging Molly,0.986
+be59058141e74704b56297b88bc22cf2,8,Play Crack the Sky,Brand New,0.986
+be59058141e74704b56297b88bc22cf2,9,Play Crack the Sky,Brand New,0.986
+be59058141e74704b56297b88bc22cf2,10,Båda Sidor Nu,Håkan Hellström,0.986
+7c0c7c7d77f21337f67dbec8ea833c5b,1,The Night - Alisson & Turner Remix,Alex B. Groove,0.977
+7c0c7c7d77f21337f67dbec8ea833c5b,2,Rotten,Oliver Huntemann,0.975
+7c0c7c7d77f21337f67dbec8ea833c5b,3,Margie's Groove,Kate Simko,0.967
+7c0c7c7d77f21337f67dbec8ea833c5b,4,Shanghai Spinner,Oliver Huntemann,0.964
+7c0c7c7d77f21337f67dbec8ea833c5b,5,Ediolic Spectra,Max Cooper,0.958
+7c0c7c7d77f21337f67dbec8ea833c5b,6,Team,Bon Iver,0.956
+7c0c7c7d77f21337f67dbec8ea833c5b,7,Namaste - Ramon Tapia Tuff Tuff Remix,Monika Kruse,0.955
+7c0c7c7d77f21337f67dbec8ea833c5b,8,Dans Mes Reves,Desire,0.953
+7c0c7c7d77f21337f67dbec8ea833c5b,9,Atmosphrique,Metro Area,0.953
+7c0c7c7d77f21337f67dbec8ea833c5b,10,North American Scum - Onanistic Dub Mix By James Murphy And Eric Broucek,LCD Soundsystem,0.952
+3150b54e50bec97d7a7367f3c45fadb9,1,Vigilante Man,Woody Guthrie,0.964
+3150b54e50bec97d7a7367f3c45fadb9,2,The Song Of Solomon,Kate Bush,0.958
+3150b54e50bec97d7a7367f3c45fadb9,3,Wonderful Tonight,Eric Clapton,0.956
+3150b54e50bec97d7a7367f3c45fadb9,4,Wonderful Tonight,Eric Clapton,0.956
+3150b54e50bec97d7a7367f3c45fadb9,5,The Three Butchers,Pete Seeger,0.956
+3150b54e50bec97d7a7367f3c45fadb9,6,"Corrina, Corrina",Bob Dylan,0.954
+3150b54e50bec97d7a7367f3c45fadb9,7,Nice 'N' Easy,Frank Sinatra,0.952
+3150b54e50bec97d7a7367f3c45fadb9,8,North Country Blues,Bob Dylan,0.95
+3150b54e50bec97d7a7367f3c45fadb9,9,Dos Gardenias,Buena Vista Social Club,0.949
+3150b54e50bec97d7a7367f3c45fadb9,10,Rake and the Rambling Boy,Hedy West,0.948
+b59aea2c50d6bf5f4cb78019b723a801,1,You Are My King (Amazing Love),"Phillips, Craig & Dean",0.949
+b59aea2c50d6bf5f4cb78019b723a801,2,City Of Blinding Lights,U2,0.943
+b59aea2c50d6bf5f4cb78019b723a801,3,Neon Sky,Starsailor,0.941
+b59aea2c50d6bf5f4cb78019b723a801,4,Tighter,Fitz and The Tantrums,0.939
+b59aea2c50d6bf5f4cb78019b723a801,5,Little Miss,Sugarland,0.939
+b59aea2c50d6bf5f4cb78019b723a801,6,Still Fighting It,Ben Folds,0.937
+b59aea2c50d6bf5f4cb78019b723a801,7,Need Your Heart (feat. Kai),Adventure Club,0.937
+b59aea2c50d6bf5f4cb78019b723a801,8,After the Fall,Kodaline,0.934
+b59aea2c50d6bf5f4cb78019b723a801,9,After the Fall,Kodaline,0.934
+b59aea2c50d6bf5f4cb78019b723a801,10,Fly Away From Here,Aerosmith,0.934
+1d178f45f11578f1f1568ad4ba2b9552,1,La Banlieue,Beirut,0.957
+1d178f45f11578f1f1568ad4ba2b9552,2,California Dreamin',Bobby Womack,0.953
+1d178f45f11578f1f1568ad4ba2b9552,3,Charles Giteau,Kelly Harrell,0.947
+1d178f45f11578f1f1568ad4ba2b9552,4,"Let It Snow, Let It Snow, Let It Snow - Let It Snow, Let It Snow, Let It Snow",Dean Martin,0.946
+1d178f45f11578f1f1568ad4ba2b9552,5,The Gallis Pole,Lead Belly,0.945
+1d178f45f11578f1f1568ad4ba2b9552,6,Bronte,Gotye,0.945
+1d178f45f11578f1f1568ad4ba2b9552,7,Bronte,Gotye,0.945
+1d178f45f11578f1f1568ad4ba2b9552,8,Bronte,Gotye,0.945
+1d178f45f11578f1f1568ad4ba2b9552,9,Lee Tharin's Bar Room,Hedy West,0.944
+1d178f45f11578f1f1568ad4ba2b9552,10,Rudolph The Red Nosed Reindeer - Rudolph The Red Nosed Reindeer,Dean Martin,0.938
+1795532867539488b1f3285065221ac9,1,Crash and Burn,Savage Garden,0.933
+1795532867539488b1f3285065221ac9,2,Footballer's Wife,Amy Macdonald,0.918
+1795532867539488b1f3285065221ac9,3,Naked Kids,Grouplove,0.918
+1795532867539488b1f3285065221ac9,4,Do They Know It's Christmas? - 1984 Version,Band Aid,0.914
+1795532867539488b1f3285065221ac9,5,Do They Know It's Christmas?,Band Aid,0.914
+1795532867539488b1f3285065221ac9,6,Still loving you,The Scorpions,0.908
+1795532867539488b1f3285065221ac9,7,Window Blues,Band of Horses,0.903
+1795532867539488b1f3285065221ac9,8,Handcuffs,Brand New,0.902
+1795532867539488b1f3285065221ac9,9,Against All Odds (Take A Look At Me Now),Phil Collins,0.898
+1795532867539488b1f3285065221ac9,10,Against All Odds (Take A Look At Me Now),Phil Collins,0.898
+1dc9bfaf8e471651214720b654e7263f,1,Mai's Theme 2,Onra,0.889
+1dc9bfaf8e471651214720b654e7263f,2,Mai's Theme,Onra,0.889
+1dc9bfaf8e471651214720b654e7263f,3,Last Day Of Our Love,the bird and the bee,0.862
+1dc9bfaf8e471651214720b654e7263f,4,Broken Strings,No Comment A Cappella,0.844
+1dc9bfaf8e471651214720b654e7263f,5,Tender Things,Bill Withers,0.84
+1dc9bfaf8e471651214720b654e7263f,6,Seasons,Major League,0.839
+1dc9bfaf8e471651214720b654e7263f,7,Hero Of War,Rise Against,0.839
+1dc9bfaf8e471651214720b654e7263f,8,Hero Of War,Rise Against,0.839
+1dc9bfaf8e471651214720b654e7263f,9,White Rabbit,Mayssa Karaa,0.838
+1dc9bfaf8e471651214720b654e7263f,10,White Rabbit,Mayssa Karaa,0.838
+b7a99996479aa7a3325e1bcb1ea416da,1,Animals,Bonobo,0.958
+b7a99996479aa7a3325e1bcb1ea416da,2,Sense Of Doubt - Live; 2005 Remastered Version,David Bowie,0.949
+b7a99996479aa7a3325e1bcb1ea416da,3,The Dam At Otter Creek,Live,0.94
+b7a99996479aa7a3325e1bcb1ea416da,4,"Magnets, Pt. 1",Slothrust,0.92
+b7a99996479aa7a3325e1bcb1ea416da,5,Belfunk,Sasha,0.918
+b7a99996479aa7a3325e1bcb1ea416da,6,The Beginning Of The End,Rob Zombie,0.916
+b7a99996479aa7a3325e1bcb1ea416da,7,Mushroom - Live,Can,0.915
+b7a99996479aa7a3325e1bcb1ea416da,8,Dark Phoenix's Tragedy,John Powell,0.912
+b7a99996479aa7a3325e1bcb1ea416da,9,Breathe Me,Sia,0.91
+b7a99996479aa7a3325e1bcb1ea416da,10,Breathe Me - Live,Sia,0.91
+191b74d18876c9ac495d7ca8eeaac6fb,1,Wrong Side of the Street,Bruce Springsteen,0.958
+191b74d18876c9ac495d7ca8eeaac6fb,2,Desire Lines,Deerhunter,0.943
+191b74d18876c9ac495d7ca8eeaac6fb,3,Desire Lines,Deerhunter,0.943
+191b74d18876c9ac495d7ca8eeaac6fb,4,Long Summer Days,EMF,0.939
+191b74d18876c9ac495d7ca8eeaac6fb,5,Lion In A Coma,Animal Collective,0.934
+191b74d18876c9ac495d7ca8eeaac6fb,6,Truth,Bloc Party,0.923
+191b74d18876c9ac495d7ca8eeaac6fb,7,Let's Dance To Joy Division,The Wombats,0.921
+191b74d18876c9ac495d7ca8eeaac6fb,8,Honky Tonk Blues - Live,The Kentucky Headhunters,0.917
+191b74d18876c9ac495d7ca8eeaac6fb,9,Bad Timing,Bombay Bicycle Club,0.917
+191b74d18876c9ac495d7ca8eeaac6fb,10,Bad Timing,Bombay Bicycle Club,0.917
+1ab40bafcea4893d110cc04ebb605946,1,...A Dish Best Served Coldly,Type O Negative,0.97
+1ab40bafcea4893d110cc04ebb605946,2,Austerity Blues,Silver Mt Zion,0.946
+1ab40bafcea4893d110cc04ebb605946,3,Find That Man - Live in Studio Underjord,Dead Soul,0.939
+1ab40bafcea4893d110cc04ebb605946,4,Wires,Red Fang,0.935
+1ab40bafcea4893d110cc04ebb605946,5,Glue Man,Fugazi,0.933
+1ab40bafcea4893d110cc04ebb605946,6,Hang Out,Thurston Moore,0.93
+1ab40bafcea4893d110cc04ebb605946,7,Pacific Coast Highway,Sonic Youth,0.93
+1ab40bafcea4893d110cc04ebb605946,8,Artificial Nocturne,Metric,0.908
+1ab40bafcea4893d110cc04ebb605946,9,7-Hour-Drive,The Notwist,0.904
+1ab40bafcea4893d110cc04ebb605946,10,The Mob Rules,Black Sabbath,0.902
+43a3952ebe8087124196137c971fa75a,1,Te He De Querer Mientras Viva,Paco De Lucia,0.973
+43a3952ebe8087124196137c971fa75a,2,"Gnè, Gnè",Giorgio Conte,0.968
+43a3952ebe8087124196137c971fa75a,3,Headlock,Imogen Heap,0.964
+43a3952ebe8087124196137c971fa75a,4,Don't,Phoenix,0.962
+43a3952ebe8087124196137c971fa75a,5,Vissen (Duet Piet Römer),Andre Hazes,0.961
+43a3952ebe8087124196137c971fa75a,6,Under The Boardwalk,The Drifters,0.953
+43a3952ebe8087124196137c971fa75a,7,Under The Boardwalk,The Drifters,0.953
+43a3952ebe8087124196137c971fa75a,8,Christmas Is A-Comin',Bing Crosby,0.951
+43a3952ebe8087124196137c971fa75a,9,A Marshmallow World,Bing Crosby,0.949
+43a3952ebe8087124196137c971fa75a,10,Love Is The Drug,Bryan Ferry,0.949
+e100486b01f2272e7ff597986c0d2161,1,Kaputt,Destroyer,0.897
+e100486b01f2272e7ff597986c0d2161,2,Careful,Karl Kling,0.887
+e100486b01f2272e7ff597986c0d2161,3,Cool Runnings - Original Mix,Perseus,0.823
+e100486b01f2272e7ff597986c0d2161,4,Xerses,Apostle Of Hustle,0.819
+e100486b01f2272e7ff597986c0d2161,5,C.S. - Autodafeh Mix,Diffuzion,0.812
+e100486b01f2272e7ff597986c0d2161,6,Break It Down Again,Tears For Fears,0.802
+e100486b01f2272e7ff597986c0d2161,7,President,FM Belfast,0.795
+e100486b01f2272e7ff597986c0d2161,8,Silhouettes,Gomez,0.781
+e100486b01f2272e7ff597986c0d2161,9,Hold On When You Get Love and Let Go When You Give It,Stars,0.78
+e100486b01f2272e7ff597986c0d2161,10,Soul Vibration,J-Walk,0.767
+38eb18e995a89b2de86351aa77ea550b,1,Dust It Off,The Dø,0.943
+38eb18e995a89b2de86351aa77ea550b,2,Aeon Of Aquarius Blues,Cass McCombs,0.938
+38eb18e995a89b2de86351aa77ea550b,3,Aeon Of Aquarius Blues,Cass McCombs,0.938
+38eb18e995a89b2de86351aa77ea550b,4,Alaskans,Volcano Choir,0.937
+38eb18e995a89b2de86351aa77ea550b,5,County Line,Cass McCombs,0.934
+38eb18e995a89b2de86351aa77ea550b,6,Fear Is Like Fire - Spotify Exclusive,Fink,0.933
+38eb18e995a89b2de86351aa77ea550b,7,Fear Is Like Fire - Spotify Exclusive,Fink,0.933
+38eb18e995a89b2de86351aa77ea550b,8,And Before The First Kiss,The Field Mice,0.933
+38eb18e995a89b2de86351aa77ea550b,9,Över sundet,Thåström,0.932
+38eb18e995a89b2de86351aa77ea550b,10,3 Speed,Eels,0.932
+f65b94ec7a3465012c0cf5b3cf64cbdf,1,Monday,Ludovico Einaudi,0.997
+f65b94ec7a3465012c0cf5b3cf64cbdf,2,Point Zero,Yann Tiersen,0.996
+f65b94ec7a3465012c0cf5b3cf64cbdf,3,"6 Etudes d'exécution transcendante d'après Paganini, S.140: 6. Thème et variations",Franz Liszt,0.995
+f65b94ec7a3465012c0cf5b3cf64cbdf,4,Beast,Karen O,0.995
+f65b94ec7a3465012c0cf5b3cf64cbdf,5,"12 Etudes dans les tons mineurs, Op. 39: No. 12. Le festin d'Esope",Charles-Valentin Alkan,0.994
+f65b94ec7a3465012c0cf5b3cf64cbdf,6,"12 Grandes Etudes, S137/R2a: No. 3 in F Major: Poco adagio",Franz Liszt,0.994
+f65b94ec7a3465012c0cf5b3cf64cbdf,7,Cäcilie,Richard Strauss,0.994
+f65b94ec7a3465012c0cf5b3cf64cbdf,8,Bolero of Fire,The St. Louis Ocarina Trio,0.993
+f65b94ec7a3465012c0cf5b3cf64cbdf,9,"Symphony No. 7 in A Major, Op. 92: III. Presto – Assai meno presto",Ludwig van Beethoven,0.992
+f65b94ec7a3465012c0cf5b3cf64cbdf,10,Cancion De Amor - Instrumental,Paco De Lucia,0.992
